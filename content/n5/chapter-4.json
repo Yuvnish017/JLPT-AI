@@ -1,0 +1,1219 @@
+{
+    "title": "Grammar and Reading Practice 2: Te-form, Giving and Receiving, Requests, and Conjunctions",
+    "jlpt": "N5",
+    "chapter": 4,
+    "vocabulary": [
+      {
+        "word": "なにか",
+        "reading": "なにか",
+        "meaning": "something"
+      },
+      {
+        "word": "どこか",
+        "reading": "どこか",
+        "meaning": "somewhere"
+      },
+      {
+        "word": "だれか",
+        "reading": "だれか",
+        "meaning": "someone"
+      },
+      {
+        "word": "いつか",
+        "reading": "いつか",
+        "meaning": "sometime"
+      },
+      {
+        "word": "だれも〜ません",
+        "reading": "だれも〜ません",
+        "meaning": "no one ~ (negative)"
+      },
+      {
+        "word": "どこ(へ/に)も〜ません",
+        "reading": "どこ(へ/に)も〜ません",
+        "meaning": "nowhere / not anywhere (negative)"
+      },
+      {
+        "word": "なにも〜ません",
+        "reading": "なにも〜ません",
+        "meaning": "nothing / not anything (negative)"
+      },
+      {
+        "word": "なんでも",
+        "reading": "なんでも",
+        "meaning": "anything"
+      },
+      {
+        "word": "どれでも",
+        "reading": "どれでも",
+        "meaning": "any one (of them)"
+      },
+      {
+        "word": "だれでも",
+        "reading": "だれでも",
+        "meaning": "anyone, anybody"
+      },
+      {
+        "word": "いつでも",
+        "reading": "いつでも",
+        "meaning": "anytime"
+      },
+      {
+        "word": "どこでも",
+        "reading": "どこでも",
+        "meaning": "anywhere"
+      },
+      {
+        "word": "どうですか",
+        "reading": "どうですか",
+        "meaning": "how is it? / how about?"
+      },
+      {
+        "word": "いかがですか",
+        "reading": "いかがですか",
+        "meaning": "how is it? (polite) / would you like?"
+      },
+      {
+        "word": "どうでしたか",
+        "reading": "どうでしたか",
+        "meaning": "how was it?"
+      },
+      {
+        "word": "それから",
+        "reading": "それから",
+        "meaning": "and then, after that"
+      },
+      {
+        "word": "そして",
+        "reading": "そして",
+        "meaning": "and then, and also"
+      },
+      {
+        "word": "それでは／では",
+        "reading": "それでは／では",
+        "meaning": "well then, in that case"
+      },
+      {
+        "word": "それじゃ／じゃ",
+        "reading": "それじゃ／じゃ",
+        "meaning": "well then (casual)"
+      },
+      {
+        "word": "だから",
+        "reading": "だから",
+        "meaning": "therefore, so"
+      },
+      {
+        "word": "けれど(も)",
+        "reading": "けれど(も)",
+        "meaning": "but, however"
+      },
+      {
+        "word": "でも",
+        "reading": "でも",
+        "meaning": "but, however"
+      },
+      {
+        "word": "しかし",
+        "reading": "しかし",
+        "meaning": "however (formal)"
+      },
+      {
+        "word": "もらいます",
+        "reading": "もらいます",
+        "meaning": "to receive"
+      },
+      {
+        "word": "くれます",
+        "reading": "くれます",
+        "meaning": "to give (to me/us)"
+      },
+      {
+        "word": "あげます",
+        "reading": "あげます",
+        "meaning": "to give (to someone else)"
+      },
+      {
+        "word": "かります",
+        "reading": "かります",
+        "meaning": "to borrow"
+      },
+      {
+        "word": "かえします",
+        "reading": "かえします",
+        "meaning": "to return (something)"
+      },
+      {
+        "word": "もちます",
+        "reading": "もちます",
+        "meaning": "to hold, to carry, to have"
+      },
+      {
+        "word": "てつだいます",
+        "reading": "てつだいます",
+        "meaning": "to help, to assist"
+      },
+      {
+        "word": "ならいます",
+        "reading": "ならいます",
+        "meaning": "to learn (from a teacher)"
+      },
+      {
+        "word": "たすけます",
+        "reading": "たすけます",
+        "meaning": "to save, to rescue"
+      },
+      {
+        "word": "とめます",
+        "reading": "とめます",
+        "meaning": "to stop (something)"
+      },
+      {
+        "word": "ほしいです",
+        "reading": "ほしいです",
+        "meaning": "want (something)"
+      },
+      {
+        "word": "ほしかったです",
+        "reading": "ほしかったです",
+        "meaning": "wanted (something)"
+      },
+      {
+        "word": "ほしくないです",
+        "reading": "ほしくないです",
+        "meaning": "don't want (something)"
+      },
+      {
+        "word": "〜たいです",
+        "reading": "〜たいです",
+        "meaning": "want to do ~ (verb stem + たい)"
+      },
+      {
+        "word": "〜たかったです",
+        "reading": "〜たかったです",
+        "meaning": "wanted to do ~ (past)"
+      },
+      {
+        "word": "〜たくないです",
+        "reading": "〜たくないです",
+        "meaning": "don't want to do ~"
+      },
+      {
+        "word": "〜てください",
+        "reading": "〜てください",
+        "meaning": "please do ~ (request)"
+      },
+      {
+        "word": "〜ないでください",
+        "reading": "〜ないでください",
+        "meaning": "please don't do ~ (negative request)"
+      },
+      {
+        "word": "〜ています",
+        "reading": "〜ています",
+        "meaning": "is doing ~; is in a state of ~"
+      },
+      {
+        "word": "〜てから",
+        "reading": "〜てから",
+        "meaning": "after doing ~"
+      },
+      {
+        "word": "〜ましょう",
+        "reading": "〜ましょう",
+        "meaning": "let's do ~ (suggestion/invitation)"
+      },
+      {
+        "word": "〜ましょうか",
+        "reading": "〜ましょうか",
+        "meaning": "shall we ~? / shall I ~?"
+      },
+      {
+        "word": "〜ませんか",
+        "reading": "〜ませんか",
+        "meaning": "why don't we ~? (invitation)"
+      },
+      {
+        "word": "〜から",
+        "reading": "〜から",
+        "meaning": "because ~ (reason)"
+      },
+      {
+        "word": "〜からです",
+        "reading": "〜からです",
+        "meaning": "it's because ~"
+      },
+      {
+        "word": "〜けど／けれど(も)",
+        "reading": "〜けど／けれど(も)",
+        "meaning": "but ~ / although ~"
+      },
+      {
+        "word": "〜が",
+        "reading": "〜が",
+        "meaning": "but ~ (softer contrast)"
+      },
+      {
+        "word": "ね",
+        "reading": "ね",
+        "meaning": "isn't it? / right? (seeking agreement)"
+      },
+      {
+        "word": "ねえ",
+        "reading": "ねえ",
+        "meaning": "isn't it! (stronger emphasis)"
+      },
+      {
+        "word": "よ",
+        "reading": "よ",
+        "meaning": "I tell you / you know (informing/asserting)"
+      },
+      {
+        "word": "セーター",
+        "reading": "セーター",
+        "meaning": "sweater"
+      },
+      {
+        "word": "スカート",
+        "reading": "スカート",
+        "meaning": "skirt"
+      },
+      {
+        "word": "ふく",
+        "reading": "ふく",
+        "meaning": "clothes"
+      },
+      {
+        "word": "チョコレート",
+        "reading": "チョコレート",
+        "meaning": "chocolate"
+      },
+      {
+        "word": "バラ",
+        "reading": "バラ",
+        "meaning": "rose"
+      },
+      {
+        "word": "さいふ",
+        "reading": "さいふ",
+        "meaning": "wallet, purse"
+      },
+      {
+        "word": "ステーキ",
+        "reading": "ステーキ",
+        "meaning": "steak"
+      },
+      {
+        "word": "ラーメン",
+        "reading": "ラーメン",
+        "meaning": "ramen noodles"
+      },
+      {
+        "word": "りょうり",
+        "reading": "りょうり",
+        "meaning": "cooking, cuisine, dish"
+      },
+      {
+        "word": "おちゃのかい",
+        "reading": "おちゃのかい",
+        "meaning": "tea ceremony party"
+      },
+      {
+        "word": "きもの",
+        "reading": "きもの",
+        "meaning": "kimono"
+      },
+      {
+        "word": "ニュース",
+        "reading": "ニュース",
+        "meaning": "news"
+      },
+      {
+        "word": "かじ",
+        "reading": "かじ",
+        "meaning": "fire (disaster)"
+      },
+      {
+        "word": "じこ",
+        "reading": "じこ",
+        "meaning": "accident"
+      },
+      {
+        "word": "けが",
+        "reading": "けが",
+        "meaning": "injury, wound"
+      },
+      {
+        "word": "ゆめ",
+        "reading": "ゆめ",
+        "meaning": "dream"
+      },
+      {
+        "word": "バイト",
+        "reading": "バイト",
+        "meaning": "part-time job"
+      },
+      {
+        "word": "インターネット",
+        "reading": "インターネット",
+        "meaning": "internet"
+      },
+      {
+        "word": "スーパー",
+        "reading": "スーパー",
+        "meaning": "supermarket"
+      },
+      {
+        "word": "エスカレーター",
+        "reading": "エスカレーター",
+        "meaning": "escalator"
+      },
+      {
+        "word": "マンション",
+        "reading": "マンション",
+        "meaning": "apartment building, condo"
+      },
+      {
+        "word": "カラオケ",
+        "reading": "カラオケ",
+        "meaning": "karaoke"
+      },
+      {
+        "word": "ヒーター",
+        "reading": "ヒーター",
+        "meaning": "heater"
+      },
+      {
+        "word": "カフェ",
+        "reading": "カフェ",
+        "meaning": "café"
+      },
+      {
+        "word": "デパート",
+        "reading": "デパート",
+        "meaning": "department store"
+      },
+      {
+        "word": "じゅぎょう",
+        "reading": "じゅぎょう",
+        "meaning": "class, lesson"
+      },
+      {
+        "word": "さんぽ",
+        "reading": "さんぽ",
+        "meaning": "walk, stroll"
+      },
+      {
+        "word": "さんぽする",
+        "reading": "さんぽする",
+        "meaning": "to take a walk"
+      },
+      {
+        "word": "かいぎ",
+        "reading": "かいぎ",
+        "meaning": "meeting, conference"
+      },
+      {
+        "word": "ひく",
+        "reading": "ひく",
+        "meaning": "to play (piano/string instrument)"
+      },
+      {
+        "word": "うたう",
+        "reading": "うたう",
+        "meaning": "to sing"
+      },
+      {
+        "word": "あらう",
+        "reading": "あらう",
+        "meaning": "to wash"
+      },
+      {
+        "word": "みがく",
+        "reading": "みがく",
+        "meaning": "to brush (teeth)"
+      },
+      {
+        "word": "かえる",
+        "reading": "かえる",
+        "meaning": "to return home"
+      },
+      {
+        "word": "よわい",
+        "reading": "よわい",
+        "meaning": "weak"
+      },
+      {
+        "word": "からだ",
+        "reading": "からだ",
+        "meaning": "body"
+      },
+      {
+        "word": "あたま",
+        "reading": "あたま",
+        "meaning": "head"
+      },
+      {
+        "word": "いたい",
+        "reading": "いたい",
+        "meaning": "painful, it hurts"
+      },
+      {
+        "word": "つかれる",
+        "reading": "つかれる",
+        "meaning": "to get tired"
+      },
+      {
+        "word": "はじめて",
+        "reading": "はじめて",
+        "meaning": "for the first time"
+      },
+      {
+        "word": "にんじん",
+        "reading": "にんじん",
+        "meaning": "carrot"
+      },
+      {
+        "word": "おとといい",
+        "reading": "おととい",
+        "meaning": "the day before yesterday"
+      },
+      {
+        "word": "すぐ",
+        "reading": "すぐ",
+        "meaning": "right away, immediately"
+      },
+      {
+        "word": "このごろ",
+        "reading": "このごろ",
+        "meaning": "these days, lately"
+      },
+      {
+        "word": "なんども",
+        "reading": "なんども",
+        "meaning": "many times, again and again"
+      },
+      {
+        "word": "どうしますか",
+        "reading": "どうしますか",
+        "meaning": "what will you do?"
+      },
+      {
+        "word": "これから",
+        "reading": "これから",
+        "meaning": "from now on"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "疑問詞 + か / 疑問詞 + も〜ない / 疑問詞 + でも",
+        "meaning": "Question words combine with か (some~), も+negative (no~/not any~), and でも (any~/every~) to form indefinite and universal pronouns.",
+        "example": "なにか 食べましょう。(Let's eat something.) ／ なにも 食べませんでした。(I didn't eat anything.) ／ なんでも 食べます。(I eat anything.)"
+      },
+      {
+        "pattern": "どうですか / いかがですか",
+        "meaning": "Used to ask how something is, or to politely offer/suggest something. いかがですか is the more polite form of どうですか.",
+        "example": "コーヒーは いかがですか。(Would you like some coffee?) ／ 旅行は どうでしたか。(How was the trip?)"
+      },
+      {
+        "pattern": "い形容詞・な形容詞 の て形 (te-form of adjectives for listing)",
+        "meaning": "い-adjectives use 〜くて to connect clauses. な-adjectives and nouns use 〜で. Used to list properties or actions in sequence.",
+        "example": "安くて、おいしいです。(It's cheap and delicious.) ／ 先生は きれいで、やさしいです。(The teacher is pretty and kind.)"
+      },
+      {
+        "pattern": "Vて形 (verb te-form) — sequential actions",
+        "meaning": "The te-form connects verbs to describe actions done in sequence. It can also indicate manner or means of doing something.",
+        "example": "おきて、あさごはんを 食べて、さんぽに 行きます。(I get up, eat breakfast, and go for a walk.)"
+      },
+      {
+        "pattern": "〜てから (after doing ~)",
+        "meaning": "Attaches to the te-form of a verb to indicate that the following action happens AFTER the first is completed.",
+        "example": "手を あらってから ごはんを 食べましょう。(Let's eat after washing our hands.)"
+      },
+      {
+        "pattern": "N が ほしいです / V たいです (want)",
+        "meaning": "ほしいです expresses desire for a thing (noun + が). たいです attaches to the verb stem to express desire to do an action. Both conjugate like い-adjectives for past and negative.",
+        "example": "じてんしゃが ほしいです。(I want a bicycle.) ／ ステーキが 食べたいです。(I want to eat steak.)"
+      },
+      {
+        "pattern": "〜てください / 〜ないでください (requests)",
+        "meaning": "てください asks someone to do something (please do ~). ないでください asks someone NOT to do something (please don't ~).",
+        "example": "ちょっと まって ください。(Please wait a moment.) ／ ペンで 書かないで ください。(Please don't write with a pen.)"
+      },
+      {
+        "pattern": "もらいます / くれます / あげます (giving and receiving)",
+        "meaning": "もらいます = speaker receives from someone. くれます = someone gives to the speaker (or speaker's in-group). あげます = speaker/someone gives to another person. Direction of giving/receiving determines the verb.",
+        "example": "友だちに 本を もらいました。(I received a book from my friend.) ／ 友だちが チョコレートを くれました。(My friend gave me chocolate.) ／ いもうとに スカートを あげます。(I will give my sister a skirt.)"
+      },
+      {
+        "pattern": "〜ましょう / 〜ましょうか / 〜ませんか (invitation and suggestion)",
+        "meaning": "ましょう = let's ~ (speaker proposes). ましょうか = shall we ~? / shall I ~? (softer proposal). ませんか = why don't we ~? (polite invitation).",
+        "example": "いっしょに 行きましょう。(Let's go together.) ／ てつだいましょうか。(Shall I help?) ／ いっしょに えいがを 見ませんか。(Why don't we watch a movie together?)"
+      },
+      {
+        "pattern": "〜から (because) / だから (therefore) / 〜けれど(も)・が・でも (but)",
+        "meaning": "から attaches to a plain or polite verb/adjective to give a reason (because). だから means 'therefore/so' at the start of a clause. けれど(も)、が、でも all mean 'but/however' with varying formality (でも most casual, しかし most formal).",
+        "example": "時間が ないから、いそぎましょう。(Let's hurry because there's no time.) ／ テストが あるからです。(It's because there's a test.) ／ べんきょうしたけれど、テストは できませんでした。(I studied, but I didn't do well on the test.)"
+      },
+      {
+        "pattern": "修飾節 — noun modification with plain-form verb/adjective",
+        "meaning": "In Japanese, modifying clauses come BEFORE the noun they modify, using the plain form. This works for verbs, い-adjectives, and な-adjectives (without な in plain form).",
+        "example": "クラスで つかう 本です。(This is a book I use in class.) ／ 安くて おいしい レストランが あります。(There is a cheap and good restaurant.) ／ 田中さんが はたらいている 会社。(The company where Tanaka-san works.)"
+      },
+      {
+        "pattern": "文末表現 — ね・ねえ / よ (sentence-final particles)",
+        "meaning": "ね / ねえ seeks agreement or expresses shared feeling ('isn't it?', 'right?'). よ informs the listener of something or asserts with confidence ('I'm telling you', 'you know').",
+        "example": "毎日 あついですね。(It's hot every day, isn't it.) ／ テストは あしたですよ。(The test is tomorrow, you know.)"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "「なにか 食べましょう」の「なにか」は えいごで なんですか。",
+        "options": [
+          "nothing",
+          "anything",
+          "something",
+          "everything"
+        ],
+        "answer": "something"
+      },
+      {
+        "question": "「きのうは どこへも 行きませんでした」は えいごで なんですか。",
+        "options": [
+          "I went somewhere yesterday.",
+          "I didn't go anywhere yesterday.",
+          "I went everywhere yesterday.",
+          "I want to go somewhere."
+        ],
+        "answer": "I didn't go anywhere yesterday."
+      },
+      {
+        "question": "「コーヒーは いかがですか」— 「いかがですか」は どんな いみですか。",
+        "options": [
+          "How much is it?",
+          "Would you like some? / How is it? (polite)",
+          "Do you want to go?",
+          "Where is it?"
+        ],
+        "answer": "Would you like some? / How is it? (polite)"
+      },
+      {
+        "question": "「安くて、おいしいです」— 「くて」は なにを あらわしますか。",
+        "options": [
+          "because",
+          "but",
+          "and (listing adjectives)",
+          "or"
+        ],
+        "answer": "and (listing adjectives)"
+      },
+      {
+        "question": "「手を あらってから ごはんを 食べます」の「てから」は えいごで なんですか。",
+        "options": [
+          "while doing",
+          "before doing",
+          "without doing",
+          "after doing"
+        ],
+        "answer": "after doing"
+      },
+      {
+        "question": "「じてんしゃが ほしいです」は えいごで なんですか。",
+        "options": [
+          "I have a bicycle.",
+          "I want a bicycle.",
+          "I bought a bicycle.",
+          "I ride a bicycle."
+        ],
+        "answer": "I want a bicycle."
+      },
+      {
+        "question": "「ピアノを ひきたいです」の「たい」は なにを あらわしますか。",
+        "options": [
+          "can do ~",
+          "want to do ~",
+          "must do ~",
+          "will do ~"
+        ],
+        "answer": "want to do ~"
+      },
+      {
+        "question": "「ペンで 書かないで ください」は えいごで なんですか。",
+        "options": [
+          "Please write with a pen.",
+          "Please don't write with a pen.",
+          "I wrote with a pen.",
+          "Shall I write with a pen?"
+        ],
+        "answer": "Please write with a pen. → INCORRECT — correct answer: Please don't write with a pen."
+      },
+      {
+        "question": "「友だちが チョコレートを くれました」— だれが チョコレートを あげましたか。",
+        "options": [
+          "わたし",
+          "友だち",
+          "先生",
+          "おかあさん"
+        ],
+        "answer": "友だち"
+      },
+      {
+        "question": "「父から とけいを もらいました」は えいごで なんですか。",
+        "options": [
+          "I gave a watch to my father.",
+          "My father received a watch.",
+          "I received a watch from my father.",
+          "My father wants a watch."
+        ],
+        "answer": "I received a watch from my father."
+      },
+      {
+        "question": "「いっしょに えいがを 見ませんか」— これは なにを しますか。",
+        "options": [
+          "命令 (order)",
+          "さそい (invitation)",
+          "ひていのいらい (negative request)",
+          "しつもん (question)"
+        ],
+        "answer": "さそい (invitation)"
+      },
+      {
+        "question": "「時間が ないから、いそぎましょう」の「から」は なにを あらわしますか。",
+        "options": [
+          "from",
+          "but",
+          "because",
+          "until"
+        ],
+        "answer": "because"
+      },
+      {
+        "question": "「べんきょうしたけれど、テストは できませんでした」の「けれど」は えいごで なんですか。",
+        "options": [
+          "because",
+          "therefore",
+          "and then",
+          "but"
+        ],
+        "answer": "but"
+      },
+      {
+        "question": "「クラスで つかう 本です」— 「つかう」は ここで どのように つかわれていますか。",
+        "options": [
+          "verb ending a sentence",
+          "verb modifying a noun (before 本)",
+          "te-form connecting clauses",
+          "negative form"
+        ],
+        "answer": "verb modifying a noun (before 本)"
+      },
+      {
+        "question": "「毎日 あついですね」の「ね」は なにを あらわしますか。",
+        "options": [
+          "informing the listener of a new fact",
+          "seeking agreement or sharing a feeling",
+          "negative question",
+          "polite refusal"
+        ],
+        "answer": "seeking agreement or sharing a feeling"
+      }
+    ],
+    "kanji": [
+      {
+        "character": "帰",
+        "onyomi": [
+          "キ"
+        ],
+        "kunyomi": [
+          "かえ(-る)"
+        ],
+        "meaning": "return home",
+        "examples": [
+          {
+            "word": "帰る",
+            "reading": "かえる",
+            "meaning": "to return home"
+          },
+          {
+            "word": "帰って",
+            "reading": "かえって",
+            "meaning": "returning home (te-form)"
+          }
+        ]
+      },
+      {
+        "character": "洗",
+        "onyomi": [
+          "セン"
+        ],
+        "kunyomi": [
+          "あら(-う)"
+        ],
+        "meaning": "wash",
+        "examples": [
+          {
+            "word": "洗う",
+            "reading": "あらう",
+            "meaning": "to wash"
+          },
+          {
+            "word": "お手洗い",
+            "reading": "おてあらい",
+            "meaning": "bathroom, toilet"
+          }
+        ]
+      },
+      {
+        "character": "磨",
+        "onyomi": [
+          "マ"
+        ],
+        "kunyomi": [
+          "みが(-く)"
+        ],
+        "meaning": "polish, brush",
+        "examples": [
+          {
+            "word": "磨く",
+            "reading": "みがく",
+            "meaning": "to brush (teeth); to polish"
+          }
+        ]
+      },
+      {
+        "character": "歌",
+        "onyomi": [
+          "カ"
+        ],
+        "kunyomi": [
+          "うた",
+          "うた(-う)"
+        ],
+        "meaning": "song, sing",
+        "examples": [
+          {
+            "word": "歌う",
+            "reading": "うたう",
+            "meaning": "to sing"
+          },
+          {
+            "word": "歌",
+            "reading": "うた",
+            "meaning": "song"
+          }
+        ]
+      },
+      {
+        "character": "弾",
+        "onyomi": [
+          "ダン"
+        ],
+        "kunyomi": [
+          "ひ(-く)"
+        ],
+        "meaning": "play (instrument), bounce",
+        "examples": [
+          {
+            "word": "弾く",
+            "reading": "ひく",
+            "meaning": "to play (piano, guitar, etc.)"
+          }
+        ]
+      },
+      {
+        "character": "借",
+        "onyomi": [
+          "シャク"
+        ],
+        "kunyomi": [
+          "か(-りる)"
+        ],
+        "meaning": "borrow",
+        "examples": [
+          {
+            "word": "借りる",
+            "reading": "かりる",
+            "meaning": "to borrow"
+          }
+        ]
+      },
+      {
+        "character": "返",
+        "onyomi": [
+          "ヘン"
+        ],
+        "kunyomi": [
+          "かえ(-す)"
+        ],
+        "meaning": "return (something)",
+        "examples": [
+          {
+            "word": "返す",
+            "reading": "かえす",
+            "meaning": "to return, to give back"
+          }
+        ]
+      },
+      {
+        "character": "持",
+        "onyomi": [
+          "ジ"
+        ],
+        "kunyomi": [
+          "も(-つ)"
+        ],
+        "meaning": "hold, carry, have",
+        "examples": [
+          {
+            "word": "持つ",
+            "reading": "もつ",
+            "meaning": "to hold, to carry, to have"
+          },
+          {
+            "word": "持っています",
+            "reading": "もっています",
+            "meaning": "I have (possession)"
+          }
+        ]
+      },
+      {
+        "character": "手伝",
+        "onyomi": [],
+        "kunyomi": [
+          "てつだ(-う)"
+        ],
+        "meaning": "help, assist",
+        "examples": [
+          {
+            "word": "手伝う",
+            "reading": "てつだう",
+            "meaning": "to help, to assist"
+          }
+        ]
+      },
+      {
+        "character": "習",
+        "onyomi": [
+          "シュウ"
+        ],
+        "kunyomi": [
+          "なら(-う)"
+        ],
+        "meaning": "learn, practice",
+        "examples": [
+          {
+            "word": "習う",
+            "reading": "ならう",
+            "meaning": "to learn (from a teacher)"
+          }
+        ]
+      },
+      {
+        "character": "助",
+        "onyomi": [
+          "ジョ"
+        ],
+        "kunyomi": [
+          "たす(-ける)",
+          "たす(-かる)"
+        ],
+        "meaning": "help, save, rescue",
+        "examples": [
+          {
+            "word": "助ける",
+            "reading": "たすける",
+            "meaning": "to save, to rescue"
+          }
+        ]
+      },
+      {
+        "character": "止",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "と(-まる)",
+          "と(-める)"
+        ],
+        "meaning": "stop",
+        "examples": [
+          {
+            "word": "止まる",
+            "reading": "とまる",
+            "meaning": "to stop (intransitive)"
+          },
+          {
+            "word": "止める",
+            "reading": "とめる",
+            "meaning": "to stop (transitive)"
+          }
+        ]
+      },
+      {
+        "character": "着",
+        "onyomi": [
+          "チャク"
+        ],
+        "kunyomi": [
+          "き(-る)",
+          "つ(-く)"
+        ],
+        "meaning": "wear, arrive",
+        "examples": [
+          {
+            "word": "着る",
+            "reading": "きる",
+            "meaning": "to wear (clothing on body)"
+          },
+          {
+            "word": "上着",
+            "reading": "うわぎ",
+            "meaning": "jacket, outer garment"
+          }
+        ]
+      },
+      {
+        "character": "財",
+        "onyomi": [
+          "ザイ"
+        ],
+        "kunyomi": [],
+        "meaning": "wealth, property",
+        "examples": [
+          {
+            "word": "財布",
+            "reading": "さいふ",
+            "meaning": "wallet, purse"
+          }
+        ]
+      },
+      {
+        "character": "布",
+        "onyomi": [
+          "フ"
+        ],
+        "kunyomi": [
+          "ぬの"
+        ],
+        "meaning": "cloth, spread",
+        "examples": [
+          {
+            "word": "財布",
+            "reading": "さいふ",
+            "meaning": "wallet, purse"
+          }
+        ]
+      },
+      {
+        "character": "夢",
+        "onyomi": [
+          "ム"
+        ],
+        "kunyomi": [
+          "ゆめ"
+        ],
+        "meaning": "dream",
+        "examples": [
+          {
+            "word": "夢",
+            "reading": "ゆめ",
+            "meaning": "dream"
+          }
+        ]
+      },
+      {
+        "character": "火",
+        "onyomi": [
+          "カ"
+        ],
+        "kunyomi": [
+          "ひ"
+        ],
+        "meaning": "fire",
+        "examples": [
+          {
+            "word": "火事",
+            "reading": "かじ",
+            "meaning": "fire (disaster)"
+          },
+          {
+            "word": "花火",
+            "reading": "はなび",
+            "meaning": "fireworks"
+          }
+        ]
+      },
+      {
+        "character": "事",
+        "onyomi": [
+          "ジ",
+          "ズ"
+        ],
+        "kunyomi": [
+          "こと"
+        ],
+        "meaning": "matter, thing, fact",
+        "examples": [
+          {
+            "word": "火事",
+            "reading": "かじ",
+            "meaning": "fire (disaster)"
+          },
+          {
+            "word": "食事",
+            "reading": "しょくじ",
+            "meaning": "meal"
+          },
+          {
+            "word": "仕事",
+            "reading": "しごと",
+            "meaning": "work, job"
+          }
+        ]
+      },
+      {
+        "character": "故",
+        "onyomi": [
+          "コ",
+          "ゆえ"
+        ],
+        "kunyomi": [],
+        "meaning": "reason, cause, old",
+        "examples": [
+          {
+            "word": "事故",
+            "reading": "じこ",
+            "meaning": "accident"
+          }
+        ]
+      },
+      {
+        "character": "体",
+        "onyomi": [
+          "タイ",
+          "テイ"
+        ],
+        "kunyomi": [
+          "からだ"
+        ],
+        "meaning": "body",
+        "examples": [
+          {
+            "word": "体",
+            "reading": "からだ",
+            "meaning": "body"
+          }
+        ]
+      },
+      {
+        "character": "頭",
+        "onyomi": [
+          "トウ",
+          "ズ"
+        ],
+        "kunyomi": [
+          "あたま"
+        ],
+        "meaning": "head",
+        "examples": [
+          {
+            "word": "頭",
+            "reading": "あたま",
+            "meaning": "head"
+          },
+          {
+            "word": "頭がいい",
+            "reading": "あたまがいい",
+            "meaning": "smart, intelligent"
+          }
+        ]
+      },
+      {
+        "character": "痛",
+        "onyomi": [
+          "ツウ"
+        ],
+        "kunyomi": [
+          "いた(-い)"
+        ],
+        "meaning": "pain, hurt",
+        "examples": [
+          {
+            "word": "痛い",
+            "reading": "いたい",
+            "meaning": "painful, it hurts"
+          }
+        ]
+      },
+      {
+        "character": "疲",
+        "onyomi": [
+          "ヒ"
+        ],
+        "kunyomi": [
+          "つか(-れる)"
+        ],
+        "meaning": "tired, fatigue",
+        "examples": [
+          {
+            "word": "疲れる",
+            "reading": "つかれる",
+            "meaning": "to get tired"
+          }
+        ]
+      },
+      {
+        "character": "弱",
+        "onyomi": [
+          "ジャク"
+        ],
+        "kunyomi": [
+          "よわ(-い)"
+        ],
+        "meaning": "weak",
+        "examples": [
+          {
+            "word": "弱い",
+            "reading": "よわい",
+            "meaning": "weak"
+          }
+        ]
+      },
+      {
+        "character": "文",
+        "onyomi": [
+          "ブン",
+          "モン"
+        ],
+        "kunyomi": [
+          "ふみ"
+        ],
+        "meaning": "sentence, text, writing",
+        "examples": [
+          {
+            "word": "文章",
+            "reading": "ぶんしょう",
+            "meaning": "text, writing, composition"
+          }
+        ]
+      },
+      {
+        "character": "化",
+        "onyomi": [
+          "カ",
+          "ケ"
+        ],
+        "kunyomi": [
+          "ば(-ける)"
+        ],
+        "meaning": "change, transform, culture",
+        "examples": [
+          {
+            "word": "文化",
+            "reading": "ぶんか",
+            "meaning": "culture"
+          }
+        ]
+      }
+    ]
+  }

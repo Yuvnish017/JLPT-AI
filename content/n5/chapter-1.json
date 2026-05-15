@@ -1,0 +1,2866 @@
+{
+    "title": "日本語総まとめ N5 — 第1週：かんじとことばのれんしゅうをしましょう①",
+    "jlpt": "N5",
+    "chapter": 1,
+    "vocabulary": [
+      {
+        "word": "先生",
+        "reading": "せんせい",
+        "meaning": "teacher"
+      },
+      {
+        "word": "先月",
+        "reading": "せんげつ",
+        "meaning": "last month"
+      },
+      {
+        "word": "生徒",
+        "reading": "せいと",
+        "meaning": "student, pupil"
+      },
+      {
+        "word": "生活",
+        "reading": "せいかつ",
+        "meaning": "life, daily life"
+      },
+      {
+        "word": "たん生日",
+        "reading": "たんじょうび",
+        "meaning": "birthday"
+      },
+      {
+        "word": "学生",
+        "reading": "がくせい",
+        "meaning": "student"
+      },
+      {
+        "word": "学校",
+        "reading": "がっこう",
+        "meaning": "school"
+      },
+      {
+        "word": "日本人",
+        "reading": "にほんじん",
+        "meaning": "Japanese person"
+      },
+      {
+        "word": "外国人",
+        "reading": "がいこくじん",
+        "meaning": "foreigner"
+      },
+      {
+        "word": "大人",
+        "reading": "おとな",
+        "meaning": "adult"
+      },
+      {
+        "word": "外国",
+        "reading": "がいこく",
+        "meaning": "foreign country"
+      },
+      {
+        "word": "男の人",
+        "reading": "おとこのひと",
+        "meaning": "man"
+      },
+      {
+        "word": "男の子",
+        "reading": "おとこのこ",
+        "meaning": "boy"
+      },
+      {
+        "word": "女の人",
+        "reading": "おんなのひと",
+        "meaning": "woman"
+      },
+      {
+        "word": "女の子",
+        "reading": "おんなのこ",
+        "meaning": "girl"
+      },
+      {
+        "word": "子ども",
+        "reading": "こども",
+        "meaning": "child, children"
+      },
+      {
+        "word": "友だち",
+        "reading": "ともだち",
+        "meaning": "friend"
+      },
+      {
+        "word": "父",
+        "reading": "ちち",
+        "meaning": "father (my own)"
+      },
+      {
+        "word": "お父さん",
+        "reading": "おとうさん",
+        "meaning": "father (polite)"
+      },
+      {
+        "word": "母",
+        "reading": "はは",
+        "meaning": "mother (my own)"
+      },
+      {
+        "word": "お母さん",
+        "reading": "おかあさん",
+        "meaning": "mother (polite)"
+      },
+      {
+        "word": "名前",
+        "reading": "なまえ",
+        "meaning": "name"
+      },
+      {
+        "word": "有名な",
+        "reading": "ゆうめいな",
+        "meaning": "famous"
+      },
+      {
+        "word": "何時",
+        "reading": "なんじ",
+        "meaning": "what time"
+      },
+      {
+        "word": "何時間",
+        "reading": "なんじかん",
+        "meaning": "how many hours"
+      },
+      {
+        "word": "何語",
+        "reading": "なにご",
+        "meaning": "what language"
+      },
+      {
+        "word": "時計",
+        "reading": "とけい",
+        "meaning": "watch, clock"
+      },
+      {
+        "word": "五分",
+        "reading": "ごふん",
+        "meaning": "five minutes"
+      },
+      {
+        "word": "三十分",
+        "reading": "さんじゅっぷん",
+        "meaning": "thirty minutes"
+      },
+      {
+        "word": "半分",
+        "reading": "はんぶん",
+        "meaning": "half"
+      },
+      {
+        "word": "時間",
+        "reading": "じかん",
+        "meaning": "time"
+      },
+      {
+        "word": "一週間",
+        "reading": "いっしゅうかん",
+        "meaning": "one week"
+      },
+      {
+        "word": "午後",
+        "reading": "ごご",
+        "meaning": "afternoon, PM"
+      },
+      {
+        "word": "午前",
+        "reading": "ごぜん",
+        "meaning": "morning, AM"
+      },
+      {
+        "word": "後で",
+        "reading": "あとで",
+        "meaning": "later, after"
+      },
+      {
+        "word": "今",
+        "reading": "いま",
+        "meaning": "now"
+      },
+      {
+        "word": "今日",
+        "reading": "きょう",
+        "meaning": "today"
+      },
+      {
+        "word": "今年",
+        "reading": "ことし",
+        "meaning": "this year"
+      },
+      {
+        "word": "今朝",
+        "reading": "けさ",
+        "meaning": "this morning"
+      },
+      {
+        "word": "今月",
+        "reading": "こんげつ",
+        "meaning": "this month"
+      },
+      {
+        "word": "今週",
+        "reading": "こんしゅう",
+        "meaning": "this week"
+      },
+      {
+        "word": "来週",
+        "reading": "らいしゅう",
+        "meaning": "next week"
+      },
+      {
+        "word": "去年",
+        "reading": "きょねん",
+        "meaning": "last year"
+      },
+      {
+        "word": "来年",
+        "reading": "らいねん",
+        "meaning": "next year"
+      },
+      {
+        "word": "毎年",
+        "reading": "まいとし",
+        "meaning": "every year"
+      },
+      {
+        "word": "毎日",
+        "reading": "まいにち",
+        "meaning": "every day"
+      },
+      {
+        "word": "毎月",
+        "reading": "まいつき",
+        "meaning": "every month"
+      },
+      {
+        "word": "ノート",
+        "reading": "ノート",
+        "meaning": "notebook"
+      },
+      {
+        "word": "パソコン",
+        "reading": "パソコン",
+        "meaning": "personal computer (PC)"
+      },
+      {
+        "word": "リモコン",
+        "reading": "リモコン",
+        "meaning": "remote control"
+      },
+      {
+        "word": "エアコン",
+        "reading": "エアコン",
+        "meaning": "air conditioner"
+      },
+      {
+        "word": "スマホ",
+        "reading": "スマホ",
+        "meaning": "smartphone"
+      },
+      {
+        "word": "少し",
+        "reading": "すこし",
+        "meaning": "a little"
+      },
+      {
+        "word": "少ない",
+        "reading": "すくない",
+        "meaning": "few, not many"
+      },
+      {
+        "word": "多い",
+        "reading": "おおい",
+        "meaning": "many, a lot"
+      },
+      {
+        "word": "小学校",
+        "reading": "しょうがっこう",
+        "meaning": "elementary school"
+      },
+      {
+        "word": "小さい",
+        "reading": "ちいさい",
+        "meaning": "small"
+      },
+      {
+        "word": "大学",
+        "reading": "だいがく",
+        "meaning": "university, college"
+      },
+      {
+        "word": "大きい",
+        "reading": "おおきい",
+        "meaning": "big"
+      },
+      {
+        "word": "大変な",
+        "reading": "たいへんな",
+        "meaning": "terrible, tough"
+      },
+      {
+        "word": "大切な",
+        "reading": "たいせつな",
+        "meaning": "important, precious"
+      },
+      {
+        "word": "安い",
+        "reading": "やすい",
+        "meaning": "cheap, inexpensive"
+      },
+      {
+        "word": "高校",
+        "reading": "こうこう",
+        "meaning": "high school"
+      },
+      {
+        "word": "高い",
+        "reading": "たかい",
+        "meaning": "expensive, tall"
+      },
+      {
+        "word": "新聞",
+        "reading": "しんぶん",
+        "meaning": "newspaper"
+      },
+      {
+        "word": "新しい",
+        "reading": "あたらしい",
+        "meaning": "new"
+      },
+      {
+        "word": "古い",
+        "reading": "ふるい",
+        "meaning": "old"
+      },
+      {
+        "word": "早い",
+        "reading": "はやい",
+        "meaning": "early, fast"
+      },
+      {
+        "word": "長い",
+        "reading": "ながい",
+        "meaning": "long"
+      },
+      {
+        "word": "社長",
+        "reading": "しゃちょう",
+        "meaning": "company president"
+      },
+      {
+        "word": "会社",
+        "reading": "かいしゃ",
+        "meaning": "company"
+      },
+      {
+        "word": "社員",
+        "reading": "しゃいん",
+        "meaning": "company employee"
+      },
+      {
+        "word": "中学校",
+        "reading": "ちゅうがっこう",
+        "meaning": "junior high school"
+      },
+      {
+        "word": "一日中",
+        "reading": "いちにちじゅう",
+        "meaning": "all day"
+      },
+      {
+        "word": "中",
+        "reading": "なか",
+        "meaning": "inside"
+      },
+      {
+        "word": "外",
+        "reading": "そと",
+        "meaning": "outside"
+      },
+      {
+        "word": "聞く",
+        "reading": "きく",
+        "meaning": "to listen, to ask"
+      },
+      {
+        "word": "聞こえる",
+        "reading": "きこえる",
+        "meaning": "to be audible, to hear"
+      },
+      {
+        "word": "駅",
+        "reading": "えき",
+        "meaning": "station"
+      },
+      {
+        "word": "口",
+        "reading": "くち",
+        "meaning": "mouth, exit/entrance"
+      },
+      {
+        "word": "出る",
+        "reading": "でる",
+        "meaning": "to leave, to exit"
+      },
+      {
+        "word": "入る",
+        "reading": "はいる",
+        "meaning": "to enter"
+      },
+      {
+        "word": "入口",
+        "reading": "いりぐち",
+        "meaning": "entrance"
+      },
+      {
+        "word": "出口",
+        "reading": "でぐち",
+        "meaning": "exit"
+      },
+      {
+        "word": "東京",
+        "reading": "とうきょう",
+        "meaning": "Tokyo"
+      },
+      {
+        "word": "東",
+        "reading": "ひがし",
+        "meaning": "east"
+      },
+      {
+        "word": "西",
+        "reading": "にし",
+        "meaning": "west"
+      },
+      {
+        "word": "南",
+        "reading": "みなみ",
+        "meaning": "south"
+      },
+      {
+        "word": "北",
+        "reading": "きた",
+        "meaning": "north"
+      },
+      {
+        "word": "上",
+        "reading": "うえ",
+        "meaning": "up, above"
+      },
+      {
+        "word": "下",
+        "reading": "した",
+        "meaning": "below, under"
+      },
+      {
+        "word": "左",
+        "reading": "ひだり",
+        "meaning": "left"
+      },
+      {
+        "word": "右",
+        "reading": "みぎ",
+        "meaning": "right"
+      },
+      {
+        "word": "上手な",
+        "reading": "じょうずな",
+        "meaning": "skilled, good at"
+      },
+      {
+        "word": "下手な",
+        "reading": "へたな",
+        "meaning": "unskillful, poor at"
+      },
+      {
+        "word": "地下鉄",
+        "reading": "ちかてつ",
+        "meaning": "subway"
+      },
+      {
+        "word": "休む",
+        "reading": "やすむ",
+        "meaning": "to rest, to take a day off"
+      },
+      {
+        "word": "昼休み",
+        "reading": "ひるやすみ",
+        "meaning": "lunch break"
+      },
+      {
+        "word": "見る",
+        "reading": "みる",
+        "meaning": "to see, to look"
+      },
+      {
+        "word": "見える",
+        "reading": "みえる",
+        "meaning": "to be visible"
+      },
+      {
+        "word": "見学",
+        "reading": "けんがく",
+        "meaning": "field trip, study visit"
+      },
+      {
+        "word": "言う",
+        "reading": "いう",
+        "meaning": "to say"
+      },
+      {
+        "word": "言葉",
+        "reading": "ことば",
+        "meaning": "word, language"
+      },
+      {
+        "word": "行く",
+        "reading": "いく",
+        "meaning": "to go"
+      },
+      {
+        "word": "銀行",
+        "reading": "ぎんこう",
+        "meaning": "bank"
+      },
+      {
+        "word": "旅行",
+        "reading": "りょこう",
+        "meaning": "trip, travel"
+      },
+      {
+        "word": "書く",
+        "reading": "かく",
+        "meaning": "to write"
+      },
+      {
+        "word": "辞書",
+        "reading": "じしょ",
+        "meaning": "dictionary"
+      },
+      {
+        "word": "読む",
+        "reading": "よむ",
+        "meaning": "to read"
+      },
+      {
+        "word": "買う",
+        "reading": "かう",
+        "meaning": "to buy"
+      },
+      {
+        "word": "買いもの",
+        "reading": "かいもの",
+        "meaning": "shopping"
+      },
+      {
+        "word": "来る",
+        "reading": "くる",
+        "meaning": "to come"
+      },
+      {
+        "word": "来月",
+        "reading": "らいげつ",
+        "meaning": "next month"
+      },
+      {
+        "word": "立つ",
+        "reading": "たつ",
+        "meaning": "to stand"
+      },
+      {
+        "word": "食事",
+        "reading": "しょくじ",
+        "meaning": "meal"
+      },
+      {
+        "word": "食堂",
+        "reading": "しょくどう",
+        "meaning": "cafeteria, dining hall"
+      },
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "meaning": "to eat"
+      },
+      {
+        "word": "食べもの",
+        "reading": "たべもの",
+        "meaning": "food"
+      },
+      {
+        "word": "飲む",
+        "reading": "のむ",
+        "meaning": "to drink"
+      },
+      {
+        "word": "飲みもの",
+        "reading": "のみもの",
+        "meaning": "drinks, beverages"
+      },
+      {
+        "word": "会話",
+        "reading": "かいわ",
+        "meaning": "conversation"
+      },
+      {
+        "word": "会う",
+        "reading": "あう",
+        "meaning": "to meet"
+      },
+      {
+        "word": "電車",
+        "reading": "でんしゃ",
+        "meaning": "train"
+      },
+      {
+        "word": "電気",
+        "reading": "でんき",
+        "meaning": "electricity, electric light"
+      },
+      {
+        "word": "電話",
+        "reading": "でんわ",
+        "meaning": "telephone"
+      },
+      {
+        "word": "話す",
+        "reading": "はなす",
+        "meaning": "to talk, to speak"
+      },
+      {
+        "word": "話",
+        "reading": "はなし",
+        "meaning": "talk, story"
+      },
+      {
+        "word": "自動車",
+        "reading": "じどうしゃ",
+        "meaning": "automobile, car"
+      },
+      {
+        "word": "自転車",
+        "reading": "じてんしゃ",
+        "meaning": "bicycle"
+      },
+      {
+        "word": "車",
+        "reading": "くるま",
+        "meaning": "car, vehicle"
+      },
+      {
+        "word": "花",
+        "reading": "はな",
+        "meaning": "flower"
+      },
+      {
+        "word": "花見",
+        "reading": "はなみ",
+        "meaning": "cherry-blossom viewing"
+      },
+      {
+        "word": "花火",
+        "reading": "はなび",
+        "meaning": "fireworks"
+      },
+      {
+        "word": "天気",
+        "reading": "てんき",
+        "meaning": "weather"
+      },
+      {
+        "word": "元気",
+        "reading": "げんき",
+        "meaning": "healthy, energetic"
+      },
+      {
+        "word": "耳",
+        "reading": "みみ",
+        "meaning": "ear"
+      },
+      {
+        "word": "手",
+        "reading": "て",
+        "meaning": "hand"
+      },
+      {
+        "word": "足",
+        "reading": "あし",
+        "meaning": "leg, foot"
+      },
+      {
+        "word": "目",
+        "reading": "め",
+        "meaning": "eye"
+      },
+      {
+        "word": "力",
+        "reading": "ちから",
+        "meaning": "strength, power"
+      },
+      {
+        "word": "川",
+        "reading": "かわ",
+        "meaning": "river"
+      },
+      {
+        "word": "牛肉",
+        "reading": "ぎゅうにく",
+        "meaning": "beef"
+      },
+      {
+        "word": "牛乳",
+        "reading": "ぎゅうにゅう",
+        "meaning": "milk"
+      },
+      {
+        "word": "魚",
+        "reading": "さかな",
+        "meaning": "fish"
+      },
+      {
+        "word": "魚屋",
+        "reading": "さかなや",
+        "meaning": "fish shop"
+      },
+      {
+        "word": "店",
+        "reading": "みせ",
+        "meaning": "shop, store"
+      },
+      {
+        "word": "喫茶店",
+        "reading": "きっさてん",
+        "meaning": "coffee shop, tea house"
+      },
+      {
+        "word": "道",
+        "reading": "みち",
+        "meaning": "road, street"
+      },
+      {
+        "word": "門",
+        "reading": "もん",
+        "meaning": "gate"
+      },
+      {
+        "word": "専門",
+        "reading": "せんもん",
+        "meaning": "specialty, special field"
+      },
+      {
+        "word": "雨",
+        "reading": "あめ",
+        "meaning": "rain"
+      },
+      {
+        "word": "空気",
+        "reading": "くうき",
+        "meaning": "air"
+      },
+      {
+        "word": "空港",
+        "reading": "くうこう",
+        "meaning": "airport"
+      },
+      {
+        "word": "空",
+        "reading": "そら",
+        "meaning": "sky"
+      },
+      {
+        "word": "白い",
+        "reading": "しろい",
+        "meaning": "white (adjective)"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "〜は〜です",
+        "meaning": "Identifies or describes something/someone. '[Subject] is [noun/adjective].'",
+        "example": "わたしは 学生です。— I am a student."
+      },
+      {
+        "pattern": "〜は〜ですか",
+        "meaning": "Yes/no question pattern. 'Is [subject] [noun/adjective]?'",
+        "example": "これは 何ですか。— What is this?"
+      },
+      {
+        "pattern": "〜は〜では ありません",
+        "meaning": "Negative identification. '[Subject] is not [noun].'",
+        "example": "これは 本では ありません。— This is not a book."
+      },
+      {
+        "pattern": "〜に います / あります",
+        "meaning": "Expresses existence. います for living things, あります for non-living things. '[Thing] is at/in [place].'",
+        "example": "ネコは 木の 上に います。— The cat is on top of the tree."
+      },
+      {
+        "pattern": "〜の〜",
+        "meaning": "Possession or modification. '[A] of / belonging to [B].'",
+        "example": "わたしの 本 — my book"
+      },
+      {
+        "pattern": "〜を〜ます",
+        "meaning": "Marks the direct object of an action verb.",
+        "example": "本を 読みます。— I read a book."
+      },
+      {
+        "pattern": "〜で〜ます",
+        "meaning": "Marks the place where an action occurs, or the means/tool used.",
+        "example": "でんしゃで 行きます。— I go by train."
+      },
+      {
+        "pattern": "〜に 行きます",
+        "meaning": "Expresses movement toward a destination. 'Go to [place].'",
+        "example": "銀行に 行きます。— I go to the bank."
+      },
+      {
+        "pattern": "どこ / どちら",
+        "meaning": "Question words for location. どこ = where; どちら = which direction / which (polite).",
+        "example": "お国は どちらですか。— What country are you from?"
+      },
+      {
+        "pattern": "〜が 上手です / 下手です",
+        "meaning": "Expresses being good/bad at something.",
+        "example": "日本語が 上手ですね。— You are good at Japanese."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "「先生」の よみかたは どれですか。",
+        "options": [
+          "せいせん",
+          "せんせい",
+          "せいせい",
+          "せんせ"
+        ],
+        "answer": "せんせい"
+      },
+      {
+        "question": "「友だち」は えいごで なんですか。",
+        "options": [
+          "teacher",
+          "student",
+          "friend",
+          "family"
+        ],
+        "answer": "friend"
+      },
+      {
+        "question": "「おとこのこ」を かんじで かくと どれですか。",
+        "options": [
+          "女の子",
+          "男の人",
+          "男の子",
+          "女の人"
+        ],
+        "answer": "男の子"
+      },
+      {
+        "question": "「今日」の よみかたは どれですか。",
+        "options": [
+          "こんにち",
+          "きょう",
+          "いまひ",
+          "こうにち"
+        ],
+        "answer": "きょう"
+      },
+      {
+        "question": "「大きい」の はんたいは なんですか。",
+        "options": [
+          "高い",
+          "古い",
+          "小さい",
+          "少ない"
+        ],
+        "answer": "小さい"
+      },
+      {
+        "question": "「東」の よみかたは どれですか。",
+        "options": [
+          "にし",
+          "みなみ",
+          "きた",
+          "ひがし"
+        ],
+        "answer": "ひがし"
+      },
+      {
+        "question": "ネコは 木の 上に います。— 「上」は どこですか。",
+        "options": [
+          "below",
+          "beside",
+          "above",
+          "inside"
+        ],
+        "answer": "above"
+      },
+      {
+        "question": "「読む」は えいごで なんですか。",
+        "options": [
+          "to write",
+          "to read",
+          "to speak",
+          "to listen"
+        ],
+        "answer": "to read"
+      },
+      {
+        "question": "「電話」の よみかたは どれですか。",
+        "options": [
+          "でんわ",
+          "でんき",
+          "でんしゃ",
+          "でんち"
+        ],
+        "answer": "でんわ"
+      },
+      {
+        "question": "「入口」の よみかたは どれですか。",
+        "options": [
+          "でぐち",
+          "いりぐち",
+          "にゅうこう",
+          "はいりぐち"
+        ],
+        "answer": "いりぐち"
+      },
+      {
+        "question": "「新しい」の はんたいは なんですか。",
+        "options": [
+          "古い",
+          "小さい",
+          "高い",
+          "少ない"
+        ],
+        "answer": "古い"
+      },
+      {
+        "question": "「魚」の よみかたは どれですか。",
+        "options": [
+          "にく",
+          "さかな",
+          "うし",
+          "はな"
+        ],
+        "answer": "さかな"
+      },
+      {
+        "question": "「毎日」は えいごで なんですか。",
+        "options": [
+          "every week",
+          "every month",
+          "every year",
+          "every day"
+        ],
+        "answer": "every day"
+      },
+      {
+        "question": "「花見」は えいごで なんですか。",
+        "options": [
+          "flower shop",
+          "fireworks",
+          "cherry-blossom viewing",
+          "flower vase"
+        ],
+        "answer": "cherry-blossom viewing"
+      },
+      {
+        "question": "「上手な」の はんたいは なんですか。",
+        "options": [
+          "下手な",
+          "大切な",
+          "大変な",
+          "有名な"
+        ],
+        "answer": "下手な"
+      }
+    ],
+    "kanji": [
+      {
+        "character": "先",
+        "onyomi": [
+          "セン"
+        ],
+        "kunyomi": [
+          "さき"
+        ],
+        "meaning": "before, ahead, previous",
+        "examples": [
+          {
+            "word": "先生",
+            "reading": "せんせい",
+            "meaning": "teacher"
+          },
+          {
+            "word": "先月",
+            "reading": "せんげつ",
+            "meaning": "last month"
+          }
+        ]
+      },
+      {
+        "character": "生",
+        "onyomi": [
+          "セイ",
+          "ショウ"
+        ],
+        "kunyomi": [
+          "い(-きる)",
+          "う(-まれる)"
+        ],
+        "meaning": "life, birth, student",
+        "examples": [
+          {
+            "word": "生徒",
+            "reading": "せいと",
+            "meaning": "pupil, student"
+          },
+          {
+            "word": "生活",
+            "reading": "せいかつ",
+            "meaning": "daily life"
+          },
+          {
+            "word": "たん生日",
+            "reading": "たんじょうび",
+            "meaning": "birthday"
+          }
+        ]
+      },
+      {
+        "character": "学",
+        "onyomi": [
+          "ガク"
+        ],
+        "kunyomi": [
+          "まな(-ぶ)"
+        ],
+        "meaning": "study, learning",
+        "examples": [
+          {
+            "word": "学生",
+            "reading": "がくせい",
+            "meaning": "student"
+          },
+          {
+            "word": "学校",
+            "reading": "がっこう",
+            "meaning": "school"
+          }
+        ]
+      },
+      {
+        "character": "人",
+        "onyomi": [
+          "ジン",
+          "ニン"
+        ],
+        "kunyomi": [
+          "ひと"
+        ],
+        "meaning": "person, people",
+        "examples": [
+          {
+            "word": "日本人",
+            "reading": "にほんじん",
+            "meaning": "Japanese person"
+          },
+          {
+            "word": "外国人",
+            "reading": "がいこくじん",
+            "meaning": "foreigner"
+          },
+          {
+            "word": "大人",
+            "reading": "おとな",
+            "meaning": "adult"
+          }
+        ]
+      },
+      {
+        "character": "国",
+        "onyomi": [
+          "コク"
+        ],
+        "kunyomi": [
+          "くに"
+        ],
+        "meaning": "country, nation",
+        "examples": [
+          {
+            "word": "外国",
+            "reading": "がいこく",
+            "meaning": "foreign country"
+          },
+          {
+            "word": "国",
+            "reading": "くに",
+            "meaning": "country"
+          }
+        ]
+      },
+      {
+        "character": "男",
+        "onyomi": [
+          "ダン"
+        ],
+        "kunyomi": [
+          "おとこ"
+        ],
+        "meaning": "man, male",
+        "examples": [
+          {
+            "word": "男の人",
+            "reading": "おとこのひと",
+            "meaning": "man"
+          },
+          {
+            "word": "男の子",
+            "reading": "おとこのこ",
+            "meaning": "boy"
+          }
+        ]
+      },
+      {
+        "character": "女",
+        "onyomi": [
+          "ジョ"
+        ],
+        "kunyomi": [
+          "おんな"
+        ],
+        "meaning": "woman, female",
+        "examples": [
+          {
+            "word": "女の人",
+            "reading": "おんなのひと",
+            "meaning": "woman"
+          },
+          {
+            "word": "女の子",
+            "reading": "おんなのこ",
+            "meaning": "girl"
+          }
+        ]
+      },
+      {
+        "character": "子",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "こ"
+        ],
+        "meaning": "child",
+        "examples": [
+          {
+            "word": "子ども",
+            "reading": "こども",
+            "meaning": "child, children"
+          }
+        ]
+      },
+      {
+        "character": "友",
+        "onyomi": [
+          "ユウ"
+        ],
+        "kunyomi": [
+          "とも"
+        ],
+        "meaning": "friend",
+        "examples": [
+          {
+            "word": "友だち",
+            "reading": "ともだち",
+            "meaning": "friend"
+          }
+        ]
+      },
+      {
+        "character": "父",
+        "onyomi": [
+          "フ"
+        ],
+        "kunyomi": [
+          "ちち"
+        ],
+        "meaning": "father",
+        "examples": [
+          {
+            "word": "父",
+            "reading": "ちち",
+            "meaning": "father (my own)"
+          },
+          {
+            "word": "お父さん",
+            "reading": "おとうさん",
+            "meaning": "father (polite)"
+          }
+        ]
+      },
+      {
+        "character": "母",
+        "onyomi": [
+          "ボ"
+        ],
+        "kunyomi": [
+          "はは"
+        ],
+        "meaning": "mother",
+        "examples": [
+          {
+            "word": "母",
+            "reading": "はは",
+            "meaning": "mother (my own)"
+          },
+          {
+            "word": "お母さん",
+            "reading": "おかあさん",
+            "meaning": "mother (polite)"
+          }
+        ]
+      },
+      {
+        "character": "名",
+        "onyomi": [
+          "メイ"
+        ],
+        "kunyomi": [
+          "な"
+        ],
+        "meaning": "name, fame",
+        "examples": [
+          {
+            "word": "名前",
+            "reading": "なまえ",
+            "meaning": "name"
+          },
+          {
+            "word": "有名な",
+            "reading": "ゆうめいな",
+            "meaning": "famous"
+          }
+        ]
+      },
+      {
+        "character": "何",
+        "onyomi": [
+          "カ"
+        ],
+        "kunyomi": [
+          "なん",
+          "なに"
+        ],
+        "meaning": "what, how many",
+        "examples": [
+          {
+            "word": "何時",
+            "reading": "なんじ",
+            "meaning": "what time"
+          },
+          {
+            "word": "何語",
+            "reading": "なにご",
+            "meaning": "what language"
+          }
+        ]
+      },
+      {
+        "character": "時",
+        "onyomi": [
+          "ジ"
+        ],
+        "kunyomi": [
+          "とき"
+        ],
+        "meaning": "time, hour",
+        "examples": [
+          {
+            "word": "時計",
+            "reading": "とけい",
+            "meaning": "clock, watch"
+          },
+          {
+            "word": "九時",
+            "reading": "くじ",
+            "meaning": "nine o'clock"
+          }
+        ]
+      },
+      {
+        "character": "分",
+        "onyomi": [
+          "フン",
+          "ブン"
+        ],
+        "kunyomi": [
+          "わ(-かる)"
+        ],
+        "meaning": "minute, part, understand",
+        "examples": [
+          {
+            "word": "五分",
+            "reading": "ごふん",
+            "meaning": "five minutes"
+          },
+          {
+            "word": "半分",
+            "reading": "はんぶん",
+            "meaning": "half"
+          }
+        ]
+      },
+      {
+        "character": "間",
+        "onyomi": [
+          "カン"
+        ],
+        "kunyomi": [
+          "あいだ",
+          "ま"
+        ],
+        "meaning": "between, interval, space",
+        "examples": [
+          {
+            "word": "時間",
+            "reading": "じかん",
+            "meaning": "time"
+          },
+          {
+            "word": "一週間",
+            "reading": "いっしゅうかん",
+            "meaning": "one week"
+          }
+        ]
+      },
+      {
+        "character": "半",
+        "onyomi": [
+          "ハン"
+        ],
+        "kunyomi": [],
+        "meaning": "half",
+        "examples": [
+          {
+            "word": "七時半",
+            "reading": "しちじはん",
+            "meaning": "seven-thirty"
+          },
+          {
+            "word": "一時間半",
+            "reading": "いちじかんはん",
+            "meaning": "one and a half hours"
+          }
+        ]
+      },
+      {
+        "character": "午",
+        "onyomi": [
+          "ゴ"
+        ],
+        "kunyomi": [],
+        "meaning": "noon",
+        "examples": [
+          {
+            "word": "午後",
+            "reading": "ごご",
+            "meaning": "afternoon, PM"
+          },
+          {
+            "word": "午前",
+            "reading": "ごぜん",
+            "meaning": "morning, AM"
+          }
+        ]
+      },
+      {
+        "character": "前",
+        "onyomi": [
+          "ゼン"
+        ],
+        "kunyomi": [
+          "まえ"
+        ],
+        "meaning": "before, front",
+        "examples": [
+          {
+            "word": "午前",
+            "reading": "ごぜん",
+            "meaning": "AM, morning"
+          },
+          {
+            "word": "名前",
+            "reading": "なまえ",
+            "meaning": "name"
+          }
+        ]
+      },
+      {
+        "character": "後",
+        "onyomi": [
+          "ゴ",
+          "コウ"
+        ],
+        "kunyomi": [
+          "あと",
+          "うし(-ろ)"
+        ],
+        "meaning": "after, behind",
+        "examples": [
+          {
+            "word": "午後",
+            "reading": "ごご",
+            "meaning": "afternoon"
+          },
+          {
+            "word": "後で",
+            "reading": "あとで",
+            "meaning": "later"
+          }
+        ]
+      },
+      {
+        "character": "今",
+        "onyomi": [
+          "コン"
+        ],
+        "kunyomi": [
+          "いま"
+        ],
+        "meaning": "now, present",
+        "examples": [
+          {
+            "word": "今",
+            "reading": "いま",
+            "meaning": "now"
+          },
+          {
+            "word": "今日",
+            "reading": "きょう",
+            "meaning": "today"
+          },
+          {
+            "word": "今年",
+            "reading": "ことし",
+            "meaning": "this year"
+          }
+        ]
+      },
+      {
+        "character": "週",
+        "onyomi": [
+          "シュウ"
+        ],
+        "kunyomi": [],
+        "meaning": "week",
+        "examples": [
+          {
+            "word": "来週",
+            "reading": "らいしゅう",
+            "meaning": "next week"
+          },
+          {
+            "word": "今週",
+            "reading": "こんしゅう",
+            "meaning": "this week"
+          }
+        ]
+      },
+      {
+        "character": "年",
+        "onyomi": [
+          "ネン"
+        ],
+        "kunyomi": [
+          "とし"
+        ],
+        "meaning": "year",
+        "examples": [
+          {
+            "word": "今年",
+            "reading": "ことし",
+            "meaning": "this year"
+          },
+          {
+            "word": "去年",
+            "reading": "きょねん",
+            "meaning": "last year"
+          },
+          {
+            "word": "来年",
+            "reading": "らいねん",
+            "meaning": "next year"
+          }
+        ]
+      },
+      {
+        "character": "毎",
+        "onyomi": [
+          "マイ"
+        ],
+        "kunyomi": [],
+        "meaning": "every, each",
+        "examples": [
+          {
+            "word": "毎日",
+            "reading": "まいにち",
+            "meaning": "every day"
+          },
+          {
+            "word": "毎月",
+            "reading": "まいつき",
+            "meaning": "every month"
+          },
+          {
+            "word": "毎年",
+            "reading": "まいとし",
+            "meaning": "every year"
+          }
+        ]
+      },
+      {
+        "character": "少",
+        "onyomi": [
+          "ショウ"
+        ],
+        "kunyomi": [
+          "すこ(-し)",
+          "すく(-ない)"
+        ],
+        "meaning": "few, little",
+        "examples": [
+          {
+            "word": "少し",
+            "reading": "すこし",
+            "meaning": "a little"
+          },
+          {
+            "word": "少ない",
+            "reading": "すくない",
+            "meaning": "few, not many"
+          }
+        ]
+      },
+      {
+        "character": "多",
+        "onyomi": [
+          "タ"
+        ],
+        "kunyomi": [
+          "おお(-い)"
+        ],
+        "meaning": "many, much",
+        "examples": [
+          {
+            "word": "多い",
+            "reading": "おおい",
+            "meaning": "many, a lot"
+          }
+        ]
+      },
+      {
+        "character": "小",
+        "onyomi": [
+          "ショウ"
+        ],
+        "kunyomi": [
+          "ちい(-さい)"
+        ],
+        "meaning": "small",
+        "examples": [
+          {
+            "word": "小学校",
+            "reading": "しょうがっこう",
+            "meaning": "elementary school"
+          },
+          {
+            "word": "小さい",
+            "reading": "ちいさい",
+            "meaning": "small"
+          }
+        ]
+      },
+      {
+        "character": "大",
+        "onyomi": [
+          "ダイ",
+          "タイ"
+        ],
+        "kunyomi": [
+          "おお(-きい)"
+        ],
+        "meaning": "big, large",
+        "examples": [
+          {
+            "word": "大学",
+            "reading": "だいがく",
+            "meaning": "university"
+          },
+          {
+            "word": "大きい",
+            "reading": "おおきい",
+            "meaning": "big"
+          },
+          {
+            "word": "大切な",
+            "reading": "たいせつな",
+            "meaning": "important"
+          }
+        ]
+      },
+      {
+        "character": "安",
+        "onyomi": [
+          "アン"
+        ],
+        "kunyomi": [
+          "やす(-い)"
+        ],
+        "meaning": "cheap, safe, peace",
+        "examples": [
+          {
+            "word": "安い",
+            "reading": "やすい",
+            "meaning": "cheap"
+          },
+          {
+            "word": "安全な",
+            "reading": "あんぜんな",
+            "meaning": "safe"
+          }
+        ]
+      },
+      {
+        "character": "高",
+        "onyomi": [
+          "コウ"
+        ],
+        "kunyomi": [
+          "たか(-い)"
+        ],
+        "meaning": "high, expensive, tall",
+        "examples": [
+          {
+            "word": "高校",
+            "reading": "こうこう",
+            "meaning": "high school"
+          },
+          {
+            "word": "高い",
+            "reading": "たかい",
+            "meaning": "expensive, tall"
+          }
+        ]
+      },
+      {
+        "character": "新",
+        "onyomi": [
+          "シン"
+        ],
+        "kunyomi": [
+          "あたら(-しい)"
+        ],
+        "meaning": "new",
+        "examples": [
+          {
+            "word": "新聞",
+            "reading": "しんぶん",
+            "meaning": "newspaper"
+          },
+          {
+            "word": "新しい",
+            "reading": "あたらしい",
+            "meaning": "new"
+          }
+        ]
+      },
+      {
+        "character": "古",
+        "onyomi": [
+          "コ"
+        ],
+        "kunyomi": [
+          "ふる(-い)"
+        ],
+        "meaning": "old",
+        "examples": [
+          {
+            "word": "古い",
+            "reading": "ふるい",
+            "meaning": "old"
+          }
+        ]
+      },
+      {
+        "character": "早",
+        "onyomi": [
+          "ソウ"
+        ],
+        "kunyomi": [
+          "はや(-い)"
+        ],
+        "meaning": "early, fast",
+        "examples": [
+          {
+            "word": "早い",
+            "reading": "はやい",
+            "meaning": "early, fast"
+          }
+        ]
+      },
+      {
+        "character": "長",
+        "onyomi": [
+          "チョウ"
+        ],
+        "kunyomi": [
+          "なが(-い)"
+        ],
+        "meaning": "long, chief",
+        "examples": [
+          {
+            "word": "長い",
+            "reading": "ながい",
+            "meaning": "long"
+          },
+          {
+            "word": "社長",
+            "reading": "しゃちょう",
+            "meaning": "company president"
+          }
+        ]
+      },
+      {
+        "character": "社",
+        "onyomi": [
+          "シャ"
+        ],
+        "kunyomi": [],
+        "meaning": "company, society",
+        "examples": [
+          {
+            "word": "会社",
+            "reading": "かいしゃ",
+            "meaning": "company"
+          },
+          {
+            "word": "社員",
+            "reading": "しゃいん",
+            "meaning": "company employee"
+          }
+        ]
+      },
+      {
+        "character": "中",
+        "onyomi": [
+          "チュウ",
+          "ジュウ"
+        ],
+        "kunyomi": [
+          "なか"
+        ],
+        "meaning": "inside, middle, during",
+        "examples": [
+          {
+            "word": "中学校",
+            "reading": "ちゅうがっこう",
+            "meaning": "junior high school"
+          },
+          {
+            "word": "一日中",
+            "reading": "いちにちじゅう",
+            "meaning": "all day"
+          },
+          {
+            "word": "中",
+            "reading": "なか",
+            "meaning": "inside"
+          }
+        ]
+      },
+      {
+        "character": "聞",
+        "onyomi": [
+          "ブン"
+        ],
+        "kunyomi": [
+          "き(-く)",
+          "き(-こえる)"
+        ],
+        "meaning": "hear, listen, ask",
+        "examples": [
+          {
+            "word": "聞く",
+            "reading": "きく",
+            "meaning": "to listen, to ask"
+          },
+          {
+            "word": "新聞",
+            "reading": "しんぶん",
+            "meaning": "newspaper"
+          }
+        ]
+      },
+      {
+        "character": "駅",
+        "onyomi": [
+          "エキ"
+        ],
+        "kunyomi": [],
+        "meaning": "station",
+        "examples": [
+          {
+            "word": "駅",
+            "reading": "えき",
+            "meaning": "station"
+          }
+        ]
+      },
+      {
+        "character": "口",
+        "onyomi": [
+          "コウ",
+          "ク"
+        ],
+        "kunyomi": [
+          "くち"
+        ],
+        "meaning": "mouth, exit, entrance",
+        "examples": [
+          {
+            "word": "入口",
+            "reading": "いりぐち",
+            "meaning": "entrance"
+          },
+          {
+            "word": "出口",
+            "reading": "でぐち",
+            "meaning": "exit"
+          }
+        ]
+      },
+      {
+        "character": "出",
+        "onyomi": [
+          "シュツ"
+        ],
+        "kunyomi": [
+          "で(-る)",
+          "だ(-す)"
+        ],
+        "meaning": "exit, come out, leave",
+        "examples": [
+          {
+            "word": "出る",
+            "reading": "でる",
+            "meaning": "to leave, to exit"
+          },
+          {
+            "word": "出口",
+            "reading": "でぐち",
+            "meaning": "exit"
+          }
+        ]
+      },
+      {
+        "character": "入",
+        "onyomi": [
+          "ニュウ"
+        ],
+        "kunyomi": [
+          "はい(-る)",
+          "い(-れる)"
+        ],
+        "meaning": "enter",
+        "examples": [
+          {
+            "word": "入る",
+            "reading": "はいる",
+            "meaning": "to enter"
+          },
+          {
+            "word": "入口",
+            "reading": "いりぐち",
+            "meaning": "entrance"
+          }
+        ]
+      },
+      {
+        "character": "東",
+        "onyomi": [
+          "トウ"
+        ],
+        "kunyomi": [
+          "ひがし"
+        ],
+        "meaning": "east",
+        "examples": [
+          {
+            "word": "東京",
+            "reading": "とうきょう",
+            "meaning": "Tokyo"
+          },
+          {
+            "word": "東",
+            "reading": "ひがし",
+            "meaning": "east"
+          }
+        ]
+      },
+      {
+        "character": "西",
+        "onyomi": [
+          "セイ"
+        ],
+        "kunyomi": [
+          "にし"
+        ],
+        "meaning": "west",
+        "examples": [
+          {
+            "word": "西",
+            "reading": "にし",
+            "meaning": "west"
+          },
+          {
+            "word": "西洋",
+            "reading": "せいよう",
+            "meaning": "the West"
+          }
+        ]
+      },
+      {
+        "character": "南",
+        "onyomi": [
+          "ナン"
+        ],
+        "kunyomi": [
+          "みなみ"
+        ],
+        "meaning": "south",
+        "examples": [
+          {
+            "word": "南",
+            "reading": "みなみ",
+            "meaning": "south"
+          },
+          {
+            "word": "南口",
+            "reading": "みなみぐち",
+            "meaning": "south exit"
+          }
+        ]
+      },
+      {
+        "character": "北",
+        "onyomi": [
+          "ホク"
+        ],
+        "kunyomi": [
+          "きた"
+        ],
+        "meaning": "north",
+        "examples": [
+          {
+            "word": "北",
+            "reading": "きた",
+            "meaning": "north"
+          },
+          {
+            "word": "北海道",
+            "reading": "ほっかいどう",
+            "meaning": "Hokkaido"
+          }
+        ]
+      },
+      {
+        "character": "上",
+        "onyomi": [
+          "ジョウ"
+        ],
+        "kunyomi": [
+          "うえ",
+          "うわ"
+        ],
+        "meaning": "up, above, top",
+        "examples": [
+          {
+            "word": "上",
+            "reading": "うえ",
+            "meaning": "above, up"
+          },
+          {
+            "word": "上手な",
+            "reading": "じょうずな",
+            "meaning": "skilled at"
+          }
+        ]
+      },
+      {
+        "character": "下",
+        "onyomi": [
+          "カ"
+        ],
+        "kunyomi": [
+          "した",
+          "しも"
+        ],
+        "meaning": "below, under, down",
+        "examples": [
+          {
+            "word": "下",
+            "reading": "した",
+            "meaning": "below, under"
+          },
+          {
+            "word": "地下鉄",
+            "reading": "ちかてつ",
+            "meaning": "subway"
+          }
+        ]
+      },
+      {
+        "character": "左",
+        "onyomi": [
+          "サ"
+        ],
+        "kunyomi": [
+          "ひだり"
+        ],
+        "meaning": "left",
+        "examples": [
+          {
+            "word": "左",
+            "reading": "ひだり",
+            "meaning": "left"
+          }
+        ]
+      },
+      {
+        "character": "右",
+        "onyomi": [
+          "ウ"
+        ],
+        "kunyomi": [
+          "みぎ"
+        ],
+        "meaning": "right",
+        "examples": [
+          {
+            "word": "右",
+            "reading": "みぎ",
+            "meaning": "right"
+          }
+        ]
+      },
+      {
+        "character": "外",
+        "onyomi": [
+          "ガイ"
+        ],
+        "kunyomi": [
+          "そと"
+        ],
+        "meaning": "outside, foreign",
+        "examples": [
+          {
+            "word": "外",
+            "reading": "そと",
+            "meaning": "outside"
+          },
+          {
+            "word": "外国",
+            "reading": "がいこく",
+            "meaning": "foreign country"
+          }
+        ]
+      },
+      {
+        "character": "休",
+        "onyomi": [
+          "キュウ"
+        ],
+        "kunyomi": [
+          "やす(-む)"
+        ],
+        "meaning": "rest, day off",
+        "examples": [
+          {
+            "word": "休む",
+            "reading": "やすむ",
+            "meaning": "to rest"
+          },
+          {
+            "word": "昼休み",
+            "reading": "ひるやすみ",
+            "meaning": "lunch break"
+          }
+        ]
+      },
+      {
+        "character": "見",
+        "onyomi": [
+          "ケン"
+        ],
+        "kunyomi": [
+          "み(-る)",
+          "み(-える)",
+          "み(-せる)"
+        ],
+        "meaning": "see, look, show",
+        "examples": [
+          {
+            "word": "見る",
+            "reading": "みる",
+            "meaning": "to see, to look"
+          },
+          {
+            "word": "見学",
+            "reading": "けんがく",
+            "meaning": "field trip"
+          },
+          {
+            "word": "花見",
+            "reading": "はなみ",
+            "meaning": "cherry-blossom viewing"
+          }
+        ]
+      },
+      {
+        "character": "言",
+        "onyomi": [
+          "ゲン"
+        ],
+        "kunyomi": [
+          "い(-う)",
+          "こと"
+        ],
+        "meaning": "say, word",
+        "examples": [
+          {
+            "word": "言う",
+            "reading": "いう",
+            "meaning": "to say"
+          },
+          {
+            "word": "言葉",
+            "reading": "ことば",
+            "meaning": "word, language"
+          }
+        ]
+      },
+      {
+        "character": "行",
+        "onyomi": [
+          "コウ"
+        ],
+        "kunyomi": [
+          "い(-く)"
+        ],
+        "meaning": "go",
+        "examples": [
+          {
+            "word": "行く",
+            "reading": "いく",
+            "meaning": "to go"
+          },
+          {
+            "word": "銀行",
+            "reading": "ぎんこう",
+            "meaning": "bank"
+          },
+          {
+            "word": "旅行",
+            "reading": "りょこう",
+            "meaning": "trip, travel"
+          }
+        ]
+      },
+      {
+        "character": "書",
+        "onyomi": [
+          "ショ"
+        ],
+        "kunyomi": [
+          "か(-く)"
+        ],
+        "meaning": "write",
+        "examples": [
+          {
+            "word": "書く",
+            "reading": "かく",
+            "meaning": "to write"
+          },
+          {
+            "word": "辞書",
+            "reading": "じしょ",
+            "meaning": "dictionary"
+          }
+        ]
+      },
+      {
+        "character": "読",
+        "onyomi": [
+          "ドク"
+        ],
+        "kunyomi": [
+          "よ(-む)"
+        ],
+        "meaning": "read",
+        "examples": [
+          {
+            "word": "読む",
+            "reading": "よむ",
+            "meaning": "to read"
+          }
+        ]
+      },
+      {
+        "character": "買",
+        "onyomi": [
+          "バイ"
+        ],
+        "kunyomi": [
+          "か(-う)"
+        ],
+        "meaning": "buy",
+        "examples": [
+          {
+            "word": "買う",
+            "reading": "かう",
+            "meaning": "to buy"
+          },
+          {
+            "word": "買いもの",
+            "reading": "かいもの",
+            "meaning": "shopping"
+          }
+        ]
+      },
+      {
+        "character": "来",
+        "onyomi": [
+          "ライ"
+        ],
+        "kunyomi": [
+          "く(-る)"
+        ],
+        "meaning": "come",
+        "examples": [
+          {
+            "word": "来る",
+            "reading": "くる",
+            "meaning": "to come"
+          },
+          {
+            "word": "来週",
+            "reading": "らいしゅう",
+            "meaning": "next week"
+          },
+          {
+            "word": "来月",
+            "reading": "らいげつ",
+            "meaning": "next month"
+          }
+        ]
+      },
+      {
+        "character": "食",
+        "onyomi": [
+          "ショク"
+        ],
+        "kunyomi": [
+          "た(-べる)"
+        ],
+        "meaning": "eat, food",
+        "examples": [
+          {
+            "word": "食べる",
+            "reading": "たべる",
+            "meaning": "to eat"
+          },
+          {
+            "word": "食事",
+            "reading": "しょくじ",
+            "meaning": "meal"
+          },
+          {
+            "word": "食堂",
+            "reading": "しょくどう",
+            "meaning": "cafeteria"
+          }
+        ]
+      },
+      {
+        "character": "飲",
+        "onyomi": [
+          "イン"
+        ],
+        "kunyomi": [
+          "の(-む)"
+        ],
+        "meaning": "drink",
+        "examples": [
+          {
+            "word": "飲む",
+            "reading": "のむ",
+            "meaning": "to drink"
+          },
+          {
+            "word": "飲みもの",
+            "reading": "のみもの",
+            "meaning": "drinks, beverages"
+          }
+        ]
+      },
+      {
+        "character": "会",
+        "onyomi": [
+          "カイ"
+        ],
+        "kunyomi": [
+          "あ(-う)"
+        ],
+        "meaning": "meet, association",
+        "examples": [
+          {
+            "word": "会う",
+            "reading": "あう",
+            "meaning": "to meet"
+          },
+          {
+            "word": "会社",
+            "reading": "かいしゃ",
+            "meaning": "company"
+          },
+          {
+            "word": "会話",
+            "reading": "かいわ",
+            "meaning": "conversation"
+          }
+        ]
+      },
+      {
+        "character": "電",
+        "onyomi": [
+          "デン"
+        ],
+        "kunyomi": [],
+        "meaning": "electricity, lightning",
+        "examples": [
+          {
+            "word": "電車",
+            "reading": "でんしゃ",
+            "meaning": "train"
+          },
+          {
+            "word": "電気",
+            "reading": "でんき",
+            "meaning": "electricity"
+          },
+          {
+            "word": "電話",
+            "reading": "でんわ",
+            "meaning": "telephone"
+          }
+        ]
+      },
+      {
+        "character": "話",
+        "onyomi": [
+          "ワ"
+        ],
+        "kunyomi": [
+          "はな(-す)",
+          "はなし"
+        ],
+        "meaning": "talk, speak, story",
+        "examples": [
+          {
+            "word": "話す",
+            "reading": "はなす",
+            "meaning": "to speak, to talk"
+          },
+          {
+            "word": "電話",
+            "reading": "でんわ",
+            "meaning": "telephone"
+          }
+        ]
+      },
+      {
+        "character": "車",
+        "onyomi": [
+          "シャ"
+        ],
+        "kunyomi": [
+          "くるま"
+        ],
+        "meaning": "car, vehicle",
+        "examples": [
+          {
+            "word": "車",
+            "reading": "くるま",
+            "meaning": "car"
+          },
+          {
+            "word": "自動車",
+            "reading": "じどうしゃ",
+            "meaning": "automobile"
+          },
+          {
+            "word": "自転車",
+            "reading": "じてんしゃ",
+            "meaning": "bicycle"
+          }
+        ]
+      },
+      {
+        "character": "花",
+        "onyomi": [
+          "カ"
+        ],
+        "kunyomi": [
+          "はな"
+        ],
+        "meaning": "flower",
+        "examples": [
+          {
+            "word": "花",
+            "reading": "はな",
+            "meaning": "flower"
+          },
+          {
+            "word": "花見",
+            "reading": "はなみ",
+            "meaning": "cherry-blossom viewing"
+          },
+          {
+            "word": "花火",
+            "reading": "はなび",
+            "meaning": "fireworks"
+          }
+        ]
+      },
+      {
+        "character": "天",
+        "onyomi": [
+          "テン"
+        ],
+        "kunyomi": [],
+        "meaning": "sky, heaven",
+        "examples": [
+          {
+            "word": "天気",
+            "reading": "てんき",
+            "meaning": "weather"
+          }
+        ]
+      },
+      {
+        "character": "気",
+        "onyomi": [
+          "キ"
+        ],
+        "kunyomi": [],
+        "meaning": "spirit, energy, feeling",
+        "examples": [
+          {
+            "word": "天気",
+            "reading": "てんき",
+            "meaning": "weather"
+          },
+          {
+            "word": "元気",
+            "reading": "げんき",
+            "meaning": "healthy, energetic"
+          },
+          {
+            "word": "電気",
+            "reading": "でんき",
+            "meaning": "electricity"
+          }
+        ]
+      },
+      {
+        "character": "耳",
+        "onyomi": [
+          "ジ"
+        ],
+        "kunyomi": [
+          "みみ"
+        ],
+        "meaning": "ear",
+        "examples": [
+          {
+            "word": "耳",
+            "reading": "みみ",
+            "meaning": "ear"
+          }
+        ]
+      },
+      {
+        "character": "手",
+        "onyomi": [
+          "シュ"
+        ],
+        "kunyomi": [
+          "て"
+        ],
+        "meaning": "hand",
+        "examples": [
+          {
+            "word": "手",
+            "reading": "て",
+            "meaning": "hand"
+          },
+          {
+            "word": "上手な",
+            "reading": "じょうずな",
+            "meaning": "skilled at"
+          }
+        ]
+      },
+      {
+        "character": "足",
+        "onyomi": [
+          "ソク"
+        ],
+        "kunyomi": [
+          "あし",
+          "た(-りる)"
+        ],
+        "meaning": "foot, leg, be sufficient",
+        "examples": [
+          {
+            "word": "足",
+            "reading": "あし",
+            "meaning": "leg, foot"
+          },
+          {
+            "word": "足りる",
+            "reading": "たりる",
+            "meaning": "to be enough"
+          }
+        ]
+      },
+      {
+        "character": "目",
+        "onyomi": [
+          "モク"
+        ],
+        "kunyomi": [
+          "め"
+        ],
+        "meaning": "eye",
+        "examples": [
+          {
+            "word": "目",
+            "reading": "め",
+            "meaning": "eye"
+          },
+          {
+            "word": "一つ目",
+            "reading": "ひとつめ",
+            "meaning": "the first one"
+          }
+        ]
+      },
+      {
+        "character": "力",
+        "onyomi": [
+          "リョク"
+        ],
+        "kunyomi": [
+          "ちから"
+        ],
+        "meaning": "strength, power",
+        "examples": [
+          {
+            "word": "力",
+            "reading": "ちから",
+            "meaning": "strength, power"
+          }
+        ]
+      },
+      {
+        "character": "川",
+        "onyomi": [
+          "セン"
+        ],
+        "kunyomi": [
+          "かわ"
+        ],
+        "meaning": "river",
+        "examples": [
+          {
+            "word": "川",
+            "reading": "かわ",
+            "meaning": "river"
+          }
+        ]
+      },
+      {
+        "character": "牛",
+        "onyomi": [
+          "ギュウ"
+        ],
+        "kunyomi": [
+          "うし"
+        ],
+        "meaning": "cow, beef",
+        "examples": [
+          {
+            "word": "牛肉",
+            "reading": "ぎゅうにく",
+            "meaning": "beef"
+          },
+          {
+            "word": "牛乳",
+            "reading": "ぎゅうにゅう",
+            "meaning": "milk"
+          }
+        ]
+      },
+      {
+        "character": "魚",
+        "onyomi": [
+          "ギョ"
+        ],
+        "kunyomi": [
+          "さかな"
+        ],
+        "meaning": "fish",
+        "examples": [
+          {
+            "word": "魚",
+            "reading": "さかな",
+            "meaning": "fish"
+          },
+          {
+            "word": "魚屋",
+            "reading": "さかなや",
+            "meaning": "fish shop"
+          }
+        ]
+      },
+      {
+        "character": "店",
+        "onyomi": [
+          "テン"
+        ],
+        "kunyomi": [
+          "みせ"
+        ],
+        "meaning": "shop, store",
+        "examples": [
+          {
+            "word": "店",
+            "reading": "みせ",
+            "meaning": "shop"
+          },
+          {
+            "word": "喫茶店",
+            "reading": "きっさてん",
+            "meaning": "coffee shop"
+          }
+        ]
+      },
+      {
+        "character": "道",
+        "onyomi": [
+          "ドウ"
+        ],
+        "kunyomi": [
+          "みち"
+        ],
+        "meaning": "road, street, way",
+        "examples": [
+          {
+            "word": "道",
+            "reading": "みち",
+            "meaning": "road, street"
+          }
+        ]
+      },
+      {
+        "character": "門",
+        "onyomi": [
+          "モン"
+        ],
+        "kunyomi": [
+          "もん"
+        ],
+        "meaning": "gate",
+        "examples": [
+          {
+            "word": "門",
+            "reading": "もん",
+            "meaning": "gate"
+          },
+          {
+            "word": "専門",
+            "reading": "せんもん",
+            "meaning": "specialty"
+          }
+        ]
+      },
+      {
+        "character": "雨",
+        "onyomi": [
+          "ウ"
+        ],
+        "kunyomi": [
+          "あめ"
+        ],
+        "meaning": "rain",
+        "examples": [
+          {
+            "word": "雨",
+            "reading": "あめ",
+            "meaning": "rain"
+          }
+        ]
+      },
+      {
+        "character": "空",
+        "onyomi": [
+          "クウ"
+        ],
+        "kunyomi": [
+          "そら"
+        ],
+        "meaning": "sky, empty",
+        "examples": [
+          {
+            "word": "空",
+            "reading": "そら",
+            "meaning": "sky"
+          },
+          {
+            "word": "空港",
+            "reading": "くうこう",
+            "meaning": "airport"
+          },
+          {
+            "word": "空気",
+            "reading": "くうき",
+            "meaning": "air"
+          }
+        ]
+      },
+      {
+        "character": "白",
+        "onyomi": [
+          "ハク"
+        ],
+        "kunyomi": [
+          "しろ",
+          "しろ(-い)"
+        ],
+        "meaning": "white",
+        "examples": [
+          {
+            "word": "白",
+            "reading": "しろ",
+            "meaning": "white (noun)"
+          },
+          {
+            "word": "白い",
+            "reading": "しろい",
+            "meaning": "white (adjective)"
+          }
+        ]
+      },
+      {
+        "character": "田",
+        "onyomi": [
+          "タ"
+        ],
+        "kunyomi": [
+          "た"
+        ],
+        "meaning": "rice field",
+        "examples": [
+          {
+            "word": "田中さん",
+            "reading": "たなかさん",
+            "meaning": "Mr./Ms. Tanaka (surname)"
+          }
+        ]
+      },
+      {
+        "character": "山",
+        "onyomi": [
+          "サン"
+        ],
+        "kunyomi": [
+          "やま"
+        ],
+        "meaning": "mountain",
+        "examples": [
+          {
+            "word": "山",
+            "reading": "やま",
+            "meaning": "mountain"
+          },
+          {
+            "word": "ふじ山",
+            "reading": "ふじさん",
+            "meaning": "Mt. Fuji"
+          }
+        ]
+      },
+      {
+        "character": "語",
+        "onyomi": [
+          "ゴ"
+        ],
+        "kunyomi": [],
+        "meaning": "language, word",
+        "examples": [
+          {
+            "word": "日本語",
+            "reading": "にほんご",
+            "meaning": "Japanese language"
+          },
+          {
+            "word": "英語",
+            "reading": "えいご",
+            "meaning": "English language"
+          }
+        ]
+      },
+      {
+        "character": "本",
+        "onyomi": [
+          "ホン"
+        ],
+        "kunyomi": [
+          "ほん"
+        ],
+        "meaning": "book, origin, counter for long objects",
+        "examples": [
+          {
+            "word": "本",
+            "reading": "ほん",
+            "meaning": "book"
+          },
+          {
+            "word": "日本",
+            "reading": "にほん",
+            "meaning": "Japan"
+          }
+        ]
+      }
+    ]
+  }

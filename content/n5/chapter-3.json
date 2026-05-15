@@ -1,0 +1,1222 @@
+{
+    "title": "Grammar and Reading Practice 1: Adjective Forms, Particles, and Question Words",
+    "jlpt": "N5",
+    "chapter": 3,
+    "vocabulary": [
+      {
+        "word": "おもしろい",
+        "reading": "おもしろい",
+        "meaning": "interesting, funny"
+      },
+      {
+        "word": "おもしろかったです",
+        "reading": "おもしろかったです",
+        "meaning": "was interesting (past)"
+      },
+      {
+        "word": "おもしろくないです",
+        "reading": "おもしろくないです",
+        "meaning": "is not interesting (negative)"
+      },
+      {
+        "word": "おもしろくなかったです",
+        "reading": "おもしろくなかったです",
+        "meaning": "was not interesting (past negative)"
+      },
+      {
+        "word": "よかったです",
+        "reading": "よかったです",
+        "meaning": "was good (past of いい)"
+      },
+      {
+        "word": "よくないです",
+        "reading": "よくないです",
+        "meaning": "is not good (negative of いい)"
+      },
+      {
+        "word": "よくなかったです",
+        "reading": "よくなかったです",
+        "meaning": "was not good (past negative of いい)"
+      },
+      {
+        "word": "きれいです",
+        "reading": "きれいです",
+        "meaning": "is clean, pretty (na-adjective)"
+      },
+      {
+        "word": "きれいでした",
+        "reading": "きれいでした",
+        "meaning": "was clean, pretty (past)"
+      },
+      {
+        "word": "きれいじゃないです",
+        "reading": "きれいじゃないです",
+        "meaning": "is not clean/pretty (negative)"
+      },
+      {
+        "word": "きれいじゃなかったです",
+        "reading": "きれいじゃなかったです",
+        "meaning": "was not clean/pretty (past negative)"
+      },
+      {
+        "word": "あります",
+        "reading": "あります",
+        "meaning": "there is/are (inanimate); to have"
+      },
+      {
+        "word": "います",
+        "reading": "います",
+        "meaning": "there is/are (animate: people/animals); to have"
+      },
+      {
+        "word": "ありません",
+        "reading": "ありません",
+        "meaning": "there is not (inanimate)"
+      },
+      {
+        "word": "いません",
+        "reading": "いません",
+        "meaning": "there is not (animate)"
+      },
+      {
+        "word": "かさ",
+        "reading": "かさ",
+        "meaning": "umbrella"
+      },
+      {
+        "word": "ペン",
+        "reading": "ペン",
+        "meaning": "pen"
+      },
+      {
+        "word": "バッグ",
+        "reading": "バッグ",
+        "meaning": "bag"
+      },
+      {
+        "word": "とけい",
+        "reading": "とけい",
+        "meaning": "watch, clock"
+      },
+      {
+        "word": "えんぴつ",
+        "reading": "えんぴつ",
+        "meaning": "pencil"
+      },
+      {
+        "word": "けしゴム",
+        "reading": "けしゴム",
+        "meaning": "eraser"
+      },
+      {
+        "word": "ナイフ",
+        "reading": "ナイフ",
+        "meaning": "knife"
+      },
+      {
+        "word": "テーブル",
+        "reading": "テーブル",
+        "meaning": "table"
+      },
+      {
+        "word": "クラス",
+        "reading": "クラス",
+        "meaning": "class"
+      },
+      {
+        "word": "せ",
+        "reading": "せ",
+        "meaning": "height, stature"
+      },
+      {
+        "word": "かみ",
+        "reading": "かみ",
+        "meaning": "hair"
+      },
+      {
+        "word": "みじかい",
+        "reading": "みじかい",
+        "meaning": "short (length)"
+      },
+      {
+        "word": "きたない",
+        "reading": "きたない",
+        "meaning": "dirty, messy"
+      },
+      {
+        "word": "べんりな",
+        "reading": "べんりな",
+        "meaning": "convenient, handy"
+      },
+      {
+        "word": "しずかな",
+        "reading": "しずかな",
+        "meaning": "quiet, peaceful"
+      },
+      {
+        "word": "テスト",
+        "reading": "テスト",
+        "meaning": "test, exam"
+      },
+      {
+        "word": "コンサート",
+        "reading": "コンサート",
+        "meaning": "concert"
+      },
+      {
+        "word": "パーティー",
+        "reading": "パーティー",
+        "meaning": "party"
+      },
+      {
+        "word": "さよならパーティー",
+        "reading": "さよならパーティー",
+        "meaning": "farewell party"
+      },
+      {
+        "word": "たんじょう日パーティー",
+        "reading": "たんじょうびパーティー",
+        "meaning": "birthday party"
+      },
+      {
+        "word": "レストラン",
+        "reading": "レストラン",
+        "meaning": "restaurant"
+      },
+      {
+        "word": "やおや",
+        "reading": "やおや",
+        "meaning": "greengrocer, fruit and vegetable shop"
+      },
+      {
+        "word": "ゆうびんきょく",
+        "reading": "ゆうびんきょく",
+        "meaning": "post office"
+      },
+      {
+        "word": "としょかん",
+        "reading": "としょかん",
+        "meaning": "library"
+      },
+      {
+        "word": "ビル",
+        "reading": "ビル",
+        "meaning": "building"
+      },
+      {
+        "word": "コンビニ",
+        "reading": "コンビニ",
+        "meaning": "convenience store"
+      },
+      {
+        "word": "バス",
+        "reading": "バス",
+        "meaning": "bus"
+      },
+      {
+        "word": "タクシー",
+        "reading": "タクシー",
+        "meaning": "taxi"
+      },
+      {
+        "word": "あるいて",
+        "reading": "あるいて",
+        "meaning": "on foot, by walking"
+      },
+      {
+        "word": "まがる",
+        "reading": "まがる",
+        "meaning": "to turn (a corner)"
+      },
+      {
+        "word": "とおる",
+        "reading": "とおる",
+        "meaning": "to pass through, to go along"
+      },
+      {
+        "word": "おりる",
+        "reading": "おりる",
+        "meaning": "to get off (a vehicle)"
+      },
+      {
+        "word": "のる",
+        "reading": "のる",
+        "meaning": "to ride, to get on (a vehicle)"
+      },
+      {
+        "word": "はじまる",
+        "reading": "はじまる",
+        "meaning": "to start, to begin (intransitive)"
+      },
+      {
+        "word": "おわる",
+        "reading": "おわる",
+        "meaning": "to finish, to end (intransitive)"
+      },
+      {
+        "word": "かかる",
+        "reading": "かかる",
+        "meaning": "to take (time/money)"
+      },
+      {
+        "word": "きる",
+        "reading": "きる",
+        "meaning": "to cut"
+      },
+      {
+        "word": "はなす",
+        "reading": "はなす",
+        "meaning": "to speak, to talk"
+      },
+      {
+        "word": "きく",
+        "reading": "きく",
+        "meaning": "to listen; to ask"
+      },
+      {
+        "word": "おしえる",
+        "reading": "おしえる",
+        "meaning": "to teach, to tell"
+      },
+      {
+        "word": "あんないする",
+        "reading": "あんないする",
+        "meaning": "to guide, to show around"
+      },
+      {
+        "word": "べんきょうする",
+        "reading": "べんきょうする",
+        "meaning": "to study"
+      },
+      {
+        "word": "けんかをする",
+        "reading": "けんかをする",
+        "meaning": "to have a fight, to quarrel"
+      },
+      {
+        "word": "だれ",
+        "reading": "だれ",
+        "meaning": "who"
+      },
+      {
+        "word": "どなた",
+        "reading": "どなた",
+        "meaning": "who (polite)"
+      },
+      {
+        "word": "なに／なん",
+        "reading": "なに／なん",
+        "meaning": "what"
+      },
+      {
+        "word": "どこ",
+        "reading": "どこ",
+        "meaning": "where"
+      },
+      {
+        "word": "どちら",
+        "reading": "どちら",
+        "meaning": "where (polite); which direction"
+      },
+      {
+        "word": "どうやって／なんで",
+        "reading": "どうやって／なんで",
+        "meaning": "how, by what means"
+      },
+      {
+        "word": "どんな",
+        "reading": "どんな",
+        "meaning": "what kind of"
+      },
+      {
+        "word": "どの",
+        "reading": "どの",
+        "meaning": "which (before a noun)"
+      },
+      {
+        "word": "いつ",
+        "reading": "いつ",
+        "meaning": "when"
+      },
+      {
+        "word": "どれ",
+        "reading": "どれ",
+        "meaning": "which one (of three or more)"
+      },
+      {
+        "word": "どうして／なぜ",
+        "reading": "どうして／なぜ",
+        "meaning": "why"
+      },
+      {
+        "word": "いくら",
+        "reading": "いくら",
+        "meaning": "how much (price)"
+      },
+      {
+        "word": "どのくらい／どれくらい",
+        "reading": "どのくらい／どれくらい",
+        "meaning": "how long, how much, how many"
+      },
+      {
+        "word": "いくつ",
+        "reading": "いくつ",
+        "meaning": "how many; how old"
+      },
+      {
+        "word": "こちら",
+        "reading": "こちら",
+        "meaning": "this person (introduction); this way (polite)"
+      },
+      {
+        "word": "そちら",
+        "reading": "そちら",
+        "meaning": "that person (introduction); that way (polite)"
+      },
+      {
+        "word": "ひとりで",
+        "reading": "ひとりで",
+        "meaning": "by oneself, alone"
+      },
+      {
+        "word": "いっしょに",
+        "reading": "いっしょに",
+        "meaning": "together"
+      },
+      {
+        "word": "まいあさ",
+        "reading": "まいあさ",
+        "meaning": "every morning"
+      },
+      {
+        "word": "きのう",
+        "reading": "きのう",
+        "meaning": "yesterday"
+      },
+      {
+        "word": "あした",
+        "reading": "あした",
+        "meaning": "tomorrow"
+      },
+      {
+        "word": "あさって",
+        "reading": "あさって",
+        "meaning": "the day after tomorrow"
+      },
+      {
+        "word": "ごろ",
+        "reading": "ごろ",
+        "meaning": "around (approximate time)"
+      },
+      {
+        "word": "くらい／ぐらい",
+        "reading": "くらい／ぐらい",
+        "meaning": "approximately, about (quantity/degree)"
+      },
+      {
+        "word": "だけ",
+        "reading": "だけ",
+        "meaning": "only, just"
+      },
+      {
+        "word": "など",
+        "reading": "など",
+        "meaning": "and so on, et cetera"
+      },
+      {
+        "word": "か",
+        "reading": "か",
+        "meaning": "or (used between nouns)"
+      },
+      {
+        "word": "や",
+        "reading": "や",
+        "meaning": "and (among other things), like"
+      },
+      {
+        "word": "も",
+        "reading": "も",
+        "meaning": "also, too; (with neg.) either"
+      },
+      {
+        "word": "なっとう",
+        "reading": "なっとう",
+        "meaning": "natto (fermented soybeans)"
+      },
+      {
+        "word": "すし",
+        "reading": "すし",
+        "meaning": "sushi"
+      },
+      {
+        "word": "おかし",
+        "reading": "おかし",
+        "meaning": "sweets, snacks"
+      },
+      {
+        "word": "おふろ",
+        "reading": "おふろ",
+        "meaning": "bath, bathtub"
+      },
+      {
+        "word": "まち",
+        "reading": "まち",
+        "meaning": "town, city, street"
+      },
+      {
+        "word": "せかい",
+        "reading": "せかい",
+        "meaning": "world"
+      },
+      {
+        "word": "ナイル川",
+        "reading": "ナイルがわ",
+        "meaning": "the Nile River"
+      },
+      {
+        "word": "ランチ",
+        "reading": "ランチ",
+        "meaning": "lunch"
+      },
+      {
+        "word": "ひとつ",
+        "reading": "ひとつ",
+        "meaning": "one (general counter)"
+      },
+      {
+        "word": "ふたつ",
+        "reading": "ふたつ",
+        "meaning": "two (general counter)"
+      },
+      {
+        "word": "みっつ",
+        "reading": "みっつ",
+        "meaning": "three (general counter)"
+      },
+      {
+        "word": "よっつ",
+        "reading": "よっつ",
+        "meaning": "four (general counter)"
+      },
+      {
+        "word": "いっさつ",
+        "reading": "いっさつ",
+        "meaning": "one (counter for books/magazines)"
+      },
+      {
+        "word": "にさつ",
+        "reading": "にさつ",
+        "meaning": "two (counter for books/magazines)"
+      },
+      {
+        "word": "いちにん",
+        "reading": "いちにん",
+        "meaning": "one person"
+      },
+      {
+        "word": "ふたり",
+        "reading": "ふたり",
+        "meaning": "two people"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "い形容詞 の 活用 — い-adjective conjugation",
+        "meaning": "い-adjectives change ending for tense and polarity: ~い (present positive) → ~くない (present negative) → ~かった (past positive) → ~くなかった (past negative). Special case: いい → よい → よくない → よかった → よくなかった.",
+        "example": "おもしろいです → おもしろくないです → おもしろかったです → おもしろくなかったです"
+      },
+      {
+        "pattern": "な形容詞 の 活用 — na-adjective conjugation",
+        "meaning": "な-adjectives use では/じゃ ありません for negative and でした for past. Past negative: では/じゃ ありませんでした / じゃなかったです.",
+        "example": "きれいです → きれいじゃないです → きれいでした → きれいじゃなかったです"
+      },
+      {
+        "pattern": "あります vs います",
+        "meaning": "あります expresses existence of inanimate objects (or possession). います expresses existence of people and animals. Both follow the pattern: [place] に [subject] が あります/います.",
+        "example": "つくえの 上に ほんが あります。／ いすの 上に ねこが います。"
+      },
+      {
+        "pattern": "〜の (pronoun replacement)",
+        "meaning": "の can replace a noun already understood from context. It stands in for the noun after a possessive or descriptor.",
+        "example": "A「この ペンは あなたのですか。」B「田中さんのです。わたしのは あおいのです。」"
+      },
+      {
+        "pattern": "N は (topic marker — dual function)",
+        "meaning": "は marks the topic of the sentence. It can ① indicate the topic, or ② express contrast or emphasis between two things.",
+        "example": "① わたしは カナダから 来ました。② にくは 食べますが、さかなは 食べません。"
+      },
+      {
+        "pattern": "疑問詞 + が (question word as subject)",
+        "meaning": "When an interrogative word (だれ、なに、どれ etc.) is the subject of the sentence, it takes が, not は.",
+        "example": "どれが 田中さんの コップですか。"
+      },
+      {
+        "pattern": "N に (particle — place, time, recipient)",
+        "meaning": "に marks ① a destination or location, ② a specific point in time, ③ the recipient of an action.",
+        "example": "① 右に まがってください。② 月よう日に 来てください。③ 先生に 聞きます。"
+      },
+      {
+        "pattern": "N で (particle — place of action, means, scope)",
+        "meaning": "で marks ① the place where an action occurs, ② the method/tool used, ③ the scope or range.",
+        "example": "① こうえんで あそびました。② 電車で 行きます。③ せかいで いちばん 長い 川は ナイル川です。"
+      },
+      {
+        "pattern": "N から N まで (from ~ to ~)",
+        "meaning": "から marks the starting point (place or time); まで marks the end point. Used together to express a range.",
+        "example": "うちから 学校まで 1時間 かかります。／ テストは 15日から 18日までです。"
+      },
+      {
+        "pattern": "N ごろ / N くらい／ぐらい / N だけ / N か N / N や N など",
+        "meaning": "ごろ = around (time approximation). くらい/ぐらい = approximately (quantity/degree). だけ = only/just. か = or (between nouns). や〜など = things like ~ and ~.",
+        "example": "7時ごろ 電話します。／ 1,000円ぐらい かかります。／ 休みは 日よう日だけです。／ コーヒーか こうちゃ、どちらが いいですか。／ 駅の 前には コンビニや ぎんこうなどが あります。"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "「おもしろい」の かこけいは なんですか。",
+        "options": [
+          "おもしろかったです",
+          "おもしろくないです",
+          "おもしろいでした",
+          "おもしろなかったです"
+        ],
+        "answer": "おもしろかったです"
+      },
+      {
+        "question": "「いい」の かこけい（ひていけい）は なんですか。",
+        "options": [
+          "いくなかったです",
+          "よかったです",
+          "いいじゃなかったです",
+          "よくなかったです"
+        ],
+        "answer": "よくなかったです"
+      },
+      {
+        "question": "「きれい」は なに形容詞ですか。",
+        "options": [
+          "い形容詞",
+          "な形容詞",
+          "どうし",
+          "めいし"
+        ],
+        "answer": "な形容詞"
+      },
+      {
+        "question": "「いすの 上に ねこが ___。」— なにが はいりますか。",
+        "options": [
+          "あります",
+          "います",
+          "ありません",
+          "いらいます"
+        ],
+        "answer": "います"
+      },
+      {
+        "question": "「つくえの 上に ほんが ___。」— なにが はいりますか。",
+        "options": [
+          "います",
+          "いません",
+          "あります",
+          "おります"
+        ],
+        "answer": "あります"
+      },
+      {
+        "question": "「___ が 田中さんの コップですか。」— なにが はいりますか。",
+        "options": [
+          "なに",
+          "どれ",
+          "どの",
+          "どこ"
+        ],
+        "answer": "どれ"
+      },
+      {
+        "question": "「どんな」は えいごで なんですか。",
+        "options": [
+          "which",
+          "how many",
+          "what kind of",
+          "where"
+        ],
+        "answer": "what kind of"
+      },
+      {
+        "question": "「うちから 学校まで 1時間 かかります。」の「から」と「まで」は なにを あらわしますか。",
+        "options": [
+          "because / only",
+          "from / to (range)",
+          "or / and",
+          "about / around"
+        ],
+        "answer": "from / to (range)"
+      },
+      {
+        "question": "「ナイフで きります」の「で」は なにを あらわしますか。",
+        "options": [
+          "destination",
+          "topic marker",
+          "means / method",
+          "time"
+        ],
+        "answer": "means / method"
+      },
+      {
+        "question": "「7時ごろ 電話します」の「ごろ」は えいごで なんですか。",
+        "options": [
+          "only",
+          "at exactly",
+          "around / approximately",
+          "until"
+        ],
+        "answer": "around / approximately"
+      },
+      {
+        "question": "「休みは 日よう日だけです」の「だけ」は えいごで なんですか。",
+        "options": [
+          "also",
+          "only / just",
+          "about",
+          "or"
+        ],
+        "answer": "only / just"
+      },
+      {
+        "question": "「コーヒーか こうちゃ、どちらが いいですか」の「か」は なにを あらわしますか。",
+        "options": [
+          "and (listing)",
+          "or (choice)",
+          "also",
+          "even"
+        ],
+        "answer": "or (choice)"
+      },
+      {
+        "question": "「こちらは リンさんです」— 「こちら」は ここで なにを あらわしますか。",
+        "options": [
+          "this place",
+          "this direction",
+          "this person (introduction)",
+          "this thing"
+        ],
+        "answer": "this person (introduction)"
+      },
+      {
+        "question": "「月よう日に 来てください」の「に」は なにを あらわしますか。",
+        "options": [
+          "place of action",
+          "means/method",
+          "specific point in time",
+          "direction of movement"
+        ],
+        "answer": "specific point in time"
+      },
+      {
+        "question": "「いくつ」は なにを きくときに つかいますか。",
+        "options": [
+          "how much (price)",
+          "how many / how old",
+          "how long (distance)",
+          "which one"
+        ],
+        "answer": "how many / how old"
+      }
+    ],
+    "kanji": [
+      {
+        "character": "来",
+        "onyomi": [
+          "ライ"
+        ],
+        "kunyomi": [
+          "く(-る)",
+          "き(-た)"
+        ],
+        "meaning": "come",
+        "examples": [
+          {
+            "word": "来ます",
+            "reading": "きます",
+            "meaning": "to come"
+          },
+          {
+            "word": "来ました",
+            "reading": "きました",
+            "meaning": "came (past tense)"
+          },
+          {
+            "word": "来なかった",
+            "reading": "こなかった",
+            "meaning": "did not come (plain past negative)"
+          }
+        ]
+      },
+      {
+        "character": "週",
+        "onyomi": [
+          "シュウ"
+        ],
+        "kunyomi": [],
+        "meaning": "week",
+        "examples": [
+          {
+            "word": "来週",
+            "reading": "らいしゅう",
+            "meaning": "next week"
+          },
+          {
+            "word": "今週",
+            "reading": "こんしゅう",
+            "meaning": "this week"
+          },
+          {
+            "word": "先週",
+            "reading": "せんしゅう",
+            "meaning": "last week"
+          }
+        ]
+      },
+      {
+        "character": "部",
+        "onyomi": [
+          "ブ"
+        ],
+        "kunyomi": [
+          "へ(-や)"
+        ],
+        "meaning": "section, part, room",
+        "examples": [
+          {
+            "word": "部屋",
+            "reading": "へや",
+            "meaning": "room"
+          }
+        ]
+      },
+      {
+        "character": "屋",
+        "onyomi": [
+          "オク"
+        ],
+        "kunyomi": [
+          "や"
+        ],
+        "meaning": "roof, shop, person",
+        "examples": [
+          {
+            "word": "部屋",
+            "reading": "へや",
+            "meaning": "room"
+          },
+          {
+            "word": "魚屋",
+            "reading": "さかなや",
+            "meaning": "fish shop"
+          }
+        ]
+      },
+      {
+        "character": "東",
+        "onyomi": [
+          "トウ"
+        ],
+        "kunyomi": [
+          "ひがし"
+        ],
+        "meaning": "east",
+        "examples": [
+          {
+            "word": "東京",
+            "reading": "とうきょう",
+            "meaning": "Tokyo"
+          }
+        ]
+      },
+      {
+        "character": "京",
+        "onyomi": [
+          "キョウ",
+          "ケイ"
+        ],
+        "kunyomi": [],
+        "meaning": "capital city",
+        "examples": [
+          {
+            "word": "東京",
+            "reading": "とうきょう",
+            "meaning": "Tokyo"
+          }
+        ]
+      },
+      {
+        "character": "図",
+        "onyomi": [
+          "ト",
+          "ズ"
+        ],
+        "kunyomi": [
+          "はか(-る)"
+        ],
+        "meaning": "diagram, map",
+        "examples": [
+          {
+            "word": "図書館",
+            "reading": "としょかん",
+            "meaning": "library"
+          }
+        ]
+      },
+      {
+        "character": "書",
+        "onyomi": [
+          "ショ"
+        ],
+        "kunyomi": [
+          "か(-く)"
+        ],
+        "meaning": "write, document",
+        "examples": [
+          {
+            "word": "図書館",
+            "reading": "としょかん",
+            "meaning": "library"
+          },
+          {
+            "word": "書く",
+            "reading": "かく",
+            "meaning": "to write"
+          }
+        ]
+      },
+      {
+        "character": "館",
+        "onyomi": [
+          "カン"
+        ],
+        "kunyomi": [],
+        "meaning": "building, hall",
+        "examples": [
+          {
+            "word": "図書館",
+            "reading": "としょかん",
+            "meaning": "library"
+          }
+        ]
+      },
+      {
+        "character": "郵",
+        "onyomi": [
+          "ユウ"
+        ],
+        "kunyomi": [],
+        "meaning": "mail, post",
+        "examples": [
+          {
+            "word": "郵便局",
+            "reading": "ゆうびんきょく",
+            "meaning": "post office"
+          }
+        ]
+      },
+      {
+        "character": "便",
+        "onyomi": [
+          "ベン",
+          "ビン"
+        ],
+        "kunyomi": [
+          "たよ(-り)"
+        ],
+        "meaning": "convenient, mail",
+        "examples": [
+          {
+            "word": "郵便局",
+            "reading": "ゆうびんきょく",
+            "meaning": "post office"
+          },
+          {
+            "word": "便利な",
+            "reading": "べんりな",
+            "meaning": "convenient"
+          }
+        ]
+      },
+      {
+        "character": "局",
+        "onyomi": [
+          "キョク"
+        ],
+        "kunyomi": [],
+        "meaning": "bureau, office",
+        "examples": [
+          {
+            "word": "郵便局",
+            "reading": "ゆうびんきょく",
+            "meaning": "post office"
+          }
+        ]
+      },
+      {
+        "character": "世",
+        "onyomi": [
+          "セ",
+          "セイ"
+        ],
+        "kunyomi": [
+          "よ"
+        ],
+        "meaning": "world, generation",
+        "examples": [
+          {
+            "word": "世界",
+            "reading": "せかい",
+            "meaning": "world"
+          }
+        ]
+      },
+      {
+        "character": "界",
+        "onyomi": [
+          "カイ"
+        ],
+        "kunyomi": [],
+        "meaning": "world, boundary",
+        "examples": [
+          {
+            "word": "世界",
+            "reading": "せかい",
+            "meaning": "world"
+          }
+        ]
+      },
+      {
+        "character": "町",
+        "onyomi": [
+          "チョウ"
+        ],
+        "kunyomi": [
+          "まち"
+        ],
+        "meaning": "town, city block",
+        "examples": [
+          {
+            "word": "町",
+            "reading": "まち",
+            "meaning": "town, city"
+          }
+        ]
+      },
+      {
+        "character": "朝",
+        "onyomi": [
+          "チョウ"
+        ],
+        "kunyomi": [
+          "あさ"
+        ],
+        "meaning": "morning",
+        "examples": [
+          {
+            "word": "毎朝",
+            "reading": "まいあさ",
+            "meaning": "every morning"
+          },
+          {
+            "word": "今朝",
+            "reading": "けさ",
+            "meaning": "this morning"
+          }
+        ]
+      },
+      {
+        "character": "昨",
+        "onyomi": [
+          "サク"
+        ],
+        "kunyomi": [
+          "きの(-う)"
+        ],
+        "meaning": "yesterday, previous",
+        "examples": [
+          {
+            "word": "昨日",
+            "reading": "きのう",
+            "meaning": "yesterday"
+          }
+        ]
+      },
+      {
+        "character": "明",
+        "onyomi": [
+          "メイ",
+          "ミョウ"
+        ],
+        "kunyomi": [
+          "あ(-かるい)",
+          "あした"
+        ],
+        "meaning": "bright, next day",
+        "examples": [
+          {
+            "word": "明日",
+            "reading": "あした",
+            "meaning": "tomorrow"
+          }
+        ]
+      },
+      {
+        "character": "切",
+        "onyomi": [
+          "セツ"
+        ],
+        "kunyomi": [
+          "き(-る)",
+          "き(-れる)"
+        ],
+        "meaning": "cut, slice",
+        "examples": [
+          {
+            "word": "切る",
+            "reading": "きる",
+            "meaning": "to cut"
+          },
+          {
+            "word": "大切な",
+            "reading": "たいせつな",
+            "meaning": "important, precious"
+          }
+        ]
+      },
+      {
+        "character": "教",
+        "onyomi": [
+          "キョウ"
+        ],
+        "kunyomi": [
+          "おし(-える)",
+          "おそ(-わる)"
+        ],
+        "meaning": "teach, instruct",
+        "examples": [
+          {
+            "word": "教える",
+            "reading": "おしえる",
+            "meaning": "to teach, to tell"
+          }
+        ]
+      },
+      {
+        "character": "始",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "はじ(-まる)",
+          "はじ(-める)"
+        ],
+        "meaning": "begin, start",
+        "examples": [
+          {
+            "word": "始まる",
+            "reading": "はじまる",
+            "meaning": "to begin (intransitive)"
+          }
+        ]
+      },
+      {
+        "character": "終",
+        "onyomi": [
+          "シュウ"
+        ],
+        "kunyomi": [
+          "お(-わる)",
+          "お(-える)"
+        ],
+        "meaning": "end, finish",
+        "examples": [
+          {
+            "word": "終わる",
+            "reading": "おわる",
+            "meaning": "to end, to finish (intransitive)"
+          }
+        ]
+      },
+      {
+        "character": "乗",
+        "onyomi": [
+          "ジョウ"
+        ],
+        "kunyomi": [
+          "の(-る)"
+        ],
+        "meaning": "ride, board",
+        "examples": [
+          {
+            "word": "乗る",
+            "reading": "のる",
+            "meaning": "to ride, to board"
+          },
+          {
+            "word": "乗り物",
+            "reading": "のりもの",
+            "meaning": "vehicle"
+          }
+        ]
+      },
+      {
+        "character": "降",
+        "onyomi": [
+          "コウ"
+        ],
+        "kunyomi": [
+          "お(-りる)",
+          "ふ(-る)"
+        ],
+        "meaning": "descend, get off; fall (rain/snow)",
+        "examples": [
+          {
+            "word": "降りる",
+            "reading": "おりる",
+            "meaning": "to get off (a vehicle)"
+          }
+        ]
+      },
+      {
+        "character": "通",
+        "onyomi": [
+          "ツウ"
+        ],
+        "kunyomi": [
+          "とお(-る)",
+          "かよ(-う)"
+        ],
+        "meaning": "pass through, commute",
+        "examples": [
+          {
+            "word": "通る",
+            "reading": "とおる",
+            "meaning": "to pass through"
+          }
+        ]
+      },
+      {
+        "character": "曲",
+        "onyomi": [
+          "キョク"
+        ],
+        "kunyomi": [
+          "ま(-がる)",
+          "ま(-げる)"
+        ],
+        "meaning": "curve, bend, turn",
+        "examples": [
+          {
+            "word": "曲がる",
+            "reading": "まがる",
+            "meaning": "to turn (a corner)"
+          }
+        ]
+      }
+    ]
+  }

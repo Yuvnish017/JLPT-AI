@@ -1,0 +1,1540 @@
+{
+    "title": "Kanji and Vocabulary Practice 2: Adjectives, Verbs, Adverbs, Family & Daily Life",
+    "jlpt": "N5",
+    "chapter": 2,
+    "vocabulary": [
+      {
+        "word": "あまい",
+        "reading": "あまい",
+        "meaning": "sweet"
+      },
+      {
+        "word": "からい",
+        "reading": "からい",
+        "meaning": "spicy, salty"
+      },
+      {
+        "word": "にがい",
+        "reading": "にがい",
+        "meaning": "bitter"
+      },
+      {
+        "word": "おもい",
+        "reading": "おもい",
+        "meaning": "heavy"
+      },
+      {
+        "word": "かるい",
+        "reading": "かるい",
+        "meaning": "light (not heavy)"
+      },
+      {
+        "word": "あつい",
+        "reading": "あつい",
+        "meaning": "hot (temperature of objects)"
+      },
+      {
+        "word": "つめたい",
+        "reading": "つめたい",
+        "meaning": "cold (to the touch)"
+      },
+      {
+        "word": "あつい",
+        "reading": "あつい",
+        "meaning": "hot (weather/day)"
+      },
+      {
+        "word": "さむい",
+        "reading": "さむい",
+        "meaning": "cold (weather)"
+      },
+      {
+        "word": "あたたかい",
+        "reading": "あたたかい",
+        "meaning": "warm"
+      },
+      {
+        "word": "すずしい",
+        "reading": "すずしい",
+        "meaning": "cool, refreshing"
+      },
+      {
+        "word": "おもしろい",
+        "reading": "おもしろい",
+        "meaning": "interesting, funny"
+      },
+      {
+        "word": "つまらない",
+        "reading": "つまらない",
+        "meaning": "boring, dull"
+      },
+      {
+        "word": "せまい",
+        "reading": "せまい",
+        "meaning": "narrow, small (space)"
+      },
+      {
+        "word": "ひろい",
+        "reading": "ひろい",
+        "meaning": "wide, spacious"
+      },
+      {
+        "word": "とおい",
+        "reading": "とおい",
+        "meaning": "far"
+      },
+      {
+        "word": "ちかい",
+        "reading": "ちかい",
+        "meaning": "close, near"
+      },
+      {
+        "word": "やさしい",
+        "reading": "やさしい",
+        "meaning": "easy, gentle, kind"
+      },
+      {
+        "word": "むずかしい",
+        "reading": "むずかしい",
+        "meaning": "difficult"
+      },
+      {
+        "word": "いそがしい",
+        "reading": "いそがしい",
+        "meaning": "busy"
+      },
+      {
+        "word": "ひまな",
+        "reading": "ひまな",
+        "meaning": "free, leisurely, not busy"
+      },
+      {
+        "word": "きらいな",
+        "reading": "きらいな",
+        "meaning": "disliked, hated"
+      },
+      {
+        "word": "すきな",
+        "reading": "すきな",
+        "meaning": "liked, favorite"
+      },
+      {
+        "word": "すむ",
+        "reading": "すむ",
+        "meaning": "to live (in a place)"
+      },
+      {
+        "word": "つとめる",
+        "reading": "つとめる",
+        "meaning": "to work for (a company)"
+      },
+      {
+        "word": "はたらく",
+        "reading": "はたらく",
+        "meaning": "to work, to be employed"
+      },
+      {
+        "word": "つくる",
+        "reading": "つくる",
+        "meaning": "to make, to create"
+      },
+      {
+        "word": "うる",
+        "reading": "うる",
+        "meaning": "to sell"
+      },
+      {
+        "word": "しる",
+        "reading": "しる",
+        "meaning": "to know"
+      },
+      {
+        "word": "けっこんする",
+        "reading": "けっこんする",
+        "meaning": "to marry, to get married"
+      },
+      {
+        "word": "タバコをすう",
+        "reading": "タバコをすう",
+        "meaning": "to smoke (cigarettes)"
+      },
+      {
+        "word": "おきる",
+        "reading": "おきる",
+        "meaning": "to get up, to wake up"
+      },
+      {
+        "word": "ねる",
+        "reading": "ねる",
+        "meaning": "to go to sleep, to go to bed"
+      },
+      {
+        "word": "かえる",
+        "reading": "かえる",
+        "meaning": "to return home, to go back"
+      },
+      {
+        "word": "おく",
+        "reading": "おく",
+        "meaning": "to put, to place"
+      },
+      {
+        "word": "あそぶ",
+        "reading": "あそぶ",
+        "meaning": "to play, to have fun"
+      },
+      {
+        "word": "シャワーをあびる",
+        "reading": "シャワーをあびる",
+        "meaning": "to take a shower"
+      },
+      {
+        "word": "つかう",
+        "reading": "つかう",
+        "meaning": "to use"
+      },
+      {
+        "word": "かかる",
+        "reading": "かかる",
+        "meaning": "to take (time/money), to cost"
+      },
+      {
+        "word": "あける",
+        "reading": "あける",
+        "meaning": "to open (something)"
+      },
+      {
+        "word": "しめる",
+        "reading": "しめる",
+        "meaning": "to close, to shut (something)"
+      },
+      {
+        "word": "つける",
+        "reading": "つける",
+        "meaning": "to turn on (a device/light)"
+      },
+      {
+        "word": "けす",
+        "reading": "けす",
+        "meaning": "to turn off; to erase; to extinguish"
+      },
+      {
+        "word": "かける",
+        "reading": "かける",
+        "meaning": "to put on (glasses); to lock; to telephone"
+      },
+      {
+        "word": "あく",
+        "reading": "あく",
+        "meaning": "to open (intransitive — door opens)"
+      },
+      {
+        "word": "しまる",
+        "reading": "しまる",
+        "meaning": "to close (intransitive — door closes)"
+      },
+      {
+        "word": "いそぐ",
+        "reading": "いそぐ",
+        "meaning": "to hurry, to rush"
+      },
+      {
+        "word": "のどがかわく",
+        "reading": "のどがかわく",
+        "meaning": "to get thirsty"
+      },
+      {
+        "word": "おなかがすく",
+        "reading": "おなかがすく",
+        "meaning": "to get hungry"
+      },
+      {
+        "word": "いつも",
+        "reading": "いつも",
+        "meaning": "always"
+      },
+      {
+        "word": "たいてい",
+        "reading": "たいてい",
+        "meaning": "usually, mostly"
+      },
+      {
+        "word": "ときどき",
+        "reading": "ときどき",
+        "meaning": "sometimes"
+      },
+      {
+        "word": "あまり",
+        "reading": "あまり",
+        "meaning": "not very (used with negatives)"
+      },
+      {
+        "word": "ぜんぜん",
+        "reading": "ぜんぜん",
+        "meaning": "not at all (used with negatives)"
+      },
+      {
+        "word": "よく",
+        "reading": "よく",
+        "meaning": "well; often"
+      },
+      {
+        "word": "とても",
+        "reading": "とても",
+        "meaning": "very"
+      },
+      {
+        "word": "だいたい",
+        "reading": "だいたい",
+        "meaning": "mostly, approximately"
+      },
+      {
+        "word": "もっと",
+        "reading": "もっと",
+        "meaning": "more"
+      },
+      {
+        "word": "もう",
+        "reading": "もう",
+        "meaning": "already"
+      },
+      {
+        "word": "もう〜",
+        "reading": "もう〜",
+        "meaning": "one more, … more"
+      },
+      {
+        "word": "もういちど",
+        "reading": "もういちど",
+        "meaning": "once more, one more time"
+      },
+      {
+        "word": "ゆっくり",
+        "reading": "ゆっくり",
+        "meaning": "slowly"
+      },
+      {
+        "word": "たくさん",
+        "reading": "たくさん",
+        "meaning": "a lot, many"
+      },
+      {
+        "word": "ちょっと",
+        "reading": "ちょっと",
+        "meaning": "a little; used to soften refusals"
+      },
+      {
+        "word": "まだ",
+        "reading": "まだ",
+        "meaning": "not yet; still"
+      },
+      {
+        "word": "そふ",
+        "reading": "そふ",
+        "meaning": "grandfather (my own)"
+      },
+      {
+        "word": "おじいさん",
+        "reading": "おじいさん",
+        "meaning": "grandfather (someone else's)"
+      },
+      {
+        "word": "そぼ",
+        "reading": "そぼ",
+        "meaning": "grandmother (my own)"
+      },
+      {
+        "word": "おばあさん",
+        "reading": "おばあさん",
+        "meaning": "grandmother (someone else's)"
+      },
+      {
+        "word": "りょうしん",
+        "reading": "りょうしん",
+        "meaning": "parents (my own)"
+      },
+      {
+        "word": "きょうだい",
+        "reading": "きょうだい",
+        "meaning": "siblings, brothers and sisters"
+      },
+      {
+        "word": "あに",
+        "reading": "あに",
+        "meaning": "older brother (my own)"
+      },
+      {
+        "word": "おにいさん",
+        "reading": "おにいさん",
+        "meaning": "older brother (someone else's)"
+      },
+      {
+        "word": "あね",
+        "reading": "あね",
+        "meaning": "older sister (my own)"
+      },
+      {
+        "word": "おねえさん",
+        "reading": "おねえさん",
+        "meaning": "older sister (someone else's)"
+      },
+      {
+        "word": "おとうと",
+        "reading": "おとうと",
+        "meaning": "younger brother (my own)"
+      },
+      {
+        "word": "いもうと",
+        "reading": "いもうと",
+        "meaning": "younger sister (my own)"
+      },
+      {
+        "word": "おじ",
+        "reading": "おじ",
+        "meaning": "uncle (my own)"
+      },
+      {
+        "word": "おば",
+        "reading": "おば",
+        "meaning": "aunt (my own)"
+      },
+      {
+        "word": "むすこ",
+        "reading": "むすこ",
+        "meaning": "son (my own)"
+      },
+      {
+        "word": "むすめ",
+        "reading": "むすめ",
+        "meaning": "daughter (my own)"
+      },
+      {
+        "word": "まご",
+        "reading": "まご",
+        "meaning": "grandchild"
+      },
+      {
+        "word": "つま／かない",
+        "reading": "つま／かない",
+        "meaning": "wife (my own)"
+      },
+      {
+        "word": "おくさん",
+        "reading": "おくさん",
+        "meaning": "wife (someone else's)"
+      },
+      {
+        "word": "おっと／しゅじん",
+        "reading": "おっと／しゅじん",
+        "meaning": "husband (my own)"
+      },
+      {
+        "word": "かぞく",
+        "reading": "かぞく",
+        "meaning": "family"
+      },
+      {
+        "word": "きせつ",
+        "reading": "きせつ",
+        "meaning": "season"
+      },
+      {
+        "word": "はる",
+        "reading": "はる",
+        "meaning": "spring"
+      },
+      {
+        "word": "なつ",
+        "reading": "なつ",
+        "meaning": "summer"
+      },
+      {
+        "word": "あき",
+        "reading": "あき",
+        "meaning": "autumn, fall"
+      },
+      {
+        "word": "ふゆ",
+        "reading": "ふゆ",
+        "meaning": "winter"
+      },
+      {
+        "word": "いろ",
+        "reading": "いろ",
+        "meaning": "color"
+      },
+      {
+        "word": "あか",
+        "reading": "あか",
+        "meaning": "red"
+      },
+      {
+        "word": "あお",
+        "reading": "あお",
+        "meaning": "blue"
+      },
+      {
+        "word": "きいろ",
+        "reading": "きいろ",
+        "meaning": "yellow"
+      },
+      {
+        "word": "くろ",
+        "reading": "くろ",
+        "meaning": "black"
+      },
+      {
+        "word": "みどり",
+        "reading": "みどり",
+        "meaning": "green"
+      },
+      {
+        "word": "ちゃいろ",
+        "reading": "ちゃいろ",
+        "meaning": "brown"
+      },
+      {
+        "word": "ピンク",
+        "reading": "ピンク",
+        "meaning": "pink"
+      },
+      {
+        "word": "ところ",
+        "reading": "ところ",
+        "meaning": "place"
+      },
+      {
+        "word": "こうえん",
+        "reading": "こうえん",
+        "meaning": "park"
+      },
+      {
+        "word": "どうぶつえん",
+        "reading": "どうぶつえん",
+        "meaning": "zoo"
+      },
+      {
+        "word": "うみ",
+        "reading": "うみ",
+        "meaning": "sea, ocean"
+      },
+      {
+        "word": "ゆうえんち",
+        "reading": "ゆうえんち",
+        "meaning": "amusement park"
+      },
+      {
+        "word": "スポーツ",
+        "reading": "スポーツ",
+        "meaning": "sport"
+      },
+      {
+        "word": "やきゅう",
+        "reading": "やきゅう",
+        "meaning": "baseball"
+      },
+      {
+        "word": "バスケットボール",
+        "reading": "バスケットボール",
+        "meaning": "basketball"
+      },
+      {
+        "word": "テニス",
+        "reading": "テニス",
+        "meaning": "tennis"
+      },
+      {
+        "word": "すいえい",
+        "reading": "すいえい",
+        "meaning": "swimming"
+      },
+      {
+        "word": "サッカー",
+        "reading": "サッカー",
+        "meaning": "soccer"
+      },
+      {
+        "word": "おんがく",
+        "reading": "おんがく",
+        "meaning": "music"
+      },
+      {
+        "word": "クラシック",
+        "reading": "クラシック",
+        "meaning": "classical music"
+      },
+      {
+        "word": "ジャズ",
+        "reading": "ジャズ",
+        "meaning": "jazz"
+      },
+      {
+        "word": "ロック",
+        "reading": "ロック",
+        "meaning": "rock music"
+      },
+      {
+        "word": "ポップス",
+        "reading": "ポップス",
+        "meaning": "pop music"
+      },
+      {
+        "word": "くだもの",
+        "reading": "くだもの",
+        "meaning": "fruit"
+      },
+      {
+        "word": "りんご",
+        "reading": "りんご",
+        "meaning": "apple"
+      },
+      {
+        "word": "みかん",
+        "reading": "みかん",
+        "meaning": "tangerine, mandarin orange"
+      },
+      {
+        "word": "いちご",
+        "reading": "いちご",
+        "meaning": "strawberry"
+      },
+      {
+        "word": "ぶどう",
+        "reading": "ぶどう",
+        "meaning": "grape"
+      },
+      {
+        "word": "のりもの",
+        "reading": "のりもの",
+        "meaning": "vehicle, mode of transport"
+      },
+      {
+        "word": "オートバイ",
+        "reading": "オートバイ",
+        "meaning": "motorcycle"
+      },
+      {
+        "word": "ひこうき",
+        "reading": "ひこうき",
+        "meaning": "airplane"
+      },
+      {
+        "word": "ふね",
+        "reading": "ふね",
+        "meaning": "ship, boat"
+      },
+      {
+        "word": "てんき",
+        "reading": "てんき",
+        "meaning": "weather"
+      },
+      {
+        "word": "はれ",
+        "reading": "はれ",
+        "meaning": "clear (sunny) weather"
+      },
+      {
+        "word": "くもり",
+        "reading": "くもり",
+        "meaning": "cloudy weather"
+      },
+      {
+        "word": "ゆき",
+        "reading": "ゆき",
+        "meaning": "snow"
+      },
+      {
+        "word": "たいふう",
+        "reading": "たいふう",
+        "meaning": "typhoon"
+      },
+      {
+        "word": "しょっき",
+        "reading": "しょっき",
+        "meaning": "tableware, dishes"
+      },
+      {
+        "word": "ちゃわん",
+        "reading": "ちゃわん",
+        "meaning": "rice bowl, teacup"
+      },
+      {
+        "word": "おさら",
+        "reading": "おさら",
+        "meaning": "plate, dish"
+      },
+      {
+        "word": "はし",
+        "reading": "はし",
+        "meaning": "chopsticks"
+      },
+      {
+        "word": "カップ",
+        "reading": "カップ",
+        "meaning": "cup"
+      },
+      {
+        "word": "コップ",
+        "reading": "コップ",
+        "meaning": "glass, tumbler"
+      },
+      {
+        "word": "かぐ",
+        "reading": "かぐ",
+        "meaning": "furniture"
+      },
+      {
+        "word": "ベッド",
+        "reading": "ベッド",
+        "meaning": "bed"
+      },
+      {
+        "word": "つくえ",
+        "reading": "つくえ",
+        "meaning": "desk"
+      },
+      {
+        "word": "いす",
+        "reading": "いす",
+        "meaning": "chair"
+      },
+      {
+        "word": "ほんだな",
+        "reading": "ほんだな",
+        "meaning": "bookshelf"
+      },
+      {
+        "word": "テレビ",
+        "reading": "テレビ",
+        "meaning": "television"
+      },
+      {
+        "word": "れいぞうこ",
+        "reading": "れいぞうこ",
+        "meaning": "refrigerator"
+      },
+      {
+        "word": "でんしレンジ",
+        "reading": "でんしレンジ",
+        "meaning": "microwave oven"
+      },
+      {
+        "word": "にがいくすり",
+        "reading": "にがいくすり",
+        "meaning": "bitter medicine"
+      },
+      {
+        "word": "しごと",
+        "reading": "しごと",
+        "meaning": "work, job"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "〜て います (ongoing action)",
+        "meaning": "Expresses an action currently in progress. '(Someone) is doing ~.'",
+        "example": "こうじょうで はたらいて います。— I am working at a factory."
+      },
+      {
+        "pattern": "〜て います (ongoing state)",
+        "meaning": "Expresses a resulting state that continues. Often used with verbs like すむ、しる、けっこんする.",
+        "example": "日本に すんで います。— I live in Japan."
+      },
+      {
+        "pattern": "〜が すきです / きらいです",
+        "meaning": "Expresses liking or disliking something. が marks what you like/dislike.",
+        "example": "わたしは からい たべものが きらいです。— I dislike spicy food."
+      },
+      {
+        "pattern": "〜が わかります / しって います",
+        "meaning": "Expresses understanding or knowing. わかります = understand; しって います = know (a fact/person).",
+        "example": "この 人を しって います。— I know this person."
+      },
+      {
+        "pattern": "あまり〜ない / ぜんぜん〜ない",
+        "meaning": "Degree adverbs used with negative verbs. あまり = not very; ぜんぜん = not at all.",
+        "example": "ドイツ語は ぜんぜん わかりません。— I don't understand German at all."
+      },
+      {
+        "pattern": "もう〜ました / まだです",
+        "meaning": "Expresses whether something has happened yet. もう + past = already done; まだです = not yet.",
+        "example": "もう しました。↔ まだです。— Already done. ↔ Not yet."
+      },
+      {
+        "pattern": "〜を あけます / しめます (他動詞 vs 自動詞)",
+        "meaning": "Transitive verbs take を for the object (someone acts on it). Intransitive verbs use が (it happens by itself).",
+        "example": "ドアを あけます。/ ドアが あきます。— (I) open the door. / The door opens."
+      },
+      {
+        "pattern": "〜に すんで います",
+        "meaning": "Expresses one's place of residence with the particle に.",
+        "example": "東京に すんで います。— I live in Tokyo."
+      },
+      {
+        "pattern": "〜で はたらいて います",
+        "meaning": "Expresses the place of work using particle で.",
+        "example": "かいしゃで はたらいて います。— I work at a company."
+      },
+      {
+        "pattern": "わたしの〜 vs あなたの〜 (family terms)",
+        "meaning": "Japanese uses different words for own family (humble) vs. others' family (polite). e.g. ちち vs おとうさん.",
+        "example": "ちち は いしゃです。おとうさんは おいくつですか。— My father is a doctor. How old is your father?"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "「あまい」の はんたいは なんですか。",
+        "options": [
+          "にがい",
+          "からい",
+          "つめたい",
+          "おもい"
+        ],
+        "answer": "からい"
+      },
+      {
+        "question": "「とおい」の はんたいは なんですか。",
+        "options": [
+          "ひろい",
+          "やさしい",
+          "ちかい",
+          "おもい"
+        ],
+        "answer": "ちかい"
+      },
+      {
+        "question": "「いつも げんきです」の「いつも」は えいごで なんですか。",
+        "options": [
+          "sometimes",
+          "usually",
+          "always",
+          "often"
+        ],
+        "answer": "always"
+      },
+      {
+        "question": "「ドアが あきます」— this sentence means the door __.",
+        "options": [
+          "is opened by someone",
+          "opens (by itself)",
+          "is closed",
+          "is locked"
+        ],
+        "answer": "opens (by itself)"
+      },
+      {
+        "question": "じぶんの おかあさんを にほんごで なんと いいますか。",
+        "options": [
+          "おかあさん",
+          "はは",
+          "おばさん",
+          "そぼ"
+        ],
+        "answer": "はは"
+      },
+      {
+        "question": "「ゆっくり」は えいごで なんですか。",
+        "options": [
+          "quickly",
+          "slowly",
+          "quietly",
+          "carefully"
+        ],
+        "answer": "slowly"
+      },
+      {
+        "question": "「もう しました」の「もう」は えいごで なんですか。",
+        "options": [
+          "not yet",
+          "still",
+          "already",
+          "again"
+        ],
+        "answer": "already"
+      },
+      {
+        "question": "「ぜんぜん わかりません」の「ぜんぜん」は どんな いみですか。",
+        "options": [
+          "a little",
+          "not very",
+          "not at all",
+          "usually"
+        ],
+        "answer": "not at all"
+      },
+      {
+        "question": "「でんきを つけます」は えいごで なんですか。",
+        "options": [
+          "turn off the light",
+          "turn on the light",
+          "buy electricity",
+          "fix the light"
+        ],
+        "answer": "turn on the light"
+      },
+      {
+        "question": "「そふ」は えいごで なんですか。",
+        "options": [
+          "uncle",
+          "grandfather (my own)",
+          "grandmother",
+          "father"
+        ],
+        "answer": "grandfather (my own)"
+      },
+      {
+        "question": "「おとうと」は えいごで なんですか。",
+        "options": [
+          "older brother",
+          "older sister",
+          "younger brother",
+          "younger sister"
+        ],
+        "answer": "younger brother"
+      },
+      {
+        "question": "「ひこうき」は えいごで なんですか。",
+        "options": [
+          "ship",
+          "train",
+          "motorcycle",
+          "airplane"
+        ],
+        "answer": "airplane"
+      },
+      {
+        "question": "「むずかしい」の はんたいは なんですか。",
+        "options": [
+          "いそがしい",
+          "つまらない",
+          "やさしい",
+          "せまい"
+        ],
+        "answer": "やさしい"
+      },
+      {
+        "question": "「のどが かわきました」は どんな いみですか。",
+        "options": [
+          "I got hungry",
+          "I got thirsty",
+          "I got tired",
+          "I got cold"
+        ],
+        "answer": "I got thirsty"
+      },
+      {
+        "question": "「たいてい この みせで かいます」の「たいてい」は えいごで なんですか。",
+        "options": [
+          "always",
+          "sometimes",
+          "never",
+          "usually"
+        ],
+        "answer": "usually"
+      }
+    ],
+    "kanji": [
+      {
+        "character": "近",
+        "onyomi": [
+          "キン"
+        ],
+        "kunyomi": [
+          "ちか(-い)"
+        ],
+        "meaning": "near, close",
+        "examples": [
+          {
+            "word": "近い",
+            "reading": "ちかい",
+            "meaning": "close, near"
+          }
+        ]
+      },
+      {
+        "character": "遠",
+        "onyomi": [
+          "エン"
+        ],
+        "kunyomi": [
+          "とお(-い)"
+        ],
+        "meaning": "far, distant",
+        "examples": [
+          {
+            "word": "遠い",
+            "reading": "とおい",
+            "meaning": "far"
+          }
+        ]
+      },
+      {
+        "character": "広",
+        "onyomi": [
+          "コウ"
+        ],
+        "kunyomi": [
+          "ひろ(-い)"
+        ],
+        "meaning": "wide, spacious",
+        "examples": [
+          {
+            "word": "広い",
+            "reading": "ひろい",
+            "meaning": "wide, spacious"
+          }
+        ]
+      },
+      {
+        "character": "働",
+        "onyomi": [
+          "ドウ"
+        ],
+        "kunyomi": [
+          "はたら(-く)"
+        ],
+        "meaning": "work, labor",
+        "examples": [
+          {
+            "word": "働く",
+            "reading": "はたらく",
+            "meaning": "to work"
+          }
+        ]
+      },
+      {
+        "character": "住",
+        "onyomi": [
+          "ジュウ"
+        ],
+        "kunyomi": [
+          "す(-む)"
+        ],
+        "meaning": "live, reside",
+        "examples": [
+          {
+            "word": "住む",
+            "reading": "すむ",
+            "meaning": "to live (in a place)"
+          }
+        ]
+      },
+      {
+        "character": "作",
+        "onyomi": [
+          "サク"
+        ],
+        "kunyomi": [
+          "つく(-る)"
+        ],
+        "meaning": "make, create",
+        "examples": [
+          {
+            "word": "作る",
+            "reading": "つくる",
+            "meaning": "to make, to create"
+          }
+        ]
+      },
+      {
+        "character": "知",
+        "onyomi": [
+          "チ"
+        ],
+        "kunyomi": [
+          "し(-る)"
+        ],
+        "meaning": "know, knowledge",
+        "examples": [
+          {
+            "word": "知る",
+            "reading": "しる",
+            "meaning": "to know"
+          },
+          {
+            "word": "知っています",
+            "reading": "しっています",
+            "meaning": "I know (ongoing state)"
+          }
+        ]
+      },
+      {
+        "character": "結",
+        "onyomi": [
+          "ケツ"
+        ],
+        "kunyomi": [
+          "むす(-ぶ)"
+        ],
+        "meaning": "tie, bind, conclude",
+        "examples": [
+          {
+            "word": "結婚する",
+            "reading": "けっこんする",
+            "meaning": "to get married"
+          }
+        ]
+      },
+      {
+        "character": "婚",
+        "onyomi": [
+          "コン"
+        ],
+        "kunyomi": [],
+        "meaning": "marriage",
+        "examples": [
+          {
+            "word": "結婚",
+            "reading": "けっこん",
+            "meaning": "marriage"
+          }
+        ]
+      },
+      {
+        "character": "起",
+        "onyomi": [
+          "キ"
+        ],
+        "kunyomi": [
+          "お(-きる)"
+        ],
+        "meaning": "rise, get up",
+        "examples": [
+          {
+            "word": "起きる",
+            "reading": "おきる",
+            "meaning": "to get up, to wake up"
+          }
+        ]
+      },
+      {
+        "character": "開",
+        "onyomi": [
+          "カイ"
+        ],
+        "kunyomi": [
+          "あ(-ける)",
+          "あ(-く)"
+        ],
+        "meaning": "open",
+        "examples": [
+          {
+            "word": "開ける",
+            "reading": "あける",
+            "meaning": "to open (something)"
+          },
+          {
+            "word": "開く",
+            "reading": "あく",
+            "meaning": "to open (intransitive)"
+          }
+        ]
+      },
+      {
+        "character": "閉",
+        "onyomi": [
+          "ヘイ"
+        ],
+        "kunyomi": [
+          "し(-める)",
+          "し(-まる)"
+        ],
+        "meaning": "close, shut",
+        "examples": [
+          {
+            "word": "閉める",
+            "reading": "しめる",
+            "meaning": "to close (something)"
+          },
+          {
+            "word": "閉まる",
+            "reading": "しまる",
+            "meaning": "to close (intransitive)"
+          }
+        ]
+      },
+      {
+        "character": "使",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "つか(-う)"
+        ],
+        "meaning": "use",
+        "examples": [
+          {
+            "word": "使う",
+            "reading": "つかう",
+            "meaning": "to use"
+          }
+        ]
+      },
+      {
+        "character": "急",
+        "onyomi": [
+          "キュウ"
+        ],
+        "kunyomi": [
+          "いそ(-ぐ)"
+        ],
+        "meaning": "hurry, sudden",
+        "examples": [
+          {
+            "word": "急ぐ",
+            "reading": "いそぐ",
+            "meaning": "to hurry"
+          }
+        ]
+      },
+      {
+        "character": "春",
+        "onyomi": [
+          "シュン"
+        ],
+        "kunyomi": [
+          "はる"
+        ],
+        "meaning": "spring",
+        "examples": [
+          {
+            "word": "春",
+            "reading": "はる",
+            "meaning": "spring"
+          }
+        ]
+      },
+      {
+        "character": "夏",
+        "onyomi": [
+          "カ"
+        ],
+        "kunyomi": [
+          "なつ"
+        ],
+        "meaning": "summer",
+        "examples": [
+          {
+            "word": "夏",
+            "reading": "なつ",
+            "meaning": "summer"
+          }
+        ]
+      },
+      {
+        "character": "秋",
+        "onyomi": [
+          "シュウ"
+        ],
+        "kunyomi": [
+          "あき"
+        ],
+        "meaning": "autumn, fall",
+        "examples": [
+          {
+            "word": "秋",
+            "reading": "あき",
+            "meaning": "autumn, fall"
+          }
+        ]
+      },
+      {
+        "character": "冬",
+        "onyomi": [
+          "トウ"
+        ],
+        "kunyomi": [
+          "ふゆ"
+        ],
+        "meaning": "winter",
+        "examples": [
+          {
+            "word": "冬",
+            "reading": "ふゆ",
+            "meaning": "winter"
+          }
+        ]
+      },
+      {
+        "character": "海",
+        "onyomi": [
+          "カイ"
+        ],
+        "kunyomi": [
+          "うみ"
+        ],
+        "meaning": "sea, ocean",
+        "examples": [
+          {
+            "word": "海",
+            "reading": "うみ",
+            "meaning": "sea, ocean"
+          }
+        ]
+      },
+      {
+        "character": "色",
+        "onyomi": [
+          "ショク"
+        ],
+        "kunyomi": [
+          "いろ"
+        ],
+        "meaning": "color",
+        "examples": [
+          {
+            "word": "色",
+            "reading": "いろ",
+            "meaning": "color"
+          },
+          {
+            "word": "黄色",
+            "reading": "きいろ",
+            "meaning": "yellow"
+          }
+        ]
+      },
+      {
+        "character": "音",
+        "onyomi": [
+          "オン"
+        ],
+        "kunyomi": [
+          "おと"
+        ],
+        "meaning": "sound, noise",
+        "examples": [
+          {
+            "word": "音楽",
+            "reading": "おんがく",
+            "meaning": "music"
+          }
+        ]
+      },
+      {
+        "character": "楽",
+        "onyomi": [
+          "ガク",
+          "ラク"
+        ],
+        "kunyomi": [
+          "たの(-しい)"
+        ],
+        "meaning": "music; easy; enjoy",
+        "examples": [
+          {
+            "word": "音楽",
+            "reading": "おんがく",
+            "meaning": "music"
+          }
+        ]
+      },
+      {
+        "character": "乗",
+        "onyomi": [
+          "ジョウ"
+        ],
+        "kunyomi": [
+          "の(-る)"
+        ],
+        "meaning": "ride, board",
+        "examples": [
+          {
+            "word": "乗り物",
+            "reading": "のりもの",
+            "meaning": "vehicle"
+          }
+        ]
+      },
+      {
+        "character": "物",
+        "onyomi": [
+          "ブツ",
+          "モツ"
+        ],
+        "kunyomi": [
+          "もの"
+        ],
+        "meaning": "thing, object",
+        "examples": [
+          {
+            "word": "乗り物",
+            "reading": "のりもの",
+            "meaning": "vehicle"
+          },
+          {
+            "word": "食べ物",
+            "reading": "たべもの",
+            "meaning": "food"
+          }
+        ]
+      },
+      {
+        "character": "家",
+        "onyomi": [
+          "カ"
+        ],
+        "kunyomi": [
+          "いえ",
+          "うち"
+        ],
+        "meaning": "house, home, family",
+        "examples": [
+          {
+            "word": "家族",
+            "reading": "かぞく",
+            "meaning": "family"
+          },
+          {
+            "word": "家",
+            "reading": "いえ",
+            "meaning": "house, home"
+          }
+        ]
+      },
+      {
+        "character": "族",
+        "onyomi": [
+          "ゾク"
+        ],
+        "kunyomi": [],
+        "meaning": "tribe, family group",
+        "examples": [
+          {
+            "word": "家族",
+            "reading": "かぞく",
+            "meaning": "family"
+          }
+        ]
+      },
+      {
+        "character": "兄",
+        "onyomi": [
+          "ケイ"
+        ],
+        "kunyomi": [
+          "あに"
+        ],
+        "meaning": "older brother",
+        "examples": [
+          {
+            "word": "兄",
+            "reading": "あに",
+            "meaning": "older brother (my own)"
+          },
+          {
+            "word": "お兄さん",
+            "reading": "おにいさん",
+            "meaning": "older brother (polite)"
+          }
+        ]
+      },
+      {
+        "character": "姉",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "あね"
+        ],
+        "meaning": "older sister",
+        "examples": [
+          {
+            "word": "姉",
+            "reading": "あね",
+            "meaning": "older sister (my own)"
+          },
+          {
+            "word": "お姉さん",
+            "reading": "おねえさん",
+            "meaning": "older sister (polite)"
+          }
+        ]
+      },
+      {
+        "character": "弟",
+        "onyomi": [
+          "テイ"
+        ],
+        "kunyomi": [
+          "おとうと"
+        ],
+        "meaning": "younger brother",
+        "examples": [
+          {
+            "word": "弟",
+            "reading": "おとうと",
+            "meaning": "younger brother"
+          }
+        ]
+      },
+      {
+        "character": "妹",
+        "onyomi": [
+          "マイ"
+        ],
+        "kunyomi": [
+          "いもうと"
+        ],
+        "meaning": "younger sister",
+        "examples": [
+          {
+            "word": "妹",
+            "reading": "いもうと",
+            "meaning": "younger sister"
+          }
+        ]
+      },
+      {
+        "character": "雪",
+        "onyomi": [
+          "セツ"
+        ],
+        "kunyomi": [
+          "ゆき"
+        ],
+        "meaning": "snow",
+        "examples": [
+          {
+            "word": "雪",
+            "reading": "ゆき",
+            "meaning": "snow"
+          }
+        ]
+      },
+      {
+        "character": "晴",
+        "onyomi": [
+          "セイ"
+        ],
+        "kunyomi": [
+          "は(-れ)"
+        ],
+        "meaning": "clear weather, sunny",
+        "examples": [
+          {
+            "word": "晴れ",
+            "reading": "はれ",
+            "meaning": "clear, sunny weather"
+          }
+        ]
+      },
+      {
+        "character": "曇",
+        "onyomi": [
+          "ドン"
+        ],
+        "kunyomi": [
+          "くも(-り)"
+        ],
+        "meaning": "cloudy",
+        "examples": [
+          {
+            "word": "曇り",
+            "reading": "くもり",
+            "meaning": "cloudy weather"
+          }
+        ]
+      }
+    ]
+  }
