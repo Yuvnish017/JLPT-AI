@@ -1,0 +1,1194 @@
+{
+    "title": "Grammar and Reading Practice 3: Adverbs, Comparisons, Nominalisation, and Potential Verbs",
+    "jlpt": "N5",
+    "chapter": 5,
+    "vocabulary": [
+      {
+        "word": "とても",
+        "reading": "とても",
+        "meaning": "very, extremely"
+      },
+      {
+        "word": "たいへん",
+        "reading": "たいへん",
+        "meaning": "very, terribly; terrible, tough"
+      },
+      {
+        "word": "すごく",
+        "reading": "すごく",
+        "meaning": "very, incredibly (casual)"
+      },
+      {
+        "word": "ほんとうに",
+        "reading": "ほんとうに",
+        "meaning": "really, truly"
+      },
+      {
+        "word": "〜は たいへんです",
+        "reading": "〜は たいへんです",
+        "meaning": "~ is terrible / hard"
+      },
+      {
+        "word": "あまり〜ない",
+        "reading": "あまり〜ない",
+        "meaning": "not very ~ (with negative)"
+      },
+      {
+        "word": "あんまり〜ない",
+        "reading": "あんまり〜ない",
+        "meaning": "not very ~ (casual negative)"
+      },
+      {
+        "word": "ぜんぜん〜ない",
+        "reading": "ぜんぜん〜ない",
+        "meaning": "not ~ at all (with negative)"
+      },
+      {
+        "word": "いつも",
+        "reading": "いつも",
+        "meaning": "always"
+      },
+      {
+        "word": "ときどき",
+        "reading": "ときどき",
+        "meaning": "sometimes"
+      },
+      {
+        "word": "たいてい",
+        "reading": "たいてい",
+        "meaning": "usually, generally"
+      },
+      {
+        "word": "よく",
+        "reading": "よく",
+        "meaning": "often; well"
+      },
+      {
+        "word": "まあまあ",
+        "reading": "まあまあ",
+        "meaning": "so-so, not bad"
+      },
+      {
+        "word": "ほとんど",
+        "reading": "ほとんど",
+        "meaning": "mostly, almost (all), hardly (with negative)"
+      },
+      {
+        "word": "だいたい",
+        "reading": "だいたい",
+        "meaning": "generally, approximately"
+      },
+      {
+        "word": "もっと",
+        "reading": "もっと",
+        "meaning": "more"
+      },
+      {
+        "word": "さっき",
+        "reading": "さっき",
+        "meaning": "a moment ago, just now"
+      },
+      {
+        "word": "すぐ(に)",
+        "reading": "すぐ(に)",
+        "meaning": "right away, immediately"
+      },
+      {
+        "word": "もうすぐ",
+        "reading": "もうすぐ",
+        "meaning": "soon, shortly"
+      },
+      {
+        "word": "もう",
+        "reading": "もう",
+        "meaning": "already"
+      },
+      {
+        "word": "まだ",
+        "reading": "まだ",
+        "meaning": "not yet; still"
+      },
+      {
+        "word": "また",
+        "reading": "また",
+        "meaning": "again; also"
+      },
+      {
+        "word": "もういちど",
+        "reading": "もういちど",
+        "meaning": "once more, one more time"
+      },
+      {
+        "word": "もう少し",
+        "reading": "もうすこし",
+        "meaning": "a little more"
+      },
+      {
+        "word": "もうちょっと",
+        "reading": "もうちょっと",
+        "meaning": "a little more (casual)"
+      },
+      {
+        "word": "い-A く V",
+        "reading": "い-A く V",
+        "meaning": "adverbial form of い-adjective (e.g. 早く 帰る)"
+      },
+      {
+        "word": "な-A に V",
+        "reading": "な-A に V",
+        "meaning": "adverbial form of な-adjective (e.g. しずかに する)"
+      },
+      {
+        "word": "〜く なります",
+        "reading": "〜く なります",
+        "meaning": "become ~ (い-adjective change)"
+      },
+      {
+        "word": "〜に なります",
+        "reading": "〜に なります",
+        "meaning": "become ~ (な-adjective or noun change)"
+      },
+      {
+        "word": "〜く します",
+        "reading": "〜く します",
+        "meaning": "make ~ (intentional change, い-adjective)"
+      },
+      {
+        "word": "〜に します",
+        "reading": "〜に します",
+        "meaning": "make ~ / decide on ~ (な-adjective or noun)"
+      },
+      {
+        "word": "どう 言いますか",
+        "reading": "どう いいますか",
+        "meaning": "how do you say (this)?"
+      },
+      {
+        "word": "なんと 言いますか",
+        "reading": "なんと いいますか",
+        "meaning": "what do you call (this)?"
+      },
+      {
+        "word": "〜とき",
+        "reading": "〜とき",
+        "meaning": "when ~, at the time of ~"
+      },
+      {
+        "word": "〜の前に",
+        "reading": "〜のまえに",
+        "meaning": "before N / before doing V"
+      },
+      {
+        "word": "Vる前に",
+        "reading": "Vるまえに",
+        "meaning": "before doing V (dictionary form + 前に)"
+      },
+      {
+        "word": "〜のあとで",
+        "reading": "〜のあとで",
+        "meaning": "after N / after doing V"
+      },
+      {
+        "word": "Vたあとで",
+        "reading": "Vたあとで",
+        "meaning": "after doing V (past plain form + あとで)"
+      },
+      {
+        "word": "N に 行きます／来ます",
+        "reading": "N に いきます／きます",
+        "meaning": "go/come to do N (purpose of movement)"
+      },
+      {
+        "word": "Vに 行きます／来ます",
+        "reading": "Vに いきます／きます",
+        "meaning": "go/come in order to V (verb stem + に)"
+      },
+      {
+        "word": "A は B より〜",
+        "reading": "A は B より〜",
+        "meaning": "A is more ~ than B"
+      },
+      {
+        "word": "A より B の ほうが〜",
+        "reading": "A より B の ほうが〜",
+        "meaning": "B is more ~ than A"
+      },
+      {
+        "word": "A と B と どちら〜",
+        "reading": "A と B と どちら〜",
+        "meaning": "between A and B, which is more ~?"
+      },
+      {
+        "word": "〜のなかで〜がいちばん〜",
+        "reading": "〜のなかで〜がいちばん〜",
+        "meaning": "among ~, ~ is the most ~"
+      },
+      {
+        "word": "〜たり、〜たり します",
+        "reading": "〜たり、〜たり します",
+        "meaning": "do things like ~ and ~ (sampling actions)"
+      },
+      {
+        "word": "Vること",
+        "reading": "Vること",
+        "meaning": "nominalised verb (doing V); verb + こと = noun"
+      },
+      {
+        "word": "Vるの",
+        "reading": "Vるの",
+        "meaning": "nominalised verb (informal; replaces こと)"
+      },
+      {
+        "word": "〜ことが できます",
+        "reading": "〜ことが できます",
+        "meaning": "can do ~ / able to do ~"
+      },
+      {
+        "word": "〜ことは できません",
+        "reading": "〜ことは できません",
+        "meaning": "cannot do ~"
+      },
+      {
+        "word": "可能形 (potential form)",
+        "reading": "かのうけい",
+        "meaning": "potential verb form expressing ability (e.g. 書ける, 話せる, 来られる)"
+      },
+      {
+        "word": "話せます",
+        "reading": "はなせます",
+        "meaning": "can speak"
+      },
+      {
+        "word": "書けます",
+        "reading": "かけます",
+        "meaning": "can write"
+      },
+      {
+        "word": "およげます",
+        "reading": "およげます",
+        "meaning": "can swim"
+      },
+      {
+        "word": "食べられます",
+        "reading": "たべられます",
+        "meaning": "can eat; is edible"
+      },
+      {
+        "word": "来られます",
+        "reading": "こられます",
+        "meaning": "can come"
+      },
+      {
+        "word": "できます",
+        "reading": "できます",
+        "meaning": "can do; is possible; is completed"
+      },
+      {
+        "word": "しゅみ",
+        "reading": "しゅみ",
+        "meaning": "hobby, pastime"
+      },
+      {
+        "word": "うるさい",
+        "reading": "うるさい",
+        "meaning": "noisy, loud"
+      },
+      {
+        "word": "しずかな",
+        "reading": "しずかな",
+        "meaning": "quiet, peaceful"
+      },
+      {
+        "word": "かんたんな",
+        "reading": "かんたんな",
+        "meaning": "easy, simple"
+      },
+      {
+        "word": "たいせつな",
+        "reading": "たいせつな",
+        "meaning": "important, precious"
+      },
+      {
+        "word": "だいじょうぶ",
+        "reading": "だいじょうぶ",
+        "meaning": "it's OK, no problem, alright"
+      },
+      {
+        "word": "かぜ",
+        "reading": "かぜ",
+        "meaning": "cold (illness)"
+      },
+      {
+        "word": "くすり",
+        "reading": "くすり",
+        "meaning": "medicine"
+      },
+      {
+        "word": "びょういん",
+        "reading": "びょういん",
+        "meaning": "hospital"
+      },
+      {
+        "word": "かみ",
+        "reading": "かみ",
+        "meaning": "hair"
+      },
+      {
+        "word": "めがね",
+        "reading": "めがね",
+        "meaning": "eyeglasses"
+      },
+      {
+        "word": "カメラ",
+        "reading": "カメラ",
+        "meaning": "camera"
+      },
+      {
+        "word": "プール",
+        "reading": "プール",
+        "meaning": "swimming pool"
+      },
+      {
+        "word": "びじゅつかん",
+        "reading": "びじゅつかん",
+        "meaning": "art museum"
+      },
+      {
+        "word": "おべんとう",
+        "reading": "おべんとう",
+        "meaning": "boxed lunch, bento"
+      },
+      {
+        "word": "おさけ",
+        "reading": "おさけ",
+        "meaning": "alcohol, sake"
+      },
+      {
+        "word": "ビール",
+        "reading": "ビール",
+        "meaning": "beer"
+      },
+      {
+        "word": "ぶたにく",
+        "reading": "ぶたにく",
+        "meaning": "pork"
+      },
+      {
+        "word": "とりにく",
+        "reading": "とりにく",
+        "meaning": "chicken (meat)"
+      },
+      {
+        "word": "たまご",
+        "reading": "たまご",
+        "meaning": "egg"
+      },
+      {
+        "word": "おかし",
+        "reading": "おかし",
+        "meaning": "sweets, snacks"
+      },
+      {
+        "word": "ロシア語",
+        "reading": "ロシアご",
+        "meaning": "Russian language"
+      },
+      {
+        "word": "ギター",
+        "reading": "ギター",
+        "meaning": "guitar"
+      },
+      {
+        "word": "はしる",
+        "reading": "はしる",
+        "meaning": "to run"
+      },
+      {
+        "word": "およぐ",
+        "reading": "およぐ",
+        "meaning": "to swim"
+      },
+      {
+        "word": "おぼえる",
+        "reading": "おぼえる",
+        "meaning": "to memorize, to learn"
+      },
+      {
+        "word": "わすれる",
+        "reading": "わすれる",
+        "meaning": "to forget"
+      },
+      {
+        "word": "かんがえる",
+        "reading": "かんがえる",
+        "meaning": "to think, to consider"
+      },
+      {
+        "word": "まちがえる",
+        "reading": "まちがえる",
+        "meaning": "to make a mistake"
+      },
+      {
+        "word": "なれる",
+        "reading": "なれる",
+        "meaning": "to get used to, to become accustomed"
+      },
+      {
+        "word": "きる",
+        "reading": "きる",
+        "meaning": "to cut"
+      },
+      {
+        "word": "つかう",
+        "reading": "つかう",
+        "meaning": "to use"
+      },
+      {
+        "word": "いただきます",
+        "reading": "いただきます",
+        "meaning": "phrase said before eating (I humbly receive)"
+      },
+      {
+        "word": "ごちそうさまでした",
+        "reading": "ごちそうさまでした",
+        "meaning": "phrase said after eating (thank you for the meal)"
+      },
+      {
+        "word": "よしゅう",
+        "reading": "よしゅう",
+        "meaning": "preparation / preview study"
+      },
+      {
+        "word": "ふくしゅう",
+        "reading": "ふくしゅう",
+        "meaning": "review study"
+      },
+      {
+        "word": "せいかつ",
+        "reading": "せいかつ",
+        "meaning": "life, daily living"
+      },
+      {
+        "word": "となり",
+        "reading": "となり",
+        "meaning": "next door, neighbor"
+      },
+      {
+        "word": "おと",
+        "reading": "おと",
+        "meaning": "sound, noise"
+      },
+      {
+        "word": "まいにち",
+        "reading": "まいにち",
+        "meaning": "every day"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "とても / たいへん / すごく / ほんとうに (degree adverbs)",
+        "meaning": "These adverbs intensify adjectives or verbs. とても and たいへん mean 'very/terribly'; すごく is the casual form; ほんとうに means 'truly/really'. 〜は たいへんです says something is difficult or tough.",
+        "example": "日本語が とても 上手ですね。／ 日本語の べんきょうは たいへんです。"
+      },
+      {
+        "pattern": "あまり〜ない / ぜんぜん〜ない (negative degree adverbs)",
+        "meaning": "あまり means 'not very' and ぜんぜん means 'not at all' — both used with negative verb/adjective forms. あんまり is the casual variant of あまり.",
+        "example": "今日は あまり さむく ありません。／ テストは ぜんぜん できませんでした。"
+      },
+      {
+        "pattern": "まあまあ / ほとんど / だいたい / さっき / もうすぐ (miscellaneous adverbs)",
+        "meaning": "まあまあ = so-so. ほとんど = mostly / hardly (with negatives). だいたい = generally/approximately. さっき = a moment ago. もうすぐ = very soon.",
+        "example": "テストは まあまあ でした。／ 日本語は ほとんど 話せません。／ もうすぐ 12時です。"
+      },
+      {
+        "pattern": "い-A く V / な-A に V (adverbial forms of adjectives)",
+        "meaning": "い-adjectives change to adverb form by replacing い with く (e.g. 早い→早く). な-adjectives add に (e.g. しずかな→しずかに). These modify verbs to describe how an action is done.",
+        "example": "早く かえりましょう。／ たいせつに つかいます。／ しずかに して ください。"
+      },
+      {
+        "pattern": "〜く なります / 〜に なります (natural change — become ~)",
+        "meaning": "なります expresses a natural change or development of state. い-adjectives use 〜く; な-adjectives and nouns use 〜に. Note: いい → よく なります.",
+        "example": "日本語が 上手に なりました。／ 天気が よく なりました。／ べんりに なりました。"
+      },
+      {
+        "pattern": "〜く します / 〜に します (intentional change — make ~ / decide on ~)",
+        "meaning": "します expresses a deliberate change caused by the speaker. い-adjectives use 〜く; な-adjectives and nouns use 〜に. Also used when deciding on something (e.g. ラーメンに しましょう = Let's go with ramen).",
+        "example": "テレビの おとを 小さく して ください。／ うるさいです。しずかに して ください。"
+      },
+      {
+        "pattern": "〜とき (when ~)",
+        "meaning": "とき connects a clause to describe when something happens. Use the plain form of the verb before とき. For current state use 〜ている とき; for actions not yet done, use dictionary form.",
+        "example": "ひまな とき、何を して いますか。／ 本を 読む とき、めがねを かけます。／ 東京に 行った とき 買いました。"
+      },
+      {
+        "pattern": "Vる 前に / N の 前に (before doing ~)",
+        "meaning": "前に follows either a noun + の, or a verb in the dictionary form. It indicates the action/time before which something takes place. Note: always use dictionary form before 前に, NOT the past form.",
+        "example": "じゅぎょうの 前に、よしゅうを しましょう。／ 日本に 来る 前に、日本語の べんきょうを しました。"
+      },
+      {
+        "pattern": "Vた あとで / N の あとで (after doing ~)",
+        "meaning": "あとで follows either a noun + の, or a verb in the past plain form (た-form). It indicates the action/time after which something takes place. Contrast with てから (Chapter 4), which is stricter about sequential order.",
+        "example": "おふろに 入った あとで ビールを 飲みます。／ じゅぎょうの あとで 買いものを します。"
+      },
+      {
+        "pattern": "Vに 行きます／来ます／かえります (go/come in order to ~)",
+        "meaning": "に indicates the purpose of movement. Attach に to the verb stem (masu-stem) to express what you are going/coming to do.",
+        "example": "としょかんへ 本を かえしに 行きました。／ ひまな ときは えいがを 見に 行きます。"
+      },
+      {
+        "pattern": "A は B より〜 / A より B の ほうが〜 (comparison)",
+        "meaning": "より marks the item being compared against (= 'than'). ほうが identifies the one that is 'more' of the quality. The two patterns are mirrors of each other.",
+        "example": "父は 母より わかいです。／ わたしより おとうとの ほうが せが 高いです。"
+      },
+      {
+        "pattern": "A と B と どちら(どっち)が〜 (which of two is more ~?)",
+        "meaning": "Used to compare two items and ask/state which is more ~ . どちら is polite; どっち is casual. Answer with 〜の ほうが〜.",
+        "example": "ペンと えんぴつと どっちを よく つかいますか。／ ぎゅうにくの ほうが 高いです。"
+      },
+      {
+        "pattern": "〜のなかで〜がいちばん〜 (superlative — most ~ among ~)",
+        "meaning": "Identifies the one item that is 'the most ~' within a group. The group is marked by の中で; the top item by が いちばん.",
+        "example": "くだものの 中で りんごが いちばん すきです。／ 日本では ふじ山が いちばん 高い 山です。"
+      },
+      {
+        "pattern": "〜たり、〜たり します (doing things like ~ and ~)",
+        "meaning": "Used to give a non-exhaustive list of representative activities. Formed by adding り to the past plain form (た-form). The final verb is します (or して います for ongoing).",
+        "example": "休みの 日は 友だちと 買いものに 行ったり、食事を したり します。"
+      },
+      {
+        "pattern": "Vる こと / Vる の — nominalisation (verb as noun)",
+        "meaning": "Adding こと or の to a verb's dictionary form turns the verb into a noun phrase. こと is formal; の is informal and used in speech. Use in patterns like 〜は〜ことです, 〜ことが できます, and 〜のは〜です.",
+        "example": "わたしの しゅみは えいがを 見る ことです。／ かんじを 読む ことは できますが、書く ことは できません。"
+      },
+      {
+        "pattern": "Vること が できます / 可能形 (can do ~ / potential form)",
+        "meaning": "Ability is expressed either with Vる ことが できます (dictionary form + こと + が + できます) or with the potential verb form (書く→書ける, 話す→話せる, 食べる→食べられる, 来る→来られる, する→できる). Both are equally correct.",
+        "example": "わたしは ロシア語を 話す ことが できます。／ 日本語は 少し 話せます。／ わたしは およげません。"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "「日本語の べんきょうは たいへんです」の「たいへん」は ここで どんな いみですか。",
+        "options": [
+          "very",
+          "difficult / tough",
+          "not at all",
+          "sometimes"
+        ],
+        "answer": "difficult / tough"
+      },
+      {
+        "question": "「今日は あまり さむく ありません」の「あまり」は なにと いっしょに つかいますか。",
+        "options": [
+          "ていねいけい",
+          "ひていけい",
+          "かこけい",
+          "めいれいけい"
+        ],
+        "answer": "ひていけい"
+      },
+      {
+        "question": "「早く かえりましょう」の「早く」は どの かたちですか。",
+        "options": [
+          "い形容詞の て形",
+          "い形容詞の ふくしけい (adverb form)",
+          "な形容詞の ふくしけい",
+          "めいし"
+        ],
+        "answer": "い形容詞の ふくしけい (adverb form)"
+      },
+      {
+        "question": "「日本語が 上手に なりました」の「なりました」は なにを あらわしますか。",
+        "options": [
+          "だれかが わざと かえた",
+          "しぜんに かわった",
+          "ていねいに たのんだ",
+          "きんしした"
+        ],
+        "answer": "しぜんに かわった"
+      },
+      {
+        "question": "「テレビの おとを 小さく して ください」の「して」は なにを あらわしますか。",
+        "options": [
+          "しぜんに かわった",
+          "いしに よって かえた",
+          "じょうほうを つたえた",
+          "えんりょした"
+        ],
+        "answer": "いしに よって かえた"
+      },
+      {
+        "question": "「本を 読む とき、めがねを かけます」の「読む」は どの かたちですか。",
+        "options": [
+          "かこけい",
+          "じしょけい (dictionary form)",
+          "て形",
+          "ないけい"
+        ],
+        "answer": "じしょけい (dictionary form)"
+      },
+      {
+        "question": "「日本に 来る 前に、日本語を べんきょうしました」の「前に」の まえは どの かたちですか。",
+        "options": [
+          "た形 (past form)",
+          "じしょけい (dictionary form)",
+          "て形",
+          "ている"
+        ],
+        "answer": "じしょけい (dictionary form)"
+      },
+      {
+        "question": "「ごはんを 食べた あとで、はを みがきます」の「あとで」の まえは どの かたちですか。",
+        "options": [
+          "じしょけい",
+          "ないけい",
+          "た形 (past plain form)",
+          "て形"
+        ],
+        "answer": "た形 (past plain form)"
+      },
+      {
+        "question": "「としょかんへ 本を かえしに 行きました」の「に」は なにを あらわしますか。",
+        "options": [
+          "ばしょ",
+          "じかん",
+          "もくてき (purpose)",
+          "てごわさ"
+        ],
+        "answer": "もくてき (purpose)"
+      },
+      {
+        "question": "「父は 母より わかいです」は えいごで なんですか。",
+        "options": [
+          "My mother is younger than my father.",
+          "My father is younger than my mother.",
+          "My father and mother are the same age.",
+          "My father is older than my mother."
+        ],
+        "answer": "My father is younger than my mother."
+      },
+      {
+        "question": "「くだものの 中で りんごが いちばん すきです」は えいごで なんですか。",
+        "options": [
+          "Apples are one kind of fruit.",
+          "I like fruit more than apples.",
+          "Among fruits, I like apples the best.",
+          "Apples are the most expensive fruit."
+        ],
+        "answer": "Among fruits, I like apples the best."
+      },
+      {
+        "question": "「休みの 日は 友だちと 買いものに 行ったり、食事を したり します」の「〜たり〜たり します」は なにを あらわしますか。",
+        "options": [
+          "じゅんじょ (strict order of actions)",
+          "かのうせい (possibility)",
+          "だいひょうてきな れい (representative examples of actions)",
+          "ちょくせつてきな めいれい (direct order)"
+        ],
+        "answer": "だいひょうてきな れい (representative examples of actions)"
+      },
+      {
+        "question": "「わたしの しゅみは えいがを 見る ことです」の「こと」は なにを しますか。",
+        "options": [
+          "どうしを かこけいにする",
+          "どうしを めいしにする (nominalise)",
+          "どうしを ひていにする",
+          "どうしを ていねいにする"
+        ],
+        "answer": "どうしを めいしにする (nominalise)"
+      },
+      {
+        "question": "「わたしは ロシア語を 話すことが できます」と おなじ いみの ぶんは どれですか。",
+        "options": [
+          "ロシア語を 話して います。",
+          "ロシア語を 話したいです。",
+          "ロシア語が 話せます。",
+          "ロシア語が 話しました。"
+        ],
+        "answer": "ロシア語が 話せます。"
+      },
+      {
+        "question": "「書く→書ける」のような かたちは なんと いいますか。",
+        "options": [
+          "て形",
+          "た形",
+          "可能形 (potential form)",
+          "ないけい"
+        ],
+        "answer": "可能形 (potential form)"
+      }
+    ],
+    "kanji": [
+      {
+        "character": "早",
+        "onyomi": [
+          "ソウ"
+        ],
+        "kunyomi": [
+          "はや(-い)",
+          "はや(-く)"
+        ],
+        "meaning": "early, fast",
+        "examples": [
+          {
+            "word": "早い",
+            "reading": "はやい",
+            "meaning": "early, fast"
+          },
+          {
+            "word": "早く",
+            "reading": "はやく",
+            "meaning": "early / quickly (adverb)"
+          }
+        ]
+      },
+      {
+        "character": "小",
+        "onyomi": [
+          "ショウ"
+        ],
+        "kunyomi": [
+          "ちい(-さい)",
+          "ちい(-さく)",
+          "こ"
+        ],
+        "meaning": "small",
+        "examples": [
+          {
+            "word": "小さく",
+            "reading": "ちいさく",
+            "meaning": "small (adverb form)"
+          },
+          {
+            "word": "小学校",
+            "reading": "しょうがっこう",
+            "meaning": "elementary school"
+          }
+        ]
+      },
+      {
+        "character": "大",
+        "onyomi": [
+          "ダイ",
+          "タイ"
+        ],
+        "kunyomi": [
+          "おお(-きい)",
+          "おお(-きく)"
+        ],
+        "meaning": "big, large",
+        "examples": [
+          {
+            "word": "大きく",
+            "reading": "おおきく",
+            "meaning": "big (adverb form)"
+          },
+          {
+            "word": "大切な",
+            "reading": "たいせつな",
+            "meaning": "important, precious"
+          }
+        ]
+      },
+      {
+        "character": "上",
+        "onyomi": [
+          "ジョウ"
+        ],
+        "kunyomi": [
+          "うえ",
+          "じょうず"
+        ],
+        "meaning": "above, up, skilled",
+        "examples": [
+          {
+            "word": "上手に",
+            "reading": "じょうずに",
+            "meaning": "skillfully (adverb)"
+          },
+          {
+            "word": "上手に なる",
+            "reading": "じょうずに なる",
+            "meaning": "to become good at"
+          }
+        ]
+      },
+      {
+        "character": "便",
+        "onyomi": [
+          "ベン"
+        ],
+        "kunyomi": [],
+        "meaning": "convenient",
+        "examples": [
+          {
+            "word": "便利に",
+            "reading": "べんりに",
+            "meaning": "conveniently (adverb)"
+          },
+          {
+            "word": "便利な",
+            "reading": "べんりな",
+            "meaning": "convenient"
+          }
+        ]
+      },
+      {
+        "character": "静",
+        "onyomi": [
+          "セイ"
+        ],
+        "kunyomi": [
+          "しず(-か)"
+        ],
+        "meaning": "quiet, peaceful",
+        "examples": [
+          {
+            "word": "静かな",
+            "reading": "しずかな",
+            "meaning": "quiet"
+          },
+          {
+            "word": "静かに",
+            "reading": "しずかに",
+            "meaning": "quietly (adverb)"
+          }
+        ]
+      },
+      {
+        "character": "前",
+        "onyomi": [
+          "ゼン"
+        ],
+        "kunyomi": [
+          "まえ"
+        ],
+        "meaning": "before, front",
+        "examples": [
+          {
+            "word": "前に",
+            "reading": "まえに",
+            "meaning": "before, in front"
+          },
+          {
+            "word": "名前",
+            "reading": "なまえ",
+            "meaning": "name"
+          }
+        ]
+      },
+      {
+        "character": "後",
+        "onyomi": [
+          "ゴ"
+        ],
+        "kunyomi": [
+          "あと",
+          "うし(-ろ)"
+        ],
+        "meaning": "after, behind",
+        "examples": [
+          {
+            "word": "あとで",
+            "reading": "あとで",
+            "meaning": "after (that), later"
+          },
+          {
+            "word": "午後",
+            "reading": "ごご",
+            "meaning": "afternoon"
+          }
+        ]
+      },
+      {
+        "character": "比",
+        "onyomi": [
+          "ヒ"
+        ],
+        "kunyomi": [
+          "くら(-べる)"
+        ],
+        "meaning": "compare",
+        "examples": [
+          {
+            "word": "比べる",
+            "reading": "くらべる",
+            "meaning": "to compare"
+          }
+        ]
+      },
+      {
+        "character": "番",
+        "onyomi": [
+          "バン"
+        ],
+        "kunyomi": [],
+        "meaning": "number, turn, guard",
+        "examples": [
+          {
+            "word": "一番",
+            "reading": "いちばん",
+            "meaning": "the most, number one"
+          }
+        ]
+      },
+      {
+        "character": "走",
+        "onyomi": [
+          "ソウ"
+        ],
+        "kunyomi": [
+          "はし(-る)"
+        ],
+        "meaning": "run",
+        "examples": [
+          {
+            "word": "走る",
+            "reading": "はしる",
+            "meaning": "to run"
+          },
+          {
+            "word": "走ること",
+            "reading": "はしること",
+            "meaning": "running (nominalised)"
+          }
+        ]
+      },
+      {
+        "character": "泳",
+        "onyomi": [
+          "エイ"
+        ],
+        "kunyomi": [
+          "およ(-ぐ)"
+        ],
+        "meaning": "swim",
+        "examples": [
+          {
+            "word": "泳ぐ",
+            "reading": "およぐ",
+            "meaning": "to swim"
+          },
+          {
+            "word": "泳げます",
+            "reading": "およげます",
+            "meaning": "can swim (potential)"
+          }
+        ]
+      },
+      {
+        "character": "覚",
+        "onyomi": [
+          "カク"
+        ],
+        "kunyomi": [
+          "おぼ(-える)",
+          "さ(-める)"
+        ],
+        "meaning": "memorise, remember, wake up",
+        "examples": [
+          {
+            "word": "覚える",
+            "reading": "おぼえる",
+            "meaning": "to memorise, to learn"
+          }
+        ]
+      },
+      {
+        "character": "忘",
+        "onyomi": [
+          "ボウ"
+        ],
+        "kunyomi": [
+          "わす(-れる)"
+        ],
+        "meaning": "forget",
+        "examples": [
+          {
+            "word": "忘れる",
+            "reading": "わすれる",
+            "meaning": "to forget"
+          }
+        ]
+      },
+      {
+        "character": "考",
+        "onyomi": [
+          "コウ"
+        ],
+        "kunyomi": [
+          "かんが(-える)"
+        ],
+        "meaning": "think, consider",
+        "examples": [
+          {
+            "word": "考える",
+            "reading": "かんがえる",
+            "meaning": "to think, to consider"
+          },
+          {
+            "word": "よく 考えましょう",
+            "reading": "よく かんがえましょう",
+            "meaning": "let's think carefully"
+          }
+        ]
+      },
+      {
+        "character": "慣",
+        "onyomi": [
+          "カン"
+        ],
+        "kunyomi": [
+          "な(-れる)"
+        ],
+        "meaning": "get used to, accustom",
+        "examples": [
+          {
+            "word": "慣れる",
+            "reading": "なれる",
+            "meaning": "to get used to"
+          }
+        ]
+      },
+      {
+        "character": "間違",
+        "onyomi": [],
+        "kunyomi": [
+          "まちが(-える)"
+        ],
+        "meaning": "make a mistake",
+        "examples": [
+          {
+            "word": "間違える",
+            "reading": "まちがえる",
+            "meaning": "to make a mistake"
+          }
+        ]
+      },
+      {
+        "character": "話",
+        "onyomi": [
+          "ワ"
+        ],
+        "kunyomi": [
+          "はな(-す)",
+          "はなし"
+        ],
+        "meaning": "speak, talk, story",
+        "examples": [
+          {
+            "word": "話せます",
+            "reading": "はなせます",
+            "meaning": "can speak (potential)"
+          },
+          {
+            "word": "話すこと",
+            "reading": "はなすこと",
+            "meaning": "speaking (nominalised)"
+          }
+        ]
+      },
+      {
+        "character": "書",
+        "onyomi": [
+          "ショ"
+        ],
+        "kunyomi": [
+          "か(-く)",
+          "か(-ける)"
+        ],
+        "meaning": "write",
+        "examples": [
+          {
+            "word": "書ける",
+            "reading": "かける",
+            "meaning": "can write (potential)"
+          },
+          {
+            "word": "書くこと",
+            "reading": "かくこと",
+            "meaning": "writing (nominalised)"
+          }
+        ]
+      },
+      {
+        "character": "音",
+        "onyomi": [
+          "オン",
+          "イン"
+        ],
+        "kunyomi": [
+          "おと"
+        ],
+        "meaning": "sound, noise",
+        "examples": [
+          {
+            "word": "音",
+            "reading": "おと",
+            "meaning": "sound, noise"
+          },
+          {
+            "word": "音楽",
+            "reading": "おんがく",
+            "meaning": "music"
+          }
+        ]
+      },
+      {
+        "character": "生",
+        "onyomi": [
+          "セイ",
+          "ショウ"
+        ],
+        "kunyomi": [
+          "い(-きる)",
+          "せい"
+        ],
+        "meaning": "life, live",
+        "examples": [
+          {
+            "word": "生活",
+            "reading": "せいかつ",
+            "meaning": "daily life"
+          },
+          {
+            "word": "生活する",
+            "reading": "せいかつする",
+            "meaning": "to live (daily life)"
+          }
+        ]
+      },
+      {
+        "character": "美",
+        "onyomi": [
+          "ビ"
+        ],
+        "kunyomi": [
+          "うつく(-しい)"
+        ],
+        "meaning": "beautiful",
+        "examples": [
+          {
+            "word": "美術館",
+            "reading": "びじゅつかん",
+            "meaning": "art museum"
+          }
+        ]
+      },
+      {
+        "character": "術",
+        "onyomi": [
+          "ジュツ"
+        ],
+        "kunyomi": [],
+        "meaning": "art, technique, skill",
+        "examples": [
+          {
+            "word": "美術館",
+            "reading": "びじゅつかん",
+            "meaning": "art museum"
+          }
+        ]
+      }
+    ]
+  }
