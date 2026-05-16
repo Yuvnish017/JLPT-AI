@@ -33,15 +33,6 @@ export default function LevelChapterHub({ level }: { level: string }) {
             {label} · Chapters
           </span>
         </h1>
-        <p className="mt-3 max-w-xl text-sm leading-relaxed text-slate-400 sm:text-base">
-          Chapters are loaded from{" "}
-          <code className="rounded bg-white/10 px-1.5 py-0.5 text-xs text-cyan-200/90">
-            {`content/${lv}/`}
-          </code>
-          <span className="text-slate-500"> (any </span>
-          <code className="rounded bg-white/10 px-1.5 py-0.5 text-xs text-cyan-200/90">.json</code>
-          <span className="text-slate-500"> file). Add a new chapter file and it will list here.</span>
-        </p>
 
         {chapters.length === 0 ? (
           <div className="mt-12 rounded-2xl border border-dashed border-white/20 bg-white/[0.03] px-6 py-12 text-center">
