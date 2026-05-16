@@ -59,14 +59,6 @@ export default async function LevelLandingPage({ params }: Props) {
             Coming soon
           </span>
         </h1>
-        <p className="mx-auto mt-4 max-w-md text-sm leading-relaxed text-slate-400 sm:text-base">
-          Add chapter JSON files under{" "}
-          <code className="rounded bg-white/10 px-1.5 py-0.5 text-xs text-cyan-200/90">
-            content/{slug}/
-          </code>{" "}
-          (for example <code className="text-cyan-200/90">chapter-1.json</code>) and this page will
-          list them automatically.
-        </p>
         <Link
           href="/n5"
           className="mt-10 inline-flex rounded-xl bg-gradient-to-r from-cyan-400 to-fuchsia-500 px-8 py-3 text-sm font-black text-slate-950 shadow-lg shadow-fuchsia-500/25 transition hover:shadow-fuchsia-500/40"
