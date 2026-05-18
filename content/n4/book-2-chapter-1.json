@@ -1,0 +1,685 @@
+{
+    "title": "Week 7: Let's Study Grammar",
+    "jlpt": "N4",
+    "chapter": 1,
+    "vocabulary": [
+      {
+        "word": "兄",
+        "reading": "あに",
+        "meaning": "older brother"
+      },
+      {
+        "word": "弟",
+        "reading": "おとうと",
+        "meaning": "younger brother"
+      },
+      {
+        "word": "歯",
+        "reading": "は",
+        "meaning": "tooth / teeth"
+      },
+      {
+        "word": "磨く",
+        "reading": "みがく",
+        "meaning": "to brush / polish"
+      },
+      {
+        "word": "薬",
+        "reading": "くすり",
+        "meaning": "medicine"
+      },
+      {
+        "word": "飲む",
+        "reading": "のむ",
+        "meaning": "to drink / take (medicine)"
+      },
+      {
+        "word": "漢字",
+        "reading": "かんじ",
+        "meaning": "kanji characters"
+      },
+      {
+        "word": "書く",
+        "reading": "かく",
+        "meaning": "to write"
+      },
+      {
+        "word": "話す",
+        "reading": "はなす",
+        "meaning": "to speak"
+      },
+      {
+        "word": "英語",
+        "reading": "えいご",
+        "meaning": "English language"
+      },
+      {
+        "word": "電車",
+        "reading": "でんしゃ",
+        "meaning": "train"
+      },
+      {
+        "word": "仕事",
+        "reading": "しごと",
+        "meaning": "work / job"
+      },
+      {
+        "word": "音楽",
+        "reading": "おんがく",
+        "meaning": "music"
+      },
+      {
+        "word": "勉強",
+        "reading": "べんきょう",
+        "meaning": "study"
+      },
+      {
+        "word": "授業",
+        "reading": "じゅぎょう",
+        "meaning": "class / lesson"
+      },
+      {
+        "word": "散歩",
+        "reading": "さんぽ",
+        "meaning": "walk / stroll"
+      },
+      {
+        "word": "料理",
+        "reading": "りょうり",
+        "meaning": "cooking / dish"
+      },
+      {
+        "word": "出張",
+        "reading": "しゅっちょう",
+        "meaning": "business trip"
+      },
+      {
+        "word": "中止",
+        "reading": "ちゅうし",
+        "meaning": "cancellation / suspension"
+      },
+      {
+        "word": "帰る",
+        "reading": "かえる",
+        "meaning": "to return / go home"
+      },
+      {
+        "word": "来る",
+        "reading": "くる",
+        "meaning": "to come"
+      },
+      {
+        "word": "終わる",
+        "reading": "おわる",
+        "meaning": "to end / finish"
+      },
+      {
+        "word": "起きる",
+        "reading": "おきる",
+        "meaning": "to wake up / get up"
+      },
+      {
+        "word": "寝る",
+        "reading": "ねる",
+        "meaning": "to sleep / go to bed"
+      },
+      {
+        "word": "着る",
+        "reading": "きる",
+        "meaning": "to wear (top clothing)"
+      },
+      {
+        "word": "窓",
+        "reading": "まど",
+        "meaning": "window"
+      },
+      {
+        "word": "道路",
+        "reading": "どうろ",
+        "meaning": "road"
+      },
+      {
+        "word": "雪",
+        "reading": "ゆき",
+        "meaning": "snow"
+      },
+      {
+        "word": "天気",
+        "reading": "てんき",
+        "meaning": "weather"
+      },
+      {
+        "word": "毎朝",
+        "reading": "まいあさ",
+        "meaning": "every morning"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "〜に（頻度）",
+        "meaning": "Expresses a ratio or frequency of occurrence (N times per period)",
+        "example": "一日に三回、この薬を飲んでいます。(I take this medicine three times a day.)"
+      },
+      {
+        "pattern": "〜も（extreme example）",
+        "meaning": "Expresses an extreme or surprising example; even ~",
+        "example": "私はひらがなも書けません。(I can't even write hiragana.)"
+      },
+      {
+        "pattern": "〜ずつ",
+        "meaning": "Expresses rationing or distributing equally; ~ each / ~ at a time",
+        "example": "このプリントを一枚ずつ配ってください。(Please hand out one of these printouts to each person.)"
+      },
+      {
+        "pattern": "N₁はN₂ほど〜ない",
+        "meaning": "N₁ is not as ~ as N₂ (comparison of lesser degree)",
+        "example": "今週は先週ほどいそがしくありません。(I'm not as busy this week as I was last week.)"
+      },
+      {
+        "pattern": "〜では / 〜からも / 〜にも（は／も with particles）",
+        "meaning": "Adds は or も to particles for emphasis or contrast",
+        "example": "東京には大きい公園がたくさんあります。(There are many large parks in Tokyo.)"
+      },
+      {
+        "pattern": "Nでも",
+        "meaning": "Even N; N is an extreme or unexpected example",
+        "example": "これは子どもでもできる問題です。(This is a problem even a child can solve.)"
+      },
+      {
+        "pattern": "Nで（reason）",
+        "meaning": "Expresses reason or cause (noun-based)",
+        "example": "かぜで学校を休みました。(I was absent from school because of a cold.)"
+      },
+      {
+        "pattern": "NしかV-ない",
+        "meaning": "Only N; nothing but N (used with negative verb)",
+        "example": "私のクラスに男の人は二人しかいません。(There are only two men in my class.)"
+      },
+      {
+        "pattern": "N₁とかN₂（とか）",
+        "meaning": "N₁ or N₂, or something like that (non-exhaustive list)",
+        "example": "毎日、昼はラーメンとかそばとかを食べます。(For lunch every day, I eat things like ramen or soba.)"
+      },
+      {
+        "pattern": "〜まで",
+        "meaning": "Until ~; up to ~",
+        "example": "仕事が終わるまで、ここで待っていてください。(Please wait here until the work is finished.)"
+      },
+      {
+        "pattern": "〜までに",
+        "meaning": "By ~; no later than ~",
+        "example": "レポートは15日までに出してください。(Please submit the report by the 15th.)"
+      },
+      {
+        "pattern": "〜たり（〜たり）する",
+        "meaning": "Do things like ~ and ~; listing representative actions from a larger set",
+        "example": "休みの日はDVDを見たり本を読んだりしています。(On my days off, I do things like watching DVDs and reading books.)"
+      },
+      {
+        "pattern": "〜し（、〜し、）〜",
+        "meaning": "And also ~; lists multiple reasons or qualities",
+        "example": "このレストランはおいしいし、安いです。(This restaurant has great food and is also inexpensive.)"
+      },
+      {
+        "pattern": "Nばかり",
+        "meaning": "Nothing but N; only N (implies excessively or exclusively)",
+        "example": "弟はゲームばかりしています。(My younger brother does nothing but play games.)"
+      },
+      {
+        "pattern": "Vるところ / Vているところ / Vたところ",
+        "meaning": "Expresses the point just before, currently in progress, or just after an action",
+        "example": "今、授業が終わったところです。(Class has just now ended.)"
+      },
+      {
+        "pattern": "Nの間に / Vている間に",
+        "meaning": "During N / while doing V (something else happens)",
+        "example": "買い物に行っている間に、友だちが来ました。(While I was out shopping, a friend came over.)"
+      },
+      {
+        "pattern": "Vるとき（に）、V₂ / Vたとき（に）、V₂",
+        "meaning": "When (about to do) V₁ / When (after having done) V₁, then V₂",
+        "example": "寝るとき、パジャマを着ます。(When I go to bed, I put on my pajamas.)"
+      },
+      {
+        "pattern": "N中（ちゅう）",
+        "meaning": "In the middle of N; throughout N (ongoing action or period)",
+        "example": "田中さんは今、電話中です。(Tanaka-san is on the phone right now.)"
+      },
+      {
+        "pattern": "〜て… / 〜で…（cause/reason）",
+        "meaning": "Because of ~; due to ~ (te-form expressing reason)",
+        "example": "かぜで学校を休みました。(I took time off school because I caught a cold.)"
+      },
+      {
+        "pattern": "〜たまま",
+        "meaning": "Leaving ~ as is; doing something while another state remains unchanged",
+        "example": "まどを開けたまま寝ました。(I fell asleep with the window left open.)"
+      },
+      {
+        "pattern": "Vながら",
+        "meaning": "While doing V; doing two things simultaneously",
+        "example": "私は音楽を聞きながら勉強します。(I study while listening to music.)"
+      },
+      {
+        "pattern": "Vたことがある",
+        "meaning": "Have done V before; expresses past experience",
+        "example": "私はアフリカに行ったことがあります。(I have been to Africa.)"
+      },
+      {
+        "pattern": "Vる／ないことがある",
+        "meaning": "Sometimes (do / don't do) V; something occasionally occurs",
+        "example": "私は昼ご飯を食べないことがあります。(Sometimes I don't eat lunch.)"
+      },
+      {
+        "pattern": "NにするV / Vることにする",
+        "meaning": "Decide to do V (by one's own choice); also used for habits with している",
+        "example": "毎日、牛乳を飲むことにしています。(I make it a habit to drink milk every day.)"
+      },
+      {
+        "pattern": "NになるV / Vることになる",
+        "meaning": "It has been decided that ~; something is determined (often externally)",
+        "example": "来月、イギリスへ出張することになりました。(It has been decided that I'll go on a business trip to the UK next month.)"
+      },
+      {
+        "pattern": "i-Aく／na-Aにする",
+        "meaning": "To make something [adjective]; to willfully change a state",
+        "example": "テレビの音を小さくしてください。(Please turn down the TV.)"
+      },
+      {
+        "pattern": "i-Aく／na-Aになる",
+        "meaning": "To become [adjective]; a natural change of state",
+        "example": "母がなくなって、さびしくなりました。(After my mother passed away, I became lonely.)"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which particle completes this sentence correctly?\n「一日___三回、この薬を飲んでください。」",
+        "options": [
+          "で",
+          "は",
+          "に",
+          "を"
+        ],
+        "answer": "に"
+      },
+      {
+        "question": "Which word means 'only N, and nothing else' and is used with a NEGATIVE verb?",
+        "options": [
+          "ばかり",
+          "しか",
+          "だけ",
+          "ずつ"
+        ],
+        "answer": "しか"
+      },
+      {
+        "question": "Which grammar pattern means 'while doing V' (two actions at the same time)?",
+        "options": [
+          "〜てから",
+          "〜ながら",
+          "〜たまま",
+          "〜たり〜たり"
+        ],
+        "answer": "〜ながら"
+      },
+      {
+        "question": "Choose the sentence that correctly uses 〜ほど〜ない for comparison.",
+        "options": [
+          "今日は昨日ほど寒くないです。",
+          "今日は昨日ほど寒いです。",
+          "今日は昨日ほど寒くてです。",
+          "今日は昨日ほど寒いではないです。"
+        ],
+        "answer": "今日は昨日ほど寒くないです。"
+      },
+      {
+        "question": "What does 「窓を開けたまま寝ました」mean?",
+        "options": [
+          "I opened the window before sleeping.",
+          "I fell asleep with the window still open.",
+          "I woke up and opened the window.",
+          "I slept after closing the window."
+        ],
+        "answer": "I fell asleep with the window still open."
+      },
+      {
+        "question": "Which sentence correctly expresses past experience using 〜たことがある?",
+        "options": [
+          "私は富士山に登ったことがあります。",
+          "私は富士山に登ることがあります。",
+          "私は富士山に登っていることがあります。",
+          "私は富士山に登るところです。"
+        ],
+        "answer": "私は富士山に登ったことがあります。"
+      },
+      {
+        "question": "Which is the correct meaning of 「授業が終わったところです」?",
+        "options": [
+          "Class is about to start.",
+          "Class is currently in progress.",
+          "Class has just ended.",
+          "Class ended a long time ago."
+        ],
+        "answer": "Class has just ended."
+      },
+      {
+        "question": "「〜ずつ」is used to express which idea?",
+        "options": [
+          "An extreme example",
+          "A rationing or even distribution",
+          "A reason or cause",
+          "A comparison"
+        ],
+        "answer": "A rationing or even distribution"
+      },
+      {
+        "question": "Fill in the blank: 「休みの日は映画を見___音楽を聞___しています。」",
+        "options": [
+          "ながら / ながら",
+          "たり / たり",
+          "し / し",
+          "て / て"
+        ],
+        "answer": "たり / たり"
+      },
+      {
+        "question": "Which sentence correctly uses 〜ことになる (something has been decided)?",
+        "options": [
+          "来月、大阪に転勤することになりました。",
+          "来月、大阪に転勤することにしました。",
+          "来月、大阪に転勤するところです。",
+          "来月、大阪に転勤したことがあります。"
+        ],
+        "answer": "来月、大阪に転勤することになりました。"
+      },
+      {
+        "question": "What does 「Nでも」emphasize when used in a sentence like 「子どもでもできます」?",
+        "options": [
+          "N is a condition or method.",
+          "N is an extreme or unexpected example.",
+          "N is the only thing that applies.",
+          "N happened in the past."
+        ],
+        "answer": "N is an extreme or unexpected example."
+      },
+      {
+        "question": "Which particle expresses reason in: 「かぜ___学校を休みました」?",
+        "options": [
+          "は",
+          "に",
+          "で",
+          "が"
+        ],
+        "answer": "で"
+      }
+    ],
+    "kanji": [
+      {
+        "character": "歯",
+        "onyomi": [
+          "し"
+        ],
+        "kunyomi": [
+          "は"
+        ],
+        "meaning": "tooth",
+        "examples": [
+          {
+            "word": "歯",
+            "reading": "は",
+            "meaning": "tooth / teeth"
+          },
+          {
+            "word": "歯医者",
+            "reading": "はいしゃ",
+            "meaning": "dentist"
+          }
+        ]
+      },
+      {
+        "character": "薬",
+        "onyomi": [
+          "やく"
+        ],
+        "kunyomi": [
+          "くすり"
+        ],
+        "meaning": "medicine / drug",
+        "examples": [
+          {
+            "word": "薬",
+            "reading": "くすり",
+            "meaning": "medicine"
+          },
+          {
+            "word": "薬局",
+            "reading": "やっきょく",
+            "meaning": "pharmacy"
+          }
+        ]
+      },
+      {
+        "character": "兄",
+        "onyomi": [
+          "けい",
+          "きょう"
+        ],
+        "kunyomi": [
+          "あに"
+        ],
+        "meaning": "older brother",
+        "examples": [
+          {
+            "word": "兄",
+            "reading": "あに",
+            "meaning": "older brother"
+          },
+          {
+            "word": "兄弟",
+            "reading": "きょうだい",
+            "meaning": "siblings"
+          }
+        ]
+      },
+      {
+        "character": "弟",
+        "onyomi": [
+          "てい"
+        ],
+        "kunyomi": [
+          "おとうと"
+        ],
+        "meaning": "younger brother",
+        "examples": [
+          {
+            "word": "弟",
+            "reading": "おとうと",
+            "meaning": "younger brother"
+          },
+          {
+            "word": "兄弟",
+            "reading": "きょうだい",
+            "meaning": "siblings"
+          }
+        ]
+      },
+      {
+        "character": "漢",
+        "onyomi": [
+          "かん"
+        ],
+        "kunyomi": [],
+        "meaning": "China / Han / kanji",
+        "examples": [
+          {
+            "word": "漢字",
+            "reading": "かんじ",
+            "meaning": "kanji characters"
+          },
+          {
+            "word": "漢方",
+            "reading": "かんぽう",
+            "meaning": "Chinese herbal medicine"
+          }
+        ]
+      },
+      {
+        "character": "字",
+        "onyomi": [
+          "じ"
+        ],
+        "kunyomi": [
+          "あざ"
+        ],
+        "meaning": "character / letter",
+        "examples": [
+          {
+            "word": "漢字",
+            "reading": "かんじ",
+            "meaning": "kanji characters"
+          },
+          {
+            "word": "文字",
+            "reading": "もじ",
+            "meaning": "letter / character"
+          }
+        ]
+      },
+      {
+        "character": "音",
+        "onyomi": [
+          "おん",
+          "いん"
+        ],
+        "kunyomi": [
+          "おと",
+          "ね"
+        ],
+        "meaning": "sound / noise",
+        "examples": [
+          {
+            "word": "音楽",
+            "reading": "おんがく",
+            "meaning": "music"
+          },
+          {
+            "word": "音",
+            "reading": "おと",
+            "meaning": "sound"
+          }
+        ]
+      },
+      {
+        "character": "楽",
+        "onyomi": [
+          "がく",
+          "らく"
+        ],
+        "kunyomi": [
+          "たの"
+        ],
+        "meaning": "music / comfort / enjoyment",
+        "examples": [
+          {
+            "word": "音楽",
+            "reading": "おんがく",
+            "meaning": "music"
+          },
+          {
+            "word": "楽しい",
+            "reading": "たのしい",
+            "meaning": "fun / enjoyable"
+          }
+        ]
+      },
+      {
+        "character": "雪",
+        "onyomi": [
+          "せつ"
+        ],
+        "kunyomi": [
+          "ゆき"
+        ],
+        "meaning": "snow",
+        "examples": [
+          {
+            "word": "雪",
+            "reading": "ゆき",
+            "meaning": "snow"
+          },
+          {
+            "word": "大雪",
+            "reading": "おおゆき",
+            "meaning": "heavy snow"
+          }
+        ]
+      },
+      {
+        "character": "窓",
+        "onyomi": [
+          "そう"
+        ],
+        "kunyomi": [
+          "まど"
+        ],
+        "meaning": "window",
+        "examples": [
+          {
+            "word": "窓",
+            "reading": "まど",
+            "meaning": "window"
+          },
+          {
+            "word": "窓口",
+            "reading": "まどぐち",
+            "meaning": "ticket window / counter"
+          }
+        ]
+      },
+      {
+        "character": "終",
+        "onyomi": [
+          "しゅう"
+        ],
+        "kunyomi": [
+          "お"
+        ],
+        "meaning": "end / finish",
+        "examples": [
+          {
+            "word": "終わる",
+            "reading": "おわる",
+            "meaning": "to end / finish"
+          },
+          {
+            "word": "終電",
+            "reading": "しゅうでん",
+            "meaning": "last train"
+          }
+        ]
+      },
+      {
+        "character": "道",
+        "onyomi": [
+          "どう",
+          "とう"
+        ],
+        "kunyomi": [
+          "みち"
+        ],
+        "meaning": "road / way / path",
+        "examples": [
+          {
+            "word": "道路",
+            "reading": "どうろ",
+            "meaning": "road"
+          },
+          {
+            "word": "道",
+            "reading": "みち",
+            "meaning": "path / street"
+          }
+        ]
+      }
+    ]
+  }
