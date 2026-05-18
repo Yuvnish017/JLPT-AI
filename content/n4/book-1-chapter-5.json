@@ -1,0 +1,1046 @@
+{
+    "title": "Week 5: Let's Study Vocabulary (2)",
+    "jlpt": "N4",
+    "chapter": 5,
+    "week": 5,
+    "vocabulary": [
+      {
+        "word": "下がる",
+        "reading": "さがる",
+        "meaning": "to go down, to drop (intransitive)"
+      },
+      {
+        "word": "上がる",
+        "reading": "あがる",
+        "meaning": "to go up, to rise (intransitive)"
+      },
+      {
+        "word": "下げる",
+        "reading": "さげる",
+        "meaning": "to lower, to bring down (transitive)"
+      },
+      {
+        "word": "上げる",
+        "reading": "あげる",
+        "meaning": "to raise, to lift up (transitive)"
+      },
+      {
+        "word": "下りる",
+        "reading": "おりる",
+        "meaning": "to go down (stairs); to get off"
+      },
+      {
+        "word": "上る",
+        "reading": "のぼる",
+        "meaning": "to go up (stairs, mountain)"
+      },
+      {
+        "word": "登る",
+        "reading": "のぼる",
+        "meaning": "to climb (a mountain)"
+      },
+      {
+        "word": "降りる",
+        "reading": "おりる",
+        "meaning": "to get off (vehicle)"
+      },
+      {
+        "word": "乗る",
+        "reading": "のる",
+        "meaning": "to get on, to ride"
+      },
+      {
+        "word": "減る",
+        "reading": "へる",
+        "meaning": "to decrease, to reduce (intransitive)"
+      },
+      {
+        "word": "増える",
+        "reading": "ふえる",
+        "meaning": "to increase (intransitive)"
+      },
+      {
+        "word": "出す",
+        "reading": "だす",
+        "meaning": "to take out, to put out"
+      },
+      {
+        "word": "入れる",
+        "reading": "いれる",
+        "meaning": "to put in, to insert"
+      },
+      {
+        "word": "遅れる",
+        "reading": "おくれる",
+        "meaning": "to be late, to be delayed"
+      },
+      {
+        "word": "間に合う",
+        "reading": "まにあう",
+        "meaning": "to be in time, to make it"
+      },
+      {
+        "word": "だめな",
+        "reading": "だめな",
+        "meaning": "no good, not allowed, useless"
+      },
+      {
+        "word": "大丈夫な",
+        "reading": "だいじょうぶな",
+        "meaning": "all right, fine, okay"
+      },
+      {
+        "word": "ねだんが上がる",
+        "reading": "ねだんがあがる",
+        "meaning": "prices go up"
+      },
+      {
+        "word": "ねつが下がる",
+        "reading": "ねつがさがる",
+        "meaning": "fever goes down"
+      },
+      {
+        "word": "かいだんを下りる",
+        "reading": "かいだんをおりる",
+        "meaning": "to go down the stairs"
+      },
+      {
+        "word": "山に登る",
+        "reading": "やまにのぼる",
+        "meaning": "to climb a mountain"
+      },
+      {
+        "word": "若い",
+        "reading": "わかい",
+        "meaning": "young"
+      },
+      {
+        "word": "年取った",
+        "reading": "としとった",
+        "meaning": "old, aged"
+      },
+      {
+        "word": "お年寄り",
+        "reading": "おとしより",
+        "meaning": "elderly person"
+      },
+      {
+        "word": "やせる",
+        "reading": "やせる",
+        "meaning": "to lose weight, to become thin"
+      },
+      {
+        "word": "長い",
+        "reading": "ながい",
+        "meaning": "long"
+      },
+      {
+        "word": "かける",
+        "reading": "かける",
+        "meaning": "to wear (glasses)"
+      },
+      {
+        "word": "かぶる",
+        "reading": "かぶる",
+        "meaning": "to wear (a hat)"
+      },
+      {
+        "word": "さす",
+        "reading": "さす",
+        "meaning": "to hold (an umbrella)"
+      },
+      {
+        "word": "真面目な",
+        "reading": "まじめな",
+        "meaning": "serious, diligent, honest"
+      },
+      {
+        "word": "似る",
+        "reading": "にる",
+        "meaning": "to look like, to resemble"
+      },
+      {
+        "word": "歌う",
+        "reading": "うたう",
+        "meaning": "to sing"
+      },
+      {
+        "word": "踊る",
+        "reading": "おどる",
+        "meaning": "to dance"
+      },
+      {
+        "word": "走る",
+        "reading": "はしる",
+        "meaning": "to run"
+      },
+      {
+        "word": "食事中",
+        "reading": "しょくじちゅう",
+        "meaning": "during a meal"
+      },
+      {
+        "word": "勉強中",
+        "reading": "べんきょうちゅう",
+        "meaning": "currently studying"
+      },
+      {
+        "word": "仕事中",
+        "reading": "しごとちゅう",
+        "meaning": "during work"
+      },
+      {
+        "word": "使用中",
+        "reading": "しようちゅう",
+        "meaning": "in use, occupied"
+      },
+      {
+        "word": "間違える",
+        "reading": "まちがえる",
+        "meaning": "to make a mistake, to get wrong"
+      },
+      {
+        "word": "残る",
+        "reading": "のこる",
+        "meaning": "to remain, to be left over (intransitive)"
+      },
+      {
+        "word": "残す",
+        "reading": "のこす",
+        "meaning": "to leave behind (transitive)"
+      },
+      {
+        "word": "余る",
+        "reading": "あまる",
+        "meaning": "to be in excess, to be left over"
+      },
+      {
+        "word": "足りる",
+        "reading": "たりる",
+        "meaning": "to be sufficient, to be enough"
+      },
+      {
+        "word": "足りない",
+        "reading": "たりない",
+        "meaning": "not enough, insufficient"
+      },
+      {
+        "word": "チェックする",
+        "reading": "チェックする",
+        "meaning": "to check"
+      },
+      {
+        "word": "調べる",
+        "reading": "しらべる",
+        "meaning": "to look up, to investigate"
+      },
+      {
+        "word": "質問する",
+        "reading": "しつもんする",
+        "meaning": "to ask a question"
+      },
+      {
+        "word": "役に立つ",
+        "reading": "やくにたつ",
+        "meaning": "to be useful"
+      },
+      {
+        "word": "写す",
+        "reading": "うつす",
+        "meaning": "to copy, to transcribe"
+      },
+      {
+        "word": "貼る",
+        "reading": "はる",
+        "meaning": "to stick, to paste"
+      },
+      {
+        "word": "塗る",
+        "reading": "ぬる",
+        "meaning": "to paint, to spread (butter)"
+      },
+      {
+        "word": "できる",
+        "reading": "できる",
+        "meaning": "can do; be finished; be ready; a new place opens"
+      },
+      {
+        "word": "きっと",
+        "reading": "きっと",
+        "meaning": "surely, certainly, probably"
+      },
+      {
+        "word": "やっと",
+        "reading": "やっと",
+        "meaning": "finally, at last"
+      },
+      {
+        "word": "ずっと",
+        "reading": "ずっと",
+        "meaning": "throughout; much more (by far)"
+      },
+      {
+        "word": "さっき",
+        "reading": "さっき",
+        "meaning": "just a moment ago, a little while ago"
+      },
+      {
+        "word": "最近",
+        "reading": "さいきん",
+        "meaning": "recently, lately"
+      },
+      {
+        "word": "もうすぐ",
+        "reading": "もうすぐ",
+        "meaning": "very soon, almost"
+      },
+      {
+        "word": "必ず",
+        "reading": "かならず",
+        "meaning": "absolutely, certainly, without fail"
+      },
+      {
+        "word": "たいてい",
+        "reading": "たいてい",
+        "meaning": "mostly, usually"
+      },
+      {
+        "word": "ずいぶん",
+        "reading": "ずいぶん",
+        "meaning": "considerably, quite, a lot"
+      },
+      {
+        "word": "やっぱり",
+        "reading": "やっぱり",
+        "meaning": "just as I thought; after all; as expected"
+      },
+      {
+        "word": "落とす",
+        "reading": "おとす",
+        "meaning": "to drop (transitive)"
+      },
+      {
+        "word": "落ちる",
+        "reading": "おちる",
+        "meaning": "to fall, to drop (intransitive); to fail a test"
+      },
+      {
+        "word": "壊す",
+        "reading": "こわす",
+        "meaning": "to break (transitive)"
+      },
+      {
+        "word": "壊れる",
+        "reading": "こわれる",
+        "meaning": "to be broken (intransitive)"
+      },
+      {
+        "word": "なくす",
+        "reading": "なくす",
+        "meaning": "to lose (transitive)"
+      },
+      {
+        "word": "なくなる",
+        "reading": "なくなる",
+        "meaning": "to disappear, to be lost (intransitive)"
+      },
+      {
+        "word": "見つける",
+        "reading": "みつける",
+        "meaning": "to find (transitive)"
+      },
+      {
+        "word": "見つかる",
+        "reading": "みつかる",
+        "meaning": "to be found (intransitive)"
+      },
+      {
+        "word": "拾う",
+        "reading": "ひろう",
+        "meaning": "to pick up (something that fell)"
+      },
+      {
+        "word": "探す",
+        "reading": "さがす",
+        "meaning": "to search for (a job, something desired)"
+      },
+      {
+        "word": "捜す",
+        "reading": "さがす",
+        "meaning": "to search for (a lost person or thing)"
+      },
+      {
+        "word": "大切な",
+        "reading": "たいせつな",
+        "meaning": "important, precious, valuable"
+      },
+      {
+        "word": "大切にする",
+        "reading": "たいせつにする",
+        "meaning": "to take good care of"
+      },
+      {
+        "word": "たいへん",
+        "reading": "たいへん",
+        "meaning": "Oh no! There's trouble!"
+      },
+      {
+        "word": "いけない",
+        "reading": "いけない",
+        "meaning": "This won't do! Oops!"
+      },
+      {
+        "word": "どうしよう",
+        "reading": "どうしよう",
+        "meaning": "What should I do?"
+      },
+      {
+        "word": "あ、あった",
+        "reading": "あ、あった",
+        "meaning": "Ah, here it is! Found it!"
+      },
+      {
+        "word": "よかったね",
+        "reading": "よかったね",
+        "meaning": "Thank goodness! Good for you!"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "Intransitive verb (が) ⟺ Transitive verb (を) — directional pairs",
+        "meaning": "Many movement verbs come in intransitive/transitive pairs. The intransitive describes something happening on its own (subject + が); the transitive describes someone doing it to something (object + を).",
+        "example": "ねだんが上がった。(Prices went up — intransitive.) / ねだんを上げた。(They raised the price — transitive.) / ねつが下がった ⟺ ねつを下げた。"
+      },
+      {
+        "pattern": "〜が 減る ⟺ 〜が 増える",
+        "meaning": "To decrease ⟺ to increase. Both are intransitive; the changing thing takes が.",
+        "example": "さいきん、体重が増えました。(My weight has increased recently.) / 学生の数が減っています。(The number of students is decreasing.)"
+      },
+      {
+        "pattern": "AからBを出す ⟺ AにBを入れる",
+        "meaning": "To take B out of A ⟺ to put B into A",
+        "example": "かばんからさいふを出しました。(I took my wallet out of my bag.) / せんたくきにせんざいを入れました。(I put detergent into the washing machine.)"
+      },
+      {
+        "pattern": "〜中 (ちゅう) — during / currently doing",
+        "meaning": "Attached to a noun to mean 'in the middle of ~' or 'currently doing ~'. Equivalent to 〜している.",
+        "example": "食事中です。(= 食事をしています) (I'm in the middle of eating.) / 使用中のトイレ。(The toilet is in use.)"
+      },
+      {
+        "pattern": "きっと / やっと / ずっと — adverb nuances",
+        "meaning": "きっと = surely/probably (speaker's confident expectation); やっと = finally (after a long wait or effort); ずっと = throughout / all along / much more",
+        "example": "よく勉強したから、きっと合格するでしょう。(You studied hard, so you'll surely pass.) / やっとバスが来た。(The bus finally came.) / 妹は朝からずっと勉強している。(My sister has been studying since morning.)"
+      },
+      {
+        "pattern": "やっぱり — just as I thought / after all",
+        "meaning": "Used when a result matches what was expected or when changing one's mind back to an original thought.",
+        "example": "おいしそうだと思って食べたら、やっぱりおいしかった。(I thought it looked delicious, and sure enough it was.) / りんごにしようかな…あ、やっぱりケーキにしよう！(Should I get an apple… actually, I'll go with cake after all!)"
+      },
+      {
+        "pattern": "Transitive verb (を) ⟺ Intransitive verb (が) — loss/discovery pairs",
+        "meaning": "落とす⟺落ちる、壊す⟺壊れる、なくす⟺なくなる、見つける⟺見つかる。Transitive = someone does it ON something (を); intransitive = it happens BY ITSELF (が).",
+        "example": "さいふを落とした。(I dropped my wallet.) / さいふが落ちた。(The wallet fell.) / スマホを壊した。(I broke my smartphone.) / スマホが壊れた。(The smartphone broke.)"
+      },
+      {
+        "pattern": "できる — multiple meanings",
+        "meaning": "できる has three key meanings that must be determined by context: (1) can do ~, (2) something is finished/ready, (3) a new place/thing has come into existence.",
+        "example": "(1) 日本語ができます。(I can speak Japanese.) (2) ごはんができた。(Dinner is ready.) (3) 駅の前に新しい店ができた。(A new shop has opened in front of the station.)"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "「ねつが（　）よかった。」Which intransitive verb means the fever went down?",
+        "options": [
+          "下げて",
+          "下がって",
+          "上げて",
+          "上がって"
+        ],
+        "answer": "下がって"
+      },
+      {
+        "question": "「かいだんを（　）左に行くと、コンビニがあります。」Which verb fills the blank?",
+        "options": [
+          "おりて",
+          "さげて",
+          "さがって",
+          "おちて"
+        ],
+        "answer": "おりて"
+      },
+      {
+        "question": "Choose the sentence that correctly uses 「やっと」.",
+        "options": [
+          "やっと毎日バスに乗ります。",
+          "やっとバスが来た。よかった！",
+          "やっと明日も雨でしょう。",
+          "やっと日本語が少し話せませんでした。"
+        ],
+        "answer": "やっとバスが来た。よかった！"
+      },
+      {
+        "question": "「さいふを（　）しまいました。」Which transitive verb means 'I lost my wallet'?",
+        "options": [
+          "なくなって",
+          "なくして",
+          "落ちて",
+          "壊れて"
+        ],
+        "answer": "なくして"
+      },
+      {
+        "question": "「スマホが（　）。」Which intransitive verb means 'the smartphone broke on its own'?",
+        "options": [
+          "壊した",
+          "壊れた",
+          "落とした",
+          "なくした"
+        ],
+        "answer": "壊れた"
+      },
+      {
+        "question": "「千円で買いものをして、百円（　）ました。」Which verb means there was money left over?",
+        "options": [
+          "足りき",
+          "残り",
+          "あまり",
+          "減り"
+        ],
+        "answer": "あまり"
+      },
+      {
+        "question": "Which adverb best fills the blank? 「（　）、リーさんは学校に来ません。」(Something is definitely wrong — she never misses school.)",
+        "options": [
+          "やっと",
+          "ずっと",
+          "さっき",
+          "きっと"
+        ],
+        "answer": "きっと"
+      },
+      {
+        "question": "「先生のかばんは（　）ですね。」Which adjective means 'heavy'?",
+        "options": [
+          "軽い",
+          "重い",
+          "固い",
+          "厚い"
+        ],
+        "answer": "重い"
+      },
+      {
+        "question": "「図書館で仕事を（　）います。」Which verb means 'searching for a job'?",
+        "options": [
+          "さがして",
+          "みつけて",
+          "おとして",
+          "のこして"
+        ],
+        "answer": "さがして"
+      },
+      {
+        "question": "「ずっと」can mean which TWO things? (Choose the best answer.)",
+        "options": [
+          "finally AND surely",
+          "throughout (the whole time) AND much more (by far)",
+          "just now AND after all",
+          "mostly AND occasionally"
+        ],
+        "answer": "throughout (the whole time) AND much more (by far)"
+      },
+      {
+        "question": "「（　）、リーさんは背が高い。」Which adverb means 'My younger brother is MUCH taller than me'?",
+        "options": [
+          "やっと",
+          "きっと",
+          "ずっと",
+          "やっぱり"
+        ],
+        "answer": "ずっと"
+      },
+      {
+        "question": "「あの学生はとても（　）です。」Which word means the student is serious and hardworking?",
+        "options": [
+          "にぎやかな",
+          "まじめな",
+          "うるさい",
+          "やわらかい"
+        ],
+        "answer": "まじめな"
+      },
+      {
+        "question": "Which sentence uses 「できる」to mean 'something is ready / finished'?",
+        "options": [
+          "日本語ができます。",
+          "ごはんができた。",
+          "新しい仕事ができた。",
+          "運転ができません。"
+        ],
+        "answer": "ごはんができた。"
+      },
+      {
+        "question": "「メールでおくってもらったファイルが（　）。」Which verb means the file cannot be opened?",
+        "options": [
+          "きえません",
+          "ひらけません",
+          "こわれません",
+          "のこりません"
+        ],
+        "answer": "ひらけません"
+      },
+      {
+        "question": "「（　）サラダはれいぞうこに入れておきます。」Which word means there is leftover salad?",
+        "options": [
+          "たりた",
+          "のこった",
+          "あまった",
+          "うつした"
+        ],
+        "answer": "のこった"
+      },
+      {
+        "question": "「先生から（　）いました。」Which humble verb means 'I asked / heard from the teacher'?",
+        "options": [
+          "しらべて",
+          "チェックして",
+          "しつもんして",
+          "うかがって"
+        ],
+        "answer": "うかがって"
+      },
+      {
+        "question": "「やっぱり」is correctly used when:",
+        "options": [
+          "something happened much sooner than expected",
+          "a result matches what you expected, or you change your mind back",
+          "you finally achieved something after a long wait",
+          "you are absolutely certain something will happen"
+        ],
+        "answer": "a result matches what you expected, or you change your mind back"
+      },
+      {
+        "question": "「かべにポスターを（　）。」Which verb means to stick or paste something on a wall?",
+        "options": [
+          "ぬります",
+          "はります",
+          "うつします",
+          "おします"
+        ],
+        "answer": "はります"
+      },
+      {
+        "question": "「さいきん、てがみを書く人が（　）。」Which intransitive verb means the number has been decreasing?",
+        "options": [
+          "はりました",
+          "ふりました",
+          "へりました",
+          "ぬりました"
+        ],
+        "answer": "へりました"
+      },
+      {
+        "question": "「道を（　）ことができません。」Which verb means 'I got the wrong way / took the wrong road'?",
+        "options": [
+          "まちがえた",
+          "なくした",
+          "おとした",
+          "こわした"
+        ],
+        "answer": "まちがえた"
+      }
+    ],
+    "kanji": [
+      {
+        "character": "減",
+        "onyomi": [],
+        "kunyomi": [
+          "へ(-る)"
+        ],
+        "meaning": "decrease, reduce",
+        "examples": [
+          {
+            "word": "減る",
+            "reading": "へる",
+            "meaning": "to decrease (intransitive)"
+          }
+        ]
+      },
+      {
+        "character": "増",
+        "onyomi": [],
+        "kunyomi": [
+          "ふ(-える)"
+        ],
+        "meaning": "increase",
+        "examples": [
+          {
+            "word": "増える",
+            "reading": "ふえる",
+            "meaning": "to increase (intransitive)"
+          }
+        ]
+      },
+      {
+        "character": "遅",
+        "onyomi": [],
+        "kunyomi": [
+          "おく(-れる)"
+        ],
+        "meaning": "late, slow",
+        "examples": [
+          {
+            "word": "遅れる",
+            "reading": "おくれる",
+            "meaning": "to be late, to be delayed"
+          }
+        ]
+      },
+      {
+        "character": "若",
+        "onyomi": [],
+        "kunyomi": [
+          "わか(-い)"
+        ],
+        "meaning": "young",
+        "examples": [
+          {
+            "word": "若い",
+            "reading": "わかい",
+            "meaning": "young"
+          }
+        ]
+      },
+      {
+        "character": "踊",
+        "onyomi": [],
+        "kunyomi": [
+          "おど(-る)"
+        ],
+        "meaning": "dance",
+        "examples": [
+          {
+            "word": "踊る",
+            "reading": "おどる",
+            "meaning": "to dance"
+          }
+        ]
+      },
+      {
+        "character": "真",
+        "onyomi": [
+          "シン"
+        ],
+        "kunyomi": [
+          "ま"
+        ],
+        "meaning": "true, genuine",
+        "examples": [
+          {
+            "word": "真面目な",
+            "reading": "まじめな",
+            "meaning": "serious, diligent"
+          }
+        ]
+      },
+      {
+        "character": "似",
+        "onyomi": [],
+        "kunyomi": [
+          "に(-る)"
+        ],
+        "meaning": "resemble, look like",
+        "examples": [
+          {
+            "word": "似る",
+            "reading": "にる",
+            "meaning": "to resemble"
+          }
+        ]
+      },
+      {
+        "character": "間",
+        "onyomi": [
+          "カン"
+        ],
+        "kunyomi": [
+          "ま(-ちがえる)",
+          "あいだ"
+        ],
+        "meaning": "interval, between, mistake",
+        "examples": [
+          {
+            "word": "間違える",
+            "reading": "まちがえる",
+            "meaning": "to make a mistake"
+          },
+          {
+            "word": "間に合う",
+            "reading": "まにあう",
+            "meaning": "to be in time"
+          }
+        ]
+      },
+      {
+        "character": "余",
+        "onyomi": [],
+        "kunyomi": [
+          "あま(-る)"
+        ],
+        "meaning": "excess, surplus, left over",
+        "examples": [
+          {
+            "word": "余る",
+            "reading": "あまる",
+            "meaning": "to be left over, in excess"
+          }
+        ]
+      },
+      {
+        "character": "足",
+        "onyomi": [],
+        "kunyomi": [
+          "た(-りる)"
+        ],
+        "meaning": "foot, leg, be sufficient",
+        "examples": [
+          {
+            "word": "足りる",
+            "reading": "たりる",
+            "meaning": "to be sufficient"
+          },
+          {
+            "word": "足りない",
+            "reading": "たりない",
+            "meaning": "not enough"
+          }
+        ]
+      },
+      {
+        "character": "調",
+        "onyomi": [],
+        "kunyomi": [
+          "しら(-べる)"
+        ],
+        "meaning": "investigate, look up",
+        "examples": [
+          {
+            "word": "調べる",
+            "reading": "しらべる",
+            "meaning": "to investigate, to look up"
+          }
+        ]
+      },
+      {
+        "character": "役",
+        "onyomi": [
+          "ヤク"
+        ],
+        "kunyomi": [],
+        "meaning": "role, use, service",
+        "examples": [
+          {
+            "word": "役に立つ",
+            "reading": "やくにたつ",
+            "meaning": "to be useful"
+          }
+        ]
+      },
+      {
+        "character": "貼",
+        "onyomi": [],
+        "kunyomi": [
+          "は(-る)"
+        ],
+        "meaning": "stick, paste",
+        "examples": [
+          {
+            "word": "貼る",
+            "reading": "はる",
+            "meaning": "to stick, to paste"
+          }
+        ]
+      },
+      {
+        "character": "塗",
+        "onyomi": [],
+        "kunyomi": [
+          "ぬ(-る)"
+        ],
+        "meaning": "paint, spread, coat",
+        "examples": [
+          {
+            "word": "塗る",
+            "reading": "ぬる",
+            "meaning": "to paint, to spread (butter)"
+          }
+        ]
+      },
+      {
+        "character": "必",
+        "onyomi": [],
+        "kunyomi": [
+          "かなら(-ず)"
+        ],
+        "meaning": "certain, inevitable",
+        "examples": [
+          {
+            "word": "必ず",
+            "reading": "かならず",
+            "meaning": "certainly, without fail"
+          }
+        ]
+      },
+      {
+        "character": "落",
+        "onyomi": [],
+        "kunyomi": [
+          "お(-とす)",
+          "お(-ちる)"
+        ],
+        "meaning": "fall, drop",
+        "examples": [
+          {
+            "word": "落とす",
+            "reading": "おとす",
+            "meaning": "to drop (transitive)"
+          },
+          {
+            "word": "落ちる",
+            "reading": "おちる",
+            "meaning": "to fall (intransitive)"
+          }
+        ]
+      },
+      {
+        "character": "壊",
+        "onyomi": [],
+        "kunyomi": [
+          "こわ(-す)",
+          "こわ(-れる)"
+        ],
+        "meaning": "break, destroy",
+        "examples": [
+          {
+            "word": "壊す",
+            "reading": "こわす",
+            "meaning": "to break (transitive)"
+          },
+          {
+            "word": "壊れる",
+            "reading": "こわれる",
+            "meaning": "to be broken (intransitive)"
+          }
+        ]
+      },
+      {
+        "character": "渡",
+        "onyomi": [],
+        "kunyomi": [
+          "わた(-る)"
+        ],
+        "meaning": "cross, go across",
+        "examples": [
+          {
+            "word": "渡る",
+            "reading": "わたる",
+            "meaning": "to cross (a road, bridge)"
+          }
+        ]
+      },
+      {
+        "character": "消",
+        "onyomi": [],
+        "kunyomi": [
+          "き(-える)",
+          "け(-す)"
+        ],
+        "meaning": "disappear, erase, turn off",
+        "examples": [
+          {
+            "word": "消える",
+            "reading": "きえる",
+            "meaning": "to go out, to disappear (intransitive)"
+          },
+          {
+            "word": "消す",
+            "reading": "けす",
+            "meaning": "to turn off, to erase (transitive)"
+          }
+        ]
+      },
+      {
+        "character": "信",
+        "onyomi": [
+          "シン"
+        ],
+        "kunyomi": [],
+        "meaning": "faith, trust, believe",
+        "examples": [
+          {
+            "word": "信じる",
+            "reading": "しんじる",
+            "meaning": "to believe"
+          },
+          {
+            "word": "信号",
+            "reading": "しんごう",
+            "meaning": "traffic light"
+          }
+        ]
+      },
+      {
+        "character": "道",
+        "onyomi": [
+          "ドウ"
+        ],
+        "kunyomi": [
+          "みち"
+        ],
+        "meaning": "road, way, path",
+        "examples": [
+          {
+            "word": "道路",
+            "reading": "どうろ",
+            "meaning": "road, street"
+          }
+        ]
+      },
+      {
+        "character": "危",
+        "onyomi": [],
+        "kunyomi": [
+          "あぶ(-ない)"
+        ],
+        "meaning": "dangerous",
+        "examples": [
+          {
+            "word": "危険な",
+            "reading": "きけんな",
+            "meaning": "dangerous"
+          }
+        ]
+      },
+      {
+        "character": "安",
+        "onyomi": [
+          "アン"
+        ],
+        "kunyomi": [
+          "やす(-い)"
+        ],
+        "meaning": "cheap, safe, peaceful",
+        "examples": [
+          {
+            "word": "安全な",
+            "reading": "あんぜんな",
+            "meaning": "safe"
+          },
+          {
+            "word": "安心する",
+            "reading": "あんしんする",
+            "meaning": "to feel relieved"
+          }
+        ]
+      }
+    ]
+  }

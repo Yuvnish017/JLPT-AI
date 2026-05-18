@@ -1,0 +1,1334 @@
+{
+    "title": "Week 4: Let's Study Vocabulary (1)",
+    "jlpt": "N4",
+    "chapter": 4,
+    "week": 4,
+    "vocabulary": [
+      {
+        "word": "引く",
+        "reading": "ひく",
+        "meaning": "to pull"
+      },
+      {
+        "word": "押す",
+        "reading": "おす",
+        "meaning": "to push"
+      },
+      {
+        "word": "吹く",
+        "reading": "ふく",
+        "meaning": "to blow (wind)"
+      },
+      {
+        "word": "拭く",
+        "reading": "ふく",
+        "meaning": "to wipe"
+      },
+      {
+        "word": "掃く",
+        "reading": "はく",
+        "meaning": "to sweep"
+      },
+      {
+        "word": "吐く",
+        "reading": "はく",
+        "meaning": "to vomit"
+      },
+      {
+        "word": "履く",
+        "reading": "はく",
+        "meaning": "to put on (shoes, pants, skirt)"
+      },
+      {
+        "word": "弾く",
+        "reading": "ひく",
+        "meaning": "to play (guitar, piano)"
+      },
+      {
+        "word": "空く",
+        "reading": "すく",
+        "meaning": "to get hungry; to become uncrowded"
+      },
+      {
+        "word": "込む",
+        "reading": "こむ",
+        "meaning": "to be crowded"
+      },
+      {
+        "word": "着く",
+        "reading": "つく",
+        "meaning": "to arrive"
+      },
+      {
+        "word": "辞書を引く",
+        "reading": "じしょをひく",
+        "meaning": "to use a dictionary"
+      },
+      {
+        "word": "風邪を引く",
+        "reading": "かぜをひく",
+        "meaning": "to catch a cold"
+      },
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "meaning": "feeling, mood"
+      },
+      {
+        "word": "うれしい",
+        "reading": "うれしい",
+        "meaning": "happy, glad"
+      },
+      {
+        "word": "悲しい",
+        "reading": "かなしい",
+        "meaning": "sad"
+      },
+      {
+        "word": "寂しい",
+        "reading": "さびしい",
+        "meaning": "lonely"
+      },
+      {
+        "word": "つまらない",
+        "reading": "つまらない",
+        "meaning": "boring"
+      },
+      {
+        "word": "恥ずかしい",
+        "reading": "はずかしい",
+        "meaning": "embarrassed, ashamed"
+      },
+      {
+        "word": "気持ち悪い",
+        "reading": "きもちわるい",
+        "meaning": "disgusting, feel sick"
+      },
+      {
+        "word": "仕方がない",
+        "reading": "しかたがない",
+        "meaning": "cannot be helped, no choice"
+      },
+      {
+        "word": "残念な",
+        "reading": "ざんねんな",
+        "meaning": "regrettable, disappointing"
+      },
+      {
+        "word": "嫌な",
+        "reading": "いやな",
+        "meaning": "displeasing, unpleasant"
+      },
+      {
+        "word": "がっかりする",
+        "reading": "がっかりする",
+        "meaning": "to be disappointed"
+      },
+      {
+        "word": "心配する",
+        "reading": "しんぱいする",
+        "meaning": "to worry"
+      },
+      {
+        "word": "安心する",
+        "reading": "あんしんする",
+        "meaning": "to be relieved"
+      },
+      {
+        "word": "びっくりする",
+        "reading": "びっくりする",
+        "meaning": "to be surprised"
+      },
+      {
+        "word": "驚く",
+        "reading": "おどろく",
+        "meaning": "to be surprised (formal)"
+      },
+      {
+        "word": "気分",
+        "reading": "きぶん",
+        "meaning": "feeling, mood"
+      },
+      {
+        "word": "病気をする",
+        "reading": "びょうきをする",
+        "meaning": "to get sick"
+      },
+      {
+        "word": "病気になる",
+        "reading": "びょうきになる",
+        "meaning": "to become sick"
+      },
+      {
+        "word": "怪我をする",
+        "reading": "けがをする",
+        "meaning": "to get injured"
+      },
+      {
+        "word": "大丈夫な",
+        "reading": "だいじょうぶな",
+        "meaning": "all right, okay"
+      },
+      {
+        "word": "無理な",
+        "reading": "むりな",
+        "meaning": "impossible, overdoing it"
+      },
+      {
+        "word": "無理をする",
+        "reading": "むりをする",
+        "meaning": "to overdo it, to push oneself"
+      },
+      {
+        "word": "やめる",
+        "reading": "やめる",
+        "meaning": "to stop, to quit"
+      },
+      {
+        "word": "着替える",
+        "reading": "きがえる",
+        "meaning": "to change clothes"
+      },
+      {
+        "word": "履き替える",
+        "reading": "はきかえる",
+        "meaning": "to change shoes or pants"
+      },
+      {
+        "word": "入れ替える",
+        "reading": "いれかえる",
+        "meaning": "to replace, to change out"
+      },
+      {
+        "word": "連れて行く",
+        "reading": "つれていく",
+        "meaning": "to take a person somewhere"
+      },
+      {
+        "word": "持って行く",
+        "reading": "もっていく",
+        "meaning": "to take a thing somewhere"
+      },
+      {
+        "word": "迎えに行く",
+        "reading": "むかえにいく",
+        "meaning": "to go pick someone up"
+      },
+      {
+        "word": "送りに行く",
+        "reading": "おくりにいく",
+        "meaning": "to go see someone off"
+      },
+      {
+        "word": "お弁当",
+        "reading": "おべんとう",
+        "meaning": "lunch box"
+      },
+      {
+        "word": "目が覚める",
+        "reading": "めがさめる",
+        "meaning": "to wake up"
+      },
+      {
+        "word": "シャワーを浴びる",
+        "reading": "シャワーをあびる",
+        "meaning": "to take a shower"
+      },
+      {
+        "word": "磨く",
+        "reading": "みがく",
+        "meaning": "to polish, to brush (teeth)"
+      },
+      {
+        "word": "やる",
+        "reading": "やる",
+        "meaning": "to do (casual); to give (to a plant or animal)"
+      },
+      {
+        "word": "起こす",
+        "reading": "おこす",
+        "meaning": "to wake someone up"
+      },
+      {
+        "word": "片付ける",
+        "reading": "かたづける",
+        "meaning": "to tidy up, to clean up"
+      },
+      {
+        "word": "洗濯する",
+        "reading": "せんたくする",
+        "meaning": "to do laundry"
+      },
+      {
+        "word": "アイロンをかける",
+        "reading": "アイロンをかける",
+        "meaning": "to iron (clothes)"
+      },
+      {
+        "word": "捨てる",
+        "reading": "すてる",
+        "meaning": "to throw away"
+      },
+      {
+        "word": "拾う",
+        "reading": "ひろう",
+        "meaning": "to pick up"
+      },
+      {
+        "word": "出かける",
+        "reading": "でかける",
+        "meaning": "to go out, to leave"
+      },
+      {
+        "word": "支度",
+        "reading": "したく",
+        "meaning": "preparation, getting ready"
+      },
+      {
+        "word": "鍵をかける",
+        "reading": "かぎをかける",
+        "meaning": "to lock"
+      },
+      {
+        "word": "初めは",
+        "reading": "はじめは",
+        "meaning": "at first, in the beginning"
+      },
+      {
+        "word": "初めて",
+        "reading": "はじめて",
+        "meaning": "for the first time"
+      },
+      {
+        "word": "始めに",
+        "reading": "はじめに",
+        "meaning": "firstly, to begin with"
+      },
+      {
+        "word": "思う",
+        "reading": "おもう",
+        "meaning": "to think, to feel"
+      },
+      {
+        "word": "考える",
+        "reading": "かんがえる",
+        "meaning": "to think, to consider"
+      },
+      {
+        "word": "覚える",
+        "reading": "おぼえる",
+        "meaning": "to memorize, to learn"
+      },
+      {
+        "word": "覚えている",
+        "reading": "おぼえている",
+        "meaning": "to remember"
+      },
+      {
+        "word": "思い出す",
+        "reading": "おもいだす",
+        "meaning": "to recall, to remember"
+      },
+      {
+        "word": "回る",
+        "reading": "まわる",
+        "meaning": "to turn, to revolve"
+      },
+      {
+        "word": "曲がる",
+        "reading": "まがる",
+        "meaning": "to turn, to curve, to bend"
+      },
+      {
+        "word": "座る",
+        "reading": "すわる",
+        "meaning": "to sit down"
+      },
+      {
+        "word": "触る",
+        "reading": "さわる",
+        "meaning": "to touch"
+      },
+      {
+        "word": "なる",
+        "reading": "なる",
+        "meaning": "to become"
+      },
+      {
+        "word": "習う",
+        "reading": "ならう",
+        "meaning": "to learn"
+      },
+      {
+        "word": "並ぶ",
+        "reading": "ならぶ",
+        "meaning": "to line up"
+      },
+      {
+        "word": "並べる",
+        "reading": "ならべる",
+        "meaning": "to arrange, to line things up"
+      },
+      {
+        "word": "慣れる",
+        "reading": "なれる",
+        "meaning": "to get used to"
+      },
+      {
+        "word": "濃い",
+        "reading": "こい",
+        "meaning": "thick, dark, strong (flavor/color)"
+      },
+      {
+        "word": "薄い",
+        "reading": "うすい",
+        "meaning": "thin, weak, light (flavor/color)"
+      },
+      {
+        "word": "厚い",
+        "reading": "あつい",
+        "meaning": "thick (object)"
+      },
+      {
+        "word": "浅い",
+        "reading": "あさい",
+        "meaning": "shallow"
+      },
+      {
+        "word": "深い",
+        "reading": "ふかい",
+        "meaning": "deep"
+      },
+      {
+        "word": "細い",
+        "reading": "ほそい",
+        "meaning": "thin, slim"
+      },
+      {
+        "word": "太い",
+        "reading": "ふとい",
+        "meaning": "thick, fat"
+      },
+      {
+        "word": "弱い",
+        "reading": "よわい",
+        "meaning": "weak"
+      },
+      {
+        "word": "丈夫な",
+        "reading": "じょうぶな",
+        "meaning": "sturdy, healthy, solid"
+      },
+      {
+        "word": "硬い",
+        "reading": "かたい",
+        "meaning": "hard"
+      },
+      {
+        "word": "柔らかい",
+        "reading": "やわらかい",
+        "meaning": "soft"
+      },
+      {
+        "word": "厳しい",
+        "reading": "きびしい",
+        "meaning": "strict, harsh"
+      },
+      {
+        "word": "優しい",
+        "reading": "やさしい",
+        "meaning": "gentle, kind"
+      },
+      {
+        "word": "うるさい",
+        "reading": "うるさい",
+        "meaning": "noisy, loud"
+      },
+      {
+        "word": "にぎやかな",
+        "reading": "にぎやかな",
+        "meaning": "lively, busy"
+      },
+      {
+        "word": "静かな",
+        "reading": "しずかな",
+        "meaning": "quiet"
+      },
+      {
+        "word": "まずい",
+        "reading": "まずい",
+        "meaning": "bad-tasting, awful"
+      },
+      {
+        "word": "おいしい",
+        "reading": "おいしい",
+        "meaning": "delicious"
+      },
+      {
+        "word": "涼しい",
+        "reading": "すずしい",
+        "meaning": "cool (temperature)"
+      },
+      {
+        "word": "珍しい",
+        "reading": "めずらしい",
+        "meaning": "rare, unusual"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "Verb (同音異義) — Same sound, different kanji and meaning",
+        "meaning": "Several Japanese verbs share the same pronunciation but are written with different kanji and carry different meanings. Context and the particle used determine which is correct.",
+        "example": "かぜを【引く】(catch a cold) vs ドアを【引く】(pull a door) vs ギターを【弾く】(play guitar) — all read ひく but written differently."
+      },
+      {
+        "pattern": "〜が 空く / 〜が 込む",
+        "meaning": "Something becomes empty/uncrowded (空く) vs something is crowded (込む). The subject takes が.",
+        "example": "お腹が空きました。(I got hungry.) / 電車が込んでいます。(The train is crowded.)"
+      },
+      {
+        "pattern": "Verb て-form + おく",
+        "meaning": "To do something in advance, to leave something in a certain state",
+        "example": "出かける前に、窓を閉めておきました。(Before going out, I closed the window ahead of time.)"
+      },
+      {
+        "pattern": "〜てから / 〜あとで",
+        "meaning": "After doing ~ (sequential action)",
+        "example": "歯を磨いてから、寝ます。(After brushing my teeth, I go to sleep.) / ご飯を食べたあとで、薬を飲んでください。(Please take medicine after eating.)"
+      },
+      {
+        "pattern": "Verb (〜に行く / 〜に来る) directional expressions",
+        "meaning": "連れて行く (take a person), 持って行く (take a thing), 迎えに行く (go pick up), 送りに行く (go see off)",
+        "example": "駅まで友達を迎えに行きます。(I will go pick up my friend at the station.) / 荷物を持って来てください。(Please bring the luggage.)"
+      },
+      {
+        "pattern": "はじめは / はじめて / はじめに の違い",
+        "meaning": "はじめは = at first (contrasts with later); はじめて = for the first time ever; はじめに = firstly (ordering steps)",
+        "example": "はじめは難しかったですが、だんだん慣れました。(At first it was hard, but I gradually got used to it.) / きのう、はじめてさしみを食べました。(Yesterday I ate sashimi for the first time.)"
+      },
+      {
+        "pattern": "おもう vs かんがえる vs おぼえる",
+        "meaning": "思う = feel/think instinctively; 考える = think/consider deliberately; 覚える = memorize/learn",
+        "example": "いいと思います。(I think it's good — gut feeling.) / よく考えましょう。(Let's think it over carefully.) / 新しい単語を覚えます。(I will memorize new vocabulary.)"
+      },
+      {
+        "pattern": "Adjective antonym pairs (ペア)",
+        "meaning": "Week 4 emphasizes opposite adjective pairs for descriptive precision.",
+        "example": "濃い⟺薄い (strong⟺weak/light)、深い⟺浅い (deep⟺shallow)、硬い⟺柔らかい (hard⟺soft)、厳しい⟺優しい (strict⟺gentle)、にぎやかな⟺静かな (lively⟺quiet)"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "「かぜを（　）」— Which verb correctly fills the blank to mean 'to catch a cold'?",
+        "options": [
+          "吹く",
+          "掃く",
+          "引く",
+          "拭く"
+        ],
+        "answer": "引く"
+      },
+      {
+        "question": "Your friend says 「雨が降っているから、長靴を（　）行きましょう。」Which verb belongs in the blank?",
+        "options": [
+          "ひいて",
+          "ふいて",
+          "すいて",
+          "はいて"
+        ],
+        "answer": "はいて"
+      },
+      {
+        "question": "Which sentence uses 「初めて」correctly?",
+        "options": [
+          "初めて、授業料を払ってください。",
+          "きのう初めてすしを食べました。",
+          "初めて彼女は日本語が話せませんでした。",
+          "初めてお金を入れてください。"
+        ],
+        "answer": "きのう初めてすしを食べました。"
+      },
+      {
+        "question": "「おどろく」is described in the textbook as a slightly stiff expression. Which word has a nearly identical meaning in casual speech?",
+        "options": [
+          "がっかりする",
+          "びっくりする",
+          "安心する",
+          "心配する"
+        ],
+        "answer": "びっくりする"
+      },
+      {
+        "question": "「友達が国に帰るので（　）です。」Which feeling word best fills the blank?",
+        "options": [
+          "うれしい",
+          "はずかしい",
+          "さびしい",
+          "つまらない"
+        ],
+        "answer": "さびしい"
+      },
+      {
+        "question": "Which verb means 'to tidy up / to put things away'?",
+        "options": [
+          "捨てる",
+          "片付ける",
+          "拾う",
+          "並べる"
+        ],
+        "answer": "片付ける"
+      },
+      {
+        "question": "「いつも12時ごろにお腹が（　）。」Which word correctly fills the blank?",
+        "options": [
+          "込みます",
+          "空きます",
+          "着きます",
+          "引きます"
+        ],
+        "answer": "空きます"
+      },
+      {
+        "question": "What is the difference between 「連れて行く」and 「持って行く」?",
+        "options": [
+          "Both mean to bring a person somewhere.",
+          "連れて行く is for people; 持って行く is for things.",
+          "連れて行く is for things; 持って行く is for people.",
+          "There is no difference."
+        ],
+        "answer": "連れて行く is for people; 持って行く is for things."
+      },
+      {
+        "question": "「あの先生はとても（　）ですが、役に立ちます。」Which adjective fits — 'strict'?",
+        "options": [
+          "やさしい",
+          "うるさい",
+          "きびしい",
+          "にぎやかな"
+        ],
+        "answer": "きびしい"
+      },
+      {
+        "question": "「ニュースを見て______しました。」Which word means the person was surprised?",
+        "options": [
+          "がっかり",
+          "びっくり",
+          "安心",
+          "残念"
+        ],
+        "answer": "びっくり"
+      },
+      {
+        "question": "Choose the correct antonym of 「深い」.",
+        "options": [
+          "薄い",
+          "浅い",
+          "細い",
+          "軽い"
+        ],
+        "answer": "浅い"
+      },
+      {
+        "question": "「仕方がない」most closely means:",
+        "options": [
+          "I don't know how to do it.",
+          "It can't be helped; there's no choice.",
+          "It's not my way of doing things.",
+          "It's very difficult."
+        ],
+        "answer": "It can't be helped; there's no choice."
+      },
+      {
+        "question": "「出かける支度をする」means:",
+        "options": [
+          "to clean the house before going out",
+          "to prepare to go out",
+          "to decide not to go out",
+          "to call someone before going out"
+        ],
+        "answer": "to prepare to go out"
+      },
+      {
+        "question": "「木のはが たくさん おちていますから、______。」Which option best completes this sentence with a logical action?",
+        "options": [
+          "気をつけます",
+          "そうじします",
+          "いっぱいです",
+          "くつについてきます"
+        ],
+        "answer": "そうじします"
+      },
+      {
+        "question": "「この川は______ですから、泳ぎましょう。」Which adjective about water depth makes this sentence logical?",
+        "options": [
+          "浅い",
+          "深い",
+          "薄い",
+          "細い"
+        ],
+        "answer": "浅い"
+      },
+      {
+        "question": "「考える」is best used when:",
+        "options": [
+          "you have a sudden gut feeling about something",
+          "you memorize vocabulary before a test",
+          "you think something over carefully and deliberately",
+          "you recall a forgotten memory"
+        ],
+        "answer": "you think something over carefully and deliberately"
+      },
+      {
+        "question": "Which sentence correctly uses 「慣れる」?",
+        "options": [
+          "日本の食べ物に慣れてきました。",
+          "日本の食べ物を慣れてきました。",
+          "日本の食べ物が慣れてきました。",
+          "日本の食べ物で慣れてきました。"
+        ],
+        "answer": "日本の食べ物に慣れてきました。"
+      },
+      {
+        "question": "「朝ごはんを食べたら、シャワーを（　）。」Which verb fills the blank?",
+        "options": [
+          "かけます",
+          "あびます",
+          "とります",
+          "ふきます"
+        ],
+        "answer": "あびます"
+      },
+      {
+        "question": "Which word describes a person who has a lot of money?",
+        "options": [
+          "気持ち",
+          "気分",
+          "お金持ち",
+          "気持ち悪い"
+        ],
+        "answer": "お金持ち"
+      },
+      {
+        "question": "「まずい」is the opposite of:",
+        "options": [
+          "にがい",
+          "おいしい",
+          "うすい",
+          "やわらかい"
+        ],
+        "answer": "おいしい"
+      }
+    ],
+    "kanji": [
+      {
+        "character": "引",
+        "onyomi": [],
+        "kunyomi": [
+          "ひ(-く)"
+        ],
+        "meaning": "pull, draw",
+        "examples": [
+          {
+            "word": "引く",
+            "reading": "ひく",
+            "meaning": "to pull"
+          },
+          {
+            "word": "引き出し",
+            "reading": "ひきだし",
+            "meaning": "drawer"
+          },
+          {
+            "word": "辞書を引く",
+            "reading": "じしょをひく",
+            "meaning": "to use a dictionary"
+          }
+        ]
+      },
+      {
+        "character": "吹",
+        "onyomi": [],
+        "kunyomi": [
+          "ふ(-く)"
+        ],
+        "meaning": "blow",
+        "examples": [
+          {
+            "word": "吹く",
+            "reading": "ふく",
+            "meaning": "wind blows"
+          }
+        ]
+      },
+      {
+        "character": "掃",
+        "onyomi": [],
+        "kunyomi": [
+          "は(-く)"
+        ],
+        "meaning": "sweep",
+        "examples": [
+          {
+            "word": "掃く",
+            "reading": "はく",
+            "meaning": "to sweep"
+          }
+        ]
+      },
+      {
+        "character": "弾",
+        "onyomi": [],
+        "kunyomi": [
+          "ひ(-く)"
+        ],
+        "meaning": "play (instrument), bounce",
+        "examples": [
+          {
+            "word": "弾く",
+            "reading": "ひく",
+            "meaning": "to play (guitar/piano)"
+          }
+        ]
+      },
+      {
+        "character": "空",
+        "onyomi": [
+          "クウ"
+        ],
+        "kunyomi": [
+          "す(-く)",
+          "そら"
+        ],
+        "meaning": "sky, empty, vacant",
+        "examples": [
+          {
+            "word": "空く",
+            "reading": "すく",
+            "meaning": "to become empty/hungry"
+          },
+          {
+            "word": "空",
+            "reading": "そら",
+            "meaning": "sky"
+          }
+        ]
+      },
+      {
+        "character": "悲",
+        "onyomi": [],
+        "kunyomi": [
+          "かな(-しい)"
+        ],
+        "meaning": "sad, grief",
+        "examples": [
+          {
+            "word": "悲しい",
+            "reading": "かなしい",
+            "meaning": "sad"
+          }
+        ]
+      },
+      {
+        "character": "寂",
+        "onyomi": [],
+        "kunyomi": [
+          "さび(-しい)"
+        ],
+        "meaning": "lonely, desolate",
+        "examples": [
+          {
+            "word": "寂しい",
+            "reading": "さびしい",
+            "meaning": "lonely"
+          }
+        ]
+      },
+      {
+        "character": "恥",
+        "onyomi": [],
+        "kunyomi": [
+          "は(-ずかしい)"
+        ],
+        "meaning": "shame, embarrassment",
+        "examples": [
+          {
+            "word": "恥ずかしい",
+            "reading": "はずかしい",
+            "meaning": "embarrassed, ashamed"
+          }
+        ]
+      },
+      {
+        "character": "残",
+        "onyomi": [],
+        "kunyomi": [
+          "ざん(-ねん)"
+        ],
+        "meaning": "remain, regret",
+        "examples": [
+          {
+            "word": "残念な",
+            "reading": "ざんねんな",
+            "meaning": "disappointing, regrettable"
+          }
+        ]
+      },
+      {
+        "character": "嫌",
+        "onyomi": [],
+        "kunyomi": [
+          "いや"
+        ],
+        "meaning": "dislike, unpleasant",
+        "examples": [
+          {
+            "word": "嫌な",
+            "reading": "いやな",
+            "meaning": "displeasing, unpleasant"
+          }
+        ]
+      },
+      {
+        "character": "驚",
+        "onyomi": [],
+        "kunyomi": [
+          "おどろ(-く)"
+        ],
+        "meaning": "be surprised, astonished",
+        "examples": [
+          {
+            "word": "驚く",
+            "reading": "おどろく",
+            "meaning": "to be surprised (formal)"
+          }
+        ]
+      },
+      {
+        "character": "怪",
+        "onyomi": [],
+        "kunyomi": [
+          "け(-が)"
+        ],
+        "meaning": "injury, suspicious",
+        "examples": [
+          {
+            "word": "怪我をする",
+            "reading": "けがをする",
+            "meaning": "to get injured"
+          }
+        ]
+      },
+      {
+        "character": "無",
+        "onyomi": [
+          "ム"
+        ],
+        "kunyomi": [],
+        "meaning": "nothing, un-, impossible",
+        "examples": [
+          {
+            "word": "無理な",
+            "reading": "むりな",
+            "meaning": "impossible"
+          },
+          {
+            "word": "無理をする",
+            "reading": "むりをする",
+            "meaning": "to overdo it"
+          }
+        ]
+      },
+      {
+        "character": "替",
+        "onyomi": [],
+        "kunyomi": [
+          "か(-える)"
+        ],
+        "meaning": "replace, change",
+        "examples": [
+          {
+            "word": "着替える",
+            "reading": "きがえる",
+            "meaning": "to change clothes"
+          },
+          {
+            "word": "入れ替える",
+            "reading": "いれかえる",
+            "meaning": "to replace"
+          }
+        ]
+      },
+      {
+        "character": "迎",
+        "onyomi": [],
+        "kunyomi": [
+          "むか(-える)"
+        ],
+        "meaning": "welcome, go to meet",
+        "examples": [
+          {
+            "word": "迎えに行く",
+            "reading": "むかえにいく",
+            "meaning": "to go pick someone up"
+          }
+        ]
+      },
+      {
+        "character": "弁",
+        "onyomi": [
+          "ベン"
+        ],
+        "kunyomi": [],
+        "meaning": "speech, petal, lunch box",
+        "examples": [
+          {
+            "word": "お弁当",
+            "reading": "おべんとう",
+            "meaning": "lunch box"
+          }
+        ]
+      },
+      {
+        "character": "覚",
+        "onyomi": [],
+        "kunyomi": [
+          "おぼ(-える)",
+          "さ(-める)"
+        ],
+        "meaning": "memorize, wake up",
+        "examples": [
+          {
+            "word": "覚える",
+            "reading": "おぼえる",
+            "meaning": "to memorize"
+          },
+          {
+            "word": "目が覚める",
+            "reading": "めがさめる",
+            "meaning": "to wake up"
+          }
+        ]
+      },
+      {
+        "character": "磨",
+        "onyomi": [],
+        "kunyomi": [
+          "みが(-く)"
+        ],
+        "meaning": "polish, brush",
+        "examples": [
+          {
+            "word": "磨く",
+            "reading": "みがく",
+            "meaning": "to polish, to brush (teeth)"
+          }
+        ]
+      },
+      {
+        "character": "捨",
+        "onyomi": [],
+        "kunyomi": [
+          "す(-てる)"
+        ],
+        "meaning": "throw away, abandon",
+        "examples": [
+          {
+            "word": "捨てる",
+            "reading": "すてる",
+            "meaning": "to throw away"
+          }
+        ]
+      },
+      {
+        "character": "拾",
+        "onyomi": [],
+        "kunyomi": [
+          "ひろ(-う)"
+        ],
+        "meaning": "pick up",
+        "examples": [
+          {
+            "word": "拾う",
+            "reading": "ひろう",
+            "meaning": "to pick up"
+          }
+        ]
+      },
+      {
+        "character": "曲",
+        "onyomi": [],
+        "kunyomi": [
+          "ま(-がる)"
+        ],
+        "meaning": "bend, curve, piece of music",
+        "examples": [
+          {
+            "word": "曲がる",
+            "reading": "まがる",
+            "meaning": "to turn, to curve"
+          }
+        ]
+      },
+      {
+        "character": "触",
+        "onyomi": [],
+        "kunyomi": [
+          "さわ(-る)"
+        ],
+        "meaning": "touch",
+        "examples": [
+          {
+            "word": "触る",
+            "reading": "さわる",
+            "meaning": "to touch"
+          }
+        ]
+      },
+      {
+        "character": "並",
+        "onyomi": [],
+        "kunyomi": [
+          "なら(-ぶ)",
+          "なら(-べる)"
+        ],
+        "meaning": "line up, arrange",
+        "examples": [
+          {
+            "word": "並ぶ",
+            "reading": "ならぶ",
+            "meaning": "to line up"
+          },
+          {
+            "word": "並べる",
+            "reading": "ならべる",
+            "meaning": "to arrange"
+          }
+        ]
+      },
+      {
+        "character": "慣",
+        "onyomi": [],
+        "kunyomi": [
+          "な(-れる)"
+        ],
+        "meaning": "get used to, accustomed",
+        "examples": [
+          {
+            "word": "慣れる",
+            "reading": "なれる",
+            "meaning": "to get used to"
+          }
+        ]
+      },
+      {
+        "character": "濃",
+        "onyomi": [],
+        "kunyomi": [
+          "こ(-い)"
+        ],
+        "meaning": "thick, dark, strong",
+        "examples": [
+          {
+            "word": "濃い",
+            "reading": "こい",
+            "meaning": "thick, dark (coffee/color)"
+          }
+        ]
+      },
+      {
+        "character": "薄",
+        "onyomi": [],
+        "kunyomi": [
+          "うす(-い)"
+        ],
+        "meaning": "thin, weak, light",
+        "examples": [
+          {
+            "word": "薄い",
+            "reading": "うすい",
+            "meaning": "thin, weak, light"
+          }
+        ]
+      },
+      {
+        "character": "厚",
+        "onyomi": [],
+        "kunyomi": [
+          "あつ(-い)"
+        ],
+        "meaning": "thick (object)",
+        "examples": [
+          {
+            "word": "厚い",
+            "reading": "あつい",
+            "meaning": "thick (paper, book)"
+          }
+        ]
+      },
+      {
+        "character": "浅",
+        "onyomi": [],
+        "kunyomi": [
+          "あさ(-い)"
+        ],
+        "meaning": "shallow",
+        "examples": [
+          {
+            "word": "浅い",
+            "reading": "あさい",
+            "meaning": "shallow"
+          }
+        ]
+      },
+      {
+        "character": "深",
+        "onyomi": [],
+        "kunyomi": [
+          "ふか(-い)"
+        ],
+        "meaning": "deep",
+        "examples": [
+          {
+            "word": "深い",
+            "reading": "ふかい",
+            "meaning": "deep"
+          }
+        ]
+      },
+      {
+        "character": "細",
+        "onyomi": [],
+        "kunyomi": [
+          "ほそ(-い)"
+        ],
+        "meaning": "thin, slender",
+        "examples": [
+          {
+            "word": "細い",
+            "reading": "ほそい",
+            "meaning": "thin, slim"
+          }
+        ]
+      },
+      {
+        "character": "丈",
+        "onyomi": [],
+        "kunyomi": [
+          "じょうぶ"
+        ],
+        "meaning": "height, sturdy",
+        "examples": [
+          {
+            "word": "丈夫な",
+            "reading": "じょうぶな",
+            "meaning": "sturdy, solid, healthy"
+          }
+        ]
+      },
+      {
+        "character": "硬",
+        "onyomi": [],
+        "kunyomi": [
+          "かた(-い)"
+        ],
+        "meaning": "hard, stiff",
+        "examples": [
+          {
+            "word": "硬い",
+            "reading": "かたい",
+            "meaning": "hard"
+          }
+        ]
+      },
+      {
+        "character": "柔",
+        "onyomi": [],
+        "kunyomi": [
+          "やわ(-らかい)"
+        ],
+        "meaning": "soft, gentle",
+        "examples": [
+          {
+            "word": "柔らかい",
+            "reading": "やわらかい",
+            "meaning": "soft"
+          }
+        ]
+      },
+      {
+        "character": "厳",
+        "onyomi": [],
+        "kunyomi": [
+          "きび(-しい)"
+        ],
+        "meaning": "strict, severe",
+        "examples": [
+          {
+            "word": "厳しい",
+            "reading": "きびしい",
+            "meaning": "strict, harsh"
+          }
+        ]
+      },
+      {
+        "character": "優",
+        "onyomi": [],
+        "kunyomi": [
+          "やさ(-しい)"
+        ],
+        "meaning": "gentle, kind, superior",
+        "examples": [
+          {
+            "word": "優しい",
+            "reading": "やさしい",
+            "meaning": "gentle, kind"
+          }
+        ]
+      },
+      {
+        "character": "騒",
+        "onyomi": [],
+        "kunyomi": [
+          "うるさ(-い)"
+        ],
+        "meaning": "noisy, fussy",
+        "examples": [
+          {
+            "word": "うるさい",
+            "reading": "うるさい",
+            "meaning": "noisy, loud"
+          }
+        ]
+      },
+      {
+        "character": "静",
+        "onyomi": [],
+        "kunyomi": [
+          "しず(-かな)"
+        ],
+        "meaning": "quiet, calm",
+        "examples": [
+          {
+            "word": "静かな",
+            "reading": "しずかな",
+            "meaning": "quiet"
+          }
+        ]
+      },
+      {
+        "character": "珍",
+        "onyomi": [],
+        "kunyomi": [
+          "めずら(-しい)"
+        ],
+        "meaning": "rare, unusual",
+        "examples": [
+          {
+            "word": "珍しい",
+            "reading": "めずらしい",
+            "meaning": "rare, unusual"
+          }
+        ]
+      }
+    ]
+  }

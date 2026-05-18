@@ -1,0 +1,1343 @@
+{
+    "title": "Week 6: Let's Study Vocabulary (3)",
+    "jlpt": "N4",
+    "chapter": 6,
+    "week": 6,
+    "vocabulary": [
+      {
+        "word": "予定",
+        "reading": "よてい",
+        "meaning": "schedule, plan"
+      },
+      {
+        "word": "都合",
+        "reading": "つごう",
+        "meaning": "convenience, circumstances"
+      },
+      {
+        "word": "場合",
+        "reading": "ばあい",
+        "meaning": "case, situation, circumstance"
+      },
+      {
+        "word": "予約する",
+        "reading": "よやくする",
+        "meaning": "to make a reservation"
+      },
+      {
+        "word": "知らせる",
+        "reading": "しらせる",
+        "meaning": "to tell, to inform"
+      },
+      {
+        "word": "楽しむ",
+        "reading": "たのしむ",
+        "meaning": "to enjoy"
+      },
+      {
+        "word": "楽しみにする",
+        "reading": "たのしみにする",
+        "meaning": "to look forward to"
+      },
+      {
+        "word": "過ぎる",
+        "reading": "すぎる",
+        "meaning": "to pass, to go by; too much"
+      },
+      {
+        "word": "止まる",
+        "reading": "とまる",
+        "meaning": "to stop (vehicle/machine — intransitive)"
+      },
+      {
+        "word": "泊まる",
+        "reading": "とまる",
+        "meaning": "to stay overnight"
+      },
+      {
+        "word": "待ち合わせる",
+        "reading": "まちあわせる",
+        "meaning": "to arrange to meet, to meet up"
+      },
+      {
+        "word": "におい",
+        "reading": "におい",
+        "meaning": "smell, odor, scent"
+      },
+      {
+        "word": "あじ",
+        "reading": "あじ",
+        "meaning": "taste, flavor"
+      },
+      {
+        "word": "おと",
+        "reading": "おと",
+        "meaning": "sound, noise"
+      },
+      {
+        "word": "折れる",
+        "reading": "おれる",
+        "meaning": "to break, to snap (intransitive)"
+      },
+      {
+        "word": "割れる",
+        "reading": "われる",
+        "meaning": "to crack, to break (intransitive)"
+      },
+      {
+        "word": "逃げる",
+        "reading": "にげる",
+        "meaning": "to escape, to run away"
+      },
+      {
+        "word": "捕まる",
+        "reading": "つかまる",
+        "meaning": "to be caught, to be arrested"
+      },
+      {
+        "word": "騒ぐ",
+        "reading": "さわぐ",
+        "meaning": "to make a fuss, to be noisy"
+      },
+      {
+        "word": "困る",
+        "reading": "こまる",
+        "meaning": "to be troubled, to be in difficulty"
+      },
+      {
+        "word": "濡れる",
+        "reading": "ぬれる",
+        "meaning": "to get wet"
+      },
+      {
+        "word": "盗む",
+        "reading": "ぬすむ",
+        "meaning": "to steal"
+      },
+      {
+        "word": "いじめる",
+        "reading": "いじめる",
+        "meaning": "to bully"
+      },
+      {
+        "word": "鳴らす",
+        "reading": "ならす",
+        "meaning": "to ring, to make a sound"
+      },
+      {
+        "word": "信じる",
+        "reading": "しんじる",
+        "meaning": "to believe, to trust"
+      },
+      {
+        "word": "計画",
+        "reading": "けいかく",
+        "meaning": "plan"
+      },
+      {
+        "word": "準備",
+        "reading": "じゅんび",
+        "meaning": "preparation"
+      },
+      {
+        "word": "形",
+        "reading": "かたち",
+        "meaning": "shape, form"
+      },
+      {
+        "word": "昔",
+        "reading": "むかし",
+        "meaning": "old days, long ago"
+      },
+      {
+        "word": "並べる",
+        "reading": "ならべる",
+        "meaning": "to arrange, to put side by side"
+      },
+      {
+        "word": "比べる",
+        "reading": "くらべる",
+        "meaning": "to compare"
+      },
+      {
+        "word": "育てる",
+        "reading": "そだてる",
+        "meaning": "to raise, to grow (transitive)"
+      },
+      {
+        "word": "育つ",
+        "reading": "そだつ",
+        "meaning": "to grow up (intransitive)"
+      },
+      {
+        "word": "植える",
+        "reading": "うえる",
+        "meaning": "to plant"
+      },
+      {
+        "word": "飾る",
+        "reading": "かざる",
+        "meaning": "to decorate, to display"
+      },
+      {
+        "word": "移す",
+        "reading": "うつす",
+        "meaning": "to move, to transfer (transitive)"
+      },
+      {
+        "word": "丸い",
+        "reading": "まるい",
+        "meaning": "round, circular"
+      },
+      {
+        "word": "四角い",
+        "reading": "しかくい",
+        "meaning": "square, rectangular"
+      },
+      {
+        "word": "三角い",
+        "reading": "さんかくい",
+        "meaning": "triangular"
+      },
+      {
+        "word": "案内する",
+        "reading": "あんないする",
+        "meaning": "to guide, to show around"
+      },
+      {
+        "word": "お祝い",
+        "reading": "おいわい",
+        "meaning": "celebration, congratulations"
+      },
+      {
+        "word": "お見舞い",
+        "reading": "おみまい",
+        "meaning": "visiting someone who is sick"
+      },
+      {
+        "word": "生まれる",
+        "reading": "うまれる",
+        "meaning": "to be born"
+      },
+      {
+        "word": "亡くなる",
+        "reading": "なくなる",
+        "meaning": "to pass away, to die"
+      },
+      {
+        "word": "勤める",
+        "reading": "つとめる",
+        "meaning": "to work for, to be employed at"
+      },
+      {
+        "word": "引っ越す",
+        "reading": "ひっこす",
+        "meaning": "to move (to a new home)"
+      },
+      {
+        "word": "届く",
+        "reading": "とどく",
+        "meaning": "to arrive, to be delivered, to reach"
+      },
+      {
+        "word": "二十歳",
+        "reading": "はたち",
+        "meaning": "twenty years old"
+      },
+      {
+        "word": "お礼",
+        "reading": "おれい",
+        "meaning": "thanks, gratitude"
+      },
+      {
+        "word": "関係",
+        "reading": "かんけい",
+        "meaning": "relationship, connection"
+      },
+      {
+        "word": "丁寧な",
+        "reading": "ていねいな",
+        "meaning": "polite, courteous"
+      },
+      {
+        "word": "尊敬する",
+        "reading": "そんけいする",
+        "meaning": "to admire, to respect"
+      },
+      {
+        "word": "遠慮する",
+        "reading": "えんりょする",
+        "meaning": "to hold back, to hesitate, to decline"
+      },
+      {
+        "word": "おいでになる",
+        "reading": "おいでになる",
+        "meaning": "honorific for 行く／いる／来る"
+      },
+      {
+        "word": "ご覧になる",
+        "reading": "ごらんになる",
+        "meaning": "honorific for 見る"
+      },
+      {
+        "word": "おっしゃる",
+        "reading": "おっしゃる",
+        "meaning": "honorific for 言う"
+      },
+      {
+        "word": "召し上がる",
+        "reading": "めしあがる",
+        "meaning": "honorific for 食べる"
+      },
+      {
+        "word": "お待ちする",
+        "reading": "おまちする",
+        "meaning": "humble for 待つ"
+      },
+      {
+        "word": "参る",
+        "reading": "まいる",
+        "meaning": "humble for 行く／来る"
+      },
+      {
+        "word": "申す",
+        "reading": "もうす",
+        "meaning": "humble for 言う"
+      },
+      {
+        "word": "伺う",
+        "reading": "うかがう",
+        "meaning": "humble for 聞く／訪問する"
+      },
+      {
+        "word": "拝見する",
+        "reading": "はいけんする",
+        "meaning": "humble for 見る"
+      },
+      {
+        "word": "いただく",
+        "reading": "いただく",
+        "meaning": "humble for もらう／食べる"
+      },
+      {
+        "word": "飛ぶ",
+        "reading": "とぶ",
+        "meaning": "to fly"
+      },
+      {
+        "word": "跳ぶ",
+        "reading": "とぶ",
+        "meaning": "to jump"
+      },
+      {
+        "word": "積もる",
+        "reading": "つもる",
+        "meaning": "to pile up, to accumulate (snow)"
+      },
+      {
+        "word": "建てる",
+        "reading": "たてる",
+        "meaning": "to build, to erect"
+      },
+      {
+        "word": "沸く",
+        "reading": "わく",
+        "meaning": "to boil, to come to a boil (intransitive)"
+      },
+      {
+        "word": "沸かす",
+        "reading": "わかす",
+        "meaning": "to boil water (transitive)"
+      },
+      {
+        "word": "払う",
+        "reading": "はらう",
+        "meaning": "to pay"
+      },
+      {
+        "word": "メモする",
+        "reading": "メモする",
+        "meaning": "to take a note, to jot down"
+      },
+      {
+        "word": "値段",
+        "reading": "ねだん",
+        "meaning": "price"
+      },
+      {
+        "word": "クリーニング屋",
+        "reading": "クリーニングや",
+        "meaning": "dry cleaner's"
+      },
+      {
+        "word": "酒屋",
+        "reading": "さかや",
+        "meaning": "liquor store"
+      },
+      {
+        "word": "グラム",
+        "reading": "グラム",
+        "meaning": "gram (g)"
+      },
+      {
+        "word": "センチ",
+        "reading": "センチ",
+        "meaning": "centimeter (cm)"
+      },
+      {
+        "word": "メートル",
+        "reading": "メートル",
+        "meaning": "meter (m)"
+      },
+      {
+        "word": "キロ",
+        "reading": "キロ",
+        "meaning": "kilogram (kg) / kilometer (km)"
+      },
+      {
+        "word": "重さ",
+        "reading": "おもさ",
+        "meaning": "weight (noun form)"
+      },
+      {
+        "word": "大きさ",
+        "reading": "おおきさ",
+        "meaning": "size (noun form)"
+      },
+      {
+        "word": "高さ",
+        "reading": "たかさ",
+        "meaning": "height (noun form)"
+      },
+      {
+        "word": "広さ",
+        "reading": "ひろさ",
+        "meaning": "area, width (noun form)"
+      },
+      {
+        "word": "長さ",
+        "reading": "ながさ",
+        "meaning": "length (noun form)"
+      },
+      {
+        "word": "太さ",
+        "reading": "ふとさ",
+        "meaning": "thickness/girth (noun form)"
+      },
+      {
+        "word": "ごめんください",
+        "reading": "ごめんください",
+        "meaning": "Hello? Is anybody home? Excuse me."
+      },
+      {
+        "word": "けっこうです",
+        "reading": "けっこうです",
+        "meaning": "No thank you; I'm fine."
+      },
+      {
+        "word": "お気の毒に",
+        "reading": "おきのどくに",
+        "meaning": "I'm sorry to hear that."
+      },
+      {
+        "word": "よろこんで",
+        "reading": "よろこんで",
+        "meaning": "Gladly! With pleasure."
+      },
+      {
+        "word": "ひさしぶり",
+        "reading": "ひさしぶり",
+        "meaning": "Long time no see."
+      },
+      {
+        "word": "おかげさまで",
+        "reading": "おかげさまで",
+        "meaning": "Thanks to you; I'm doing well."
+      },
+      {
+        "word": "お大事に",
+        "reading": "おだいじに",
+        "meaning": "Please take care of yourself."
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "よてい／つごう／ばあい の違い",
+        "meaning": "よてい (予定) = a fixed schedule or plan; つごう (都合) = personal convenience or circumstances (good/bad); ばあい (場合) = a hypothetical or specific case / situation",
+        "example": "週末は何か予定がありますか。(Do you have any plans this weekend?) / あしたはちょっと都合が悪いです。(Tomorrow is a bit inconvenient for me.) / 雨の場合、試合はありません。(In the case of rain, the game will be cancelled.)"
+      },
+      {
+        "pattern": "とまる — two different kanji, two different meanings",
+        "meaning": "止まる = to stop (a vehicle, a machine); 泊まる = to stay overnight. Same sound, completely different meaning — context and kanji distinguish them.",
+        "example": "バスが止まりました。(The bus stopped.) / ホテルに泊まります。(I will stay at a hotel.)"
+      },
+      {
+        "pattern": "Adjective い → Adjective さ (noun form)",
+        "meaning": "い-adjectives become nouns by replacing い with さ. Used when talking about a measurable quantity.",
+        "example": "重い → 重さ (weight) / 高い → 高さ (height) / 長い → 長さ (length) / 大きい → 大きさ (size)"
+      },
+      {
+        "pattern": "〜に比べると / 〜と比べて",
+        "meaning": "Compared to ~; in comparison with ~",
+        "example": "先週に比べると、今週はいそがしいです。(Compared to last week, this week is busier.)"
+      },
+      {
+        "pattern": "尊敬語 (Honorific language) — おいでになる／ご覧になる／おっしゃる／召し上がる",
+        "meaning": "Used to elevate the actions of the listener or a third party (superior). These replace the plain verb forms.",
+        "example": "先生はもうおいでになりましたか。(Has the teacher already arrived?) / どうぞ召し上がってください。(Please go ahead and eat.) / 社長、田中様がおいでになりました。(President, Mr. Tanaka has arrived.)"
+      },
+      {
+        "pattern": "謙譲語 (Humble language) — まいる／もうす／うかがう／はいけんする／いただく",
+        "meaning": "Used to lower the speaker's own actions, showing respect to the listener. These replace the plain verb forms.",
+        "example": "はじめまして、山田ともうします。(Nice to meet you, my name is Yamada.) / 先生からうかがいました。(I heard it from the teacher.) / しつれいします。きっぷをはいけんします。(Excuse me, I will look at the ticket.)"
+      },
+      {
+        "pattern": "〜場合は / 〜場合に",
+        "meaning": "In the case of ~; if ~ happens. Used for stating what to do in a specific situation.",
+        "example": "おくれる場合は、知らせてください。(If you are going to be late, please let me know.) / 電車が止まった場合は、バスを使ってください。(In the case that trains stop, please use the bus.)"
+      },
+      {
+        "pattern": "育てる (transitive) ⟺ 育つ (intransitive) / 沸かす (transitive) ⟺ 沸く (intransitive)",
+        "meaning": "Week 6 continues the intransitive/transitive pair theme. 育てる = someone raises/grows something (を); 育つ = something grows on its own (が). 沸かす = to boil water (を); 沸く = water comes to a boil (が).",
+        "example": "木を育てる。(We grow a tree.) / 木が育つ。(The tree grows.) / おゆを沸かす。(Boil the water.) / おゆが沸く。(The water boils.)"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "「週末は何か（　）がありますか。」Which word means a fixed plan or schedule?",
+        "options": [
+          "都合",
+          "場合",
+          "予定",
+          "関係"
+        ],
+        "answer": "予定"
+      },
+      {
+        "question": "「あした雨の（　）、しあいはありません。」Which word means 'in the case of'?",
+        "options": [
+          "予定",
+          "都合",
+          "場合",
+          "よやく"
+        ],
+        "answer": "場合"
+      },
+      {
+        "question": "「おくれる（　）は、知らせてください。」Which word best completes this sentence?",
+        "options": [
+          "ばあい",
+          "よてい",
+          "つごう",
+          "かんけい"
+        ],
+        "answer": "ばあい"
+      },
+      {
+        "question": "Which sentence correctly uses 「泊まる」?",
+        "options": [
+          "電車が泊まりました。",
+          "友達の家に泊まりました。",
+          "時計が泊まっています。",
+          "雨が泊まりました。"
+        ],
+        "answer": "友達の家に泊まりました。"
+      },
+      {
+        "question": "「重い」の名詞形は何ですか。(What is the noun form of 重い?)",
+        "options": [
+          "重く",
+          "重さ",
+          "重み",
+          "重い"
+        ],
+        "answer": "重さ"
+      },
+      {
+        "question": "「先生はもう（　）になりましたか。」Which honorific verb means 'has arrived / is here'?",
+        "options": [
+          "まいり",
+          "もうし",
+          "おいで",
+          "うかがい"
+        ],
+        "answer": "おいで"
+      },
+      {
+        "question": "「はじめまして、田中と（　）。」Which humble verb means 'my name is'?",
+        "options": [
+          "おっしゃいます",
+          "まいります",
+          "もうします",
+          "いただきます"
+        ],
+        "answer": "もうします"
+      },
+      {
+        "question": "「先生から（　）いました。」Which humble verb means 'I heard from the teacher'?",
+        "options": [
+          "おっしゃって",
+          "うかがって",
+          "ごらんになって",
+          "めしあがって"
+        ],
+        "answer": "うかがって"
+      },
+      {
+        "question": "「どうぞ（　）ください。」Which honorific verb invites someone to eat?",
+        "options": [
+          "いただいて",
+          "めしあがって",
+          "もうして",
+          "まいって"
+        ],
+        "answer": "めしあがって"
+      },
+      {
+        "question": "「みんなでカラオケに行って（　）ました。」Which verb means 'we enjoyed it'?",
+        "options": [
+          "たのしみに",
+          "たのしみ",
+          "たのし",
+          "たのしん"
+        ],
+        "answer": "たのしん"
+      },
+      {
+        "question": "「木を（　）。」Which transitive verb means someone is raising/growing a tree?",
+        "options": [
+          "育つ",
+          "育てる",
+          "植える",
+          "飾る"
+        ],
+        "answer": "育てる"
+      },
+      {
+        "question": "「おゆが（　）、この野菜を入れてください。」Which intransitive verb means 'once the water boils'?",
+        "options": [
+          "沸かしたら",
+          "沸いたら",
+          "沸けば",
+          "沸かせたら"
+        ],
+        "answer": "沸いたら"
+      },
+      {
+        "question": "「大切な おさらが（　）しまいました。」Which intransitive verb means the plate cracked/broke on its own?",
+        "options": [
+          "おれて",
+          "われて",
+          "こわして",
+          "なくして"
+        ],
+        "answer": "われて"
+      },
+      {
+        "question": "「かぜはどうですか。」「（　）、だいぶ よく なりました。」Which phrase expresses 'Thanks to you'?",
+        "options": [
+          "ひさしぶりに",
+          "よろこんで",
+          "おかげさまで",
+          "おきのどくに"
+        ],
+        "answer": "おかげさまで"
+      },
+      {
+        "question": "「先週に（　）と、今週はいそがしいです。」Which expression means 'compared to'?",
+        "options": [
+          "比べる",
+          "比べ",
+          "くらべると",
+          "くらべて"
+        ],
+        "answer": "くらべると"
+      },
+      {
+        "question": "「大学に（　）います。」Which verb means 'to be employed at' a university?",
+        "options": [
+          "うまれて",
+          "ひっこして",
+          "つとめて",
+          "とどいて"
+        ],
+        "answer": "つとめて"
+      },
+      {
+        "question": "「えんりょする」most closely means:",
+        "options": [
+          "to feel relieved",
+          "to hold back, to decline out of politeness",
+          "to admire someone",
+          "to celebrate"
+        ],
+        "answer": "to hold back, to decline out of politeness"
+      },
+      {
+        "question": "「しつれいします。きっぷを（　）。」Which humble verb means 'I will look at it'?",
+        "options": [
+          "ごらんになります",
+          "はいけんします",
+          "うかがいます",
+          "もうします"
+        ],
+        "answer": "はいけんします"
+      },
+      {
+        "question": "「あの人は車を（　）ました。」Which verb means 'stole'?",
+        "options": [
+          "こわし",
+          "おとし",
+          "ぬすみ",
+          "にげ"
+        ],
+        "answer": "ぬすみ"
+      },
+      {
+        "question": "「入院している友達の（　）に行く。」Which word means 'visiting a sick person'?",
+        "options": [
+          "おいわい",
+          "おれい",
+          "おみまい",
+          "あんない"
+        ],
+        "answer": "おみまい"
+      }
+    ],
+    "kanji": [
+      {
+        "character": "予",
+        "onyomi": [
+          "ヨ"
+        ],
+        "kunyomi": [],
+        "meaning": "beforehand, in advance",
+        "examples": [
+          {
+            "word": "予定",
+            "reading": "よてい",
+            "meaning": "schedule, plan"
+          },
+          {
+            "word": "予約する",
+            "reading": "よやくする",
+            "meaning": "to make a reservation"
+          }
+        ]
+      },
+      {
+        "character": "定",
+        "onyomi": [
+          "テイ"
+        ],
+        "kunyomi": [],
+        "meaning": "decide, fix, settle",
+        "examples": [
+          {
+            "word": "予定",
+            "reading": "よてい",
+            "meaning": "schedule"
+          }
+        ]
+      },
+      {
+        "character": "過",
+        "onyomi": [],
+        "kunyomi": [
+          "す(-ぎる)"
+        ],
+        "meaning": "pass, exceed, too much",
+        "examples": [
+          {
+            "word": "過ぎる",
+            "reading": "すぎる",
+            "meaning": "to pass; to exceed"
+          }
+        ]
+      },
+      {
+        "character": "泊",
+        "onyomi": [],
+        "kunyomi": [
+          "と(-まる)"
+        ],
+        "meaning": "stay overnight, lodge",
+        "examples": [
+          {
+            "word": "泊まる",
+            "reading": "とまる",
+            "meaning": "to stay overnight"
+          }
+        ]
+      },
+      {
+        "character": "折",
+        "onyomi": [],
+        "kunyomi": [
+          "お(-れる)"
+        ],
+        "meaning": "fold, break, snap",
+        "examples": [
+          {
+            "word": "折れる",
+            "reading": "おれる",
+            "meaning": "to snap, to break (intransitive)"
+          }
+        ]
+      },
+      {
+        "character": "割",
+        "onyomi": [],
+        "kunyomi": [
+          "わ(-れる)"
+        ],
+        "meaning": "split, crack, divide",
+        "examples": [
+          {
+            "word": "割れる",
+            "reading": "われる",
+            "meaning": "to crack, to break (intransitive)"
+          }
+        ]
+      },
+      {
+        "character": "逃",
+        "onyomi": [],
+        "kunyomi": [
+          "に(-げる)"
+        ],
+        "meaning": "escape, flee",
+        "examples": [
+          {
+            "word": "逃げる",
+            "reading": "にげる",
+            "meaning": "to escape, to run away"
+          }
+        ]
+      },
+      {
+        "character": "捕",
+        "onyomi": [],
+        "kunyomi": [
+          "つか(-まる)"
+        ],
+        "meaning": "catch, capture",
+        "examples": [
+          {
+            "word": "捕まる",
+            "reading": "つかまる",
+            "meaning": "to be caught"
+          }
+        ]
+      },
+      {
+        "character": "騒",
+        "onyomi": [],
+        "kunyomi": [
+          "さわ(-ぐ)"
+        ],
+        "meaning": "make noise, fuss",
+        "examples": [
+          {
+            "word": "騒ぐ",
+            "reading": "さわぐ",
+            "meaning": "to make a fuss, to be noisy"
+          }
+        ]
+      },
+      {
+        "character": "困",
+        "onyomi": [],
+        "kunyomi": [
+          "こま(-る)"
+        ],
+        "meaning": "be troubled, be in difficulty",
+        "examples": [
+          {
+            "word": "困る",
+            "reading": "こまる",
+            "meaning": "to be troubled"
+          }
+        ]
+      },
+      {
+        "character": "濡",
+        "onyomi": [],
+        "kunyomi": [
+          "ぬ(-れる)"
+        ],
+        "meaning": "get wet, be soaked",
+        "examples": [
+          {
+            "word": "濡れる",
+            "reading": "ぬれる",
+            "meaning": "to get wet"
+          }
+        ]
+      },
+      {
+        "character": "盗",
+        "onyomi": [],
+        "kunyomi": [
+          "ぬす(-む)"
+        ],
+        "meaning": "steal, rob",
+        "examples": [
+          {
+            "word": "盗む",
+            "reading": "ぬすむ",
+            "meaning": "to steal"
+          }
+        ]
+      },
+      {
+        "character": "鳴",
+        "onyomi": [],
+        "kunyomi": [
+          "な(-らす)"
+        ],
+        "meaning": "ring, sound, cry",
+        "examples": [
+          {
+            "word": "鳴らす",
+            "reading": "ならす",
+            "meaning": "to ring, to make sound (transitive)"
+          }
+        ]
+      },
+      {
+        "character": "形",
+        "onyomi": [
+          "ケイ"
+        ],
+        "kunyomi": [
+          "かたち"
+        ],
+        "meaning": "shape, form",
+        "examples": [
+          {
+            "word": "形",
+            "reading": "かたち",
+            "meaning": "shape, form"
+          }
+        ]
+      },
+      {
+        "character": "昔",
+        "onyomi": [],
+        "kunyomi": [
+          "むかし"
+        ],
+        "meaning": "long ago, old days",
+        "examples": [
+          {
+            "word": "昔",
+            "reading": "むかし",
+            "meaning": "old days, long ago"
+          }
+        ]
+      },
+      {
+        "character": "比",
+        "onyomi": [],
+        "kunyomi": [
+          "くら(-べる)"
+        ],
+        "meaning": "compare",
+        "examples": [
+          {
+            "word": "比べる",
+            "reading": "くらべる",
+            "meaning": "to compare"
+          }
+        ]
+      },
+      {
+        "character": "育",
+        "onyomi": [],
+        "kunyomi": [
+          "そだ(-てる)",
+          "そだ(-つ)"
+        ],
+        "meaning": "raise, grow up",
+        "examples": [
+          {
+            "word": "育てる",
+            "reading": "そだてる",
+            "meaning": "to raise (transitive)"
+          },
+          {
+            "word": "育つ",
+            "reading": "そだつ",
+            "meaning": "to grow up (intransitive)"
+          }
+        ]
+      },
+      {
+        "character": "植",
+        "onyomi": [],
+        "kunyomi": [
+          "う(-える)"
+        ],
+        "meaning": "plant",
+        "examples": [
+          {
+            "word": "植える",
+            "reading": "うえる",
+            "meaning": "to plant"
+          }
+        ]
+      },
+      {
+        "character": "飾",
+        "onyomi": [],
+        "kunyomi": [
+          "かざ(-る)"
+        ],
+        "meaning": "decorate, display",
+        "examples": [
+          {
+            "word": "飾る",
+            "reading": "かざる",
+            "meaning": "to decorate"
+          }
+        ]
+      },
+      {
+        "character": "移",
+        "onyomi": [],
+        "kunyomi": [
+          "うつ(-す)"
+        ],
+        "meaning": "move, transfer, shift",
+        "examples": [
+          {
+            "word": "移す",
+            "reading": "うつす",
+            "meaning": "to move, to transfer (transitive)"
+          }
+        ]
+      },
+      {
+        "character": "丸",
+        "onyomi": [],
+        "kunyomi": [
+          "まる(-い)"
+        ],
+        "meaning": "circle, round",
+        "examples": [
+          {
+            "word": "丸い",
+            "reading": "まるい",
+            "meaning": "round, circular"
+          }
+        ]
+      },
+      {
+        "character": "案",
+        "onyomi": [
+          "アン"
+        ],
+        "kunyomi": [],
+        "meaning": "idea, plan, guide",
+        "examples": [
+          {
+            "word": "案内する",
+            "reading": "あんないする",
+            "meaning": "to guide, to show around"
+          }
+        ]
+      },
+      {
+        "character": "祝",
+        "onyomi": [],
+        "kunyomi": [
+          "いわ(-い)"
+        ],
+        "meaning": "celebrate, congratulate",
+        "examples": [
+          {
+            "word": "お祝い",
+            "reading": "おいわい",
+            "meaning": "celebration"
+          }
+        ]
+      },
+      {
+        "character": "礼",
+        "onyomi": [
+          "レイ"
+        ],
+        "kunyomi": [],
+        "meaning": "gratitude, courtesy, bow",
+        "examples": [
+          {
+            "word": "お礼",
+            "reading": "おれい",
+            "meaning": "thanks, gratitude"
+          }
+        ]
+      },
+      {
+        "character": "勤",
+        "onyomi": [],
+        "kunyomi": [
+          "つと(-める)"
+        ],
+        "meaning": "work, be employed",
+        "examples": [
+          {
+            "word": "勤める",
+            "reading": "つとめる",
+            "meaning": "to work for, to be employed at"
+          }
+        ]
+      },
+      {
+        "character": "越",
+        "onyomi": [],
+        "kunyomi": [
+          "こ(-す)"
+        ],
+        "meaning": "cross over, move past",
+        "examples": [
+          {
+            "word": "引っ越す",
+            "reading": "ひっこす",
+            "meaning": "to move (home)"
+          }
+        ]
+      },
+      {
+        "character": "届",
+        "onyomi": [],
+        "kunyomi": [
+          "とど(-く)"
+        ],
+        "meaning": "reach, be delivered",
+        "examples": [
+          {
+            "word": "届く",
+            "reading": "とどく",
+            "meaning": "to arrive, to be delivered"
+          }
+        ]
+      },
+      {
+        "character": "係",
+        "onyomi": [],
+        "kunyomi": [
+          "かんけい"
+        ],
+        "meaning": "relation, connection",
+        "examples": [
+          {
+            "word": "関係",
+            "reading": "かんけい",
+            "meaning": "relationship, connection"
+          }
+        ]
+      },
+      {
+        "character": "敬",
+        "onyomi": [
+          "ケイ"
+        ],
+        "kunyomi": [],
+        "meaning": "respect, revere",
+        "examples": [
+          {
+            "word": "尊敬する",
+            "reading": "そんけいする",
+            "meaning": "to respect, to admire"
+          }
+        ]
+      },
+      {
+        "character": "慮",
+        "onyomi": [],
+        "kunyomi": [
+          "えんりょ"
+        ],
+        "meaning": "discretion, consideration",
+        "examples": [
+          {
+            "word": "遠慮する",
+            "reading": "えんりょする",
+            "meaning": "to hold back, to decline politely"
+          }
+        ]
+      },
+      {
+        "character": "召",
+        "onyomi": [],
+        "kunyomi": [
+          "め(-しあがる)"
+        ],
+        "meaning": "summon; (honorific eating)",
+        "examples": [
+          {
+            "word": "召し上がる",
+            "reading": "めしあがる",
+            "meaning": "honorific for 食べる (to eat)"
+          }
+        ]
+      },
+      {
+        "character": "参",
+        "onyomi": [],
+        "kunyomi": [
+          "まい(-る)"
+        ],
+        "meaning": "go, come (humble)",
+        "examples": [
+          {
+            "word": "参る",
+            "reading": "まいる",
+            "meaning": "humble for 行く／来る"
+          }
+        ]
+      },
+      {
+        "character": "申",
+        "onyomi": [],
+        "kunyomi": [
+          "もう(-す)"
+        ],
+        "meaning": "say (humble)",
+        "examples": [
+          {
+            "word": "申す",
+            "reading": "もうす",
+            "meaning": "humble for 言う"
+          }
+        ]
+      },
+      {
+        "character": "伺",
+        "onyomi": [],
+        "kunyomi": [
+          "うかが(-う)"
+        ],
+        "meaning": "ask, visit (humble)",
+        "examples": [
+          {
+            "word": "伺う",
+            "reading": "うかがう",
+            "meaning": "humble for 聞く／訪問する"
+          }
+        ]
+      },
+      {
+        "character": "拝",
+        "onyomi": [],
+        "kunyomi": [
+          "はい(-けん)"
+        ],
+        "meaning": "worship, humbly look",
+        "examples": [
+          {
+            "word": "拝見する",
+            "reading": "はいけんする",
+            "meaning": "humble for 見る"
+          }
+        ]
+      },
+      {
+        "character": "頂",
+        "onyomi": [],
+        "kunyomi": [
+          "いただ(-く)"
+        ],
+        "meaning": "receive (humble), top",
+        "examples": [
+          {
+            "word": "いただく",
+            "reading": "いただく",
+            "meaning": "humble for もらう／食べる"
+          }
+        ]
+      },
+      {
+        "character": "飛",
+        "onyomi": [],
+        "kunyomi": [
+          "と(-ぶ)"
+        ],
+        "meaning": "fly",
+        "examples": [
+          {
+            "word": "飛ぶ",
+            "reading": "とぶ",
+            "meaning": "to fly"
+          }
+        ]
+      },
+      {
+        "character": "積",
+        "onyomi": [],
+        "kunyomi": [
+          "つも(-る)"
+        ],
+        "meaning": "pile up, accumulate",
+        "examples": [
+          {
+            "word": "積もる",
+            "reading": "つもる",
+            "meaning": "to pile up (snow)"
+          }
+        ]
+      },
+      {
+        "character": "沸",
+        "onyomi": [],
+        "kunyomi": [
+          "わ(-く)",
+          "わか(-す)"
+        ],
+        "meaning": "boil",
+        "examples": [
+          {
+            "word": "沸く",
+            "reading": "わく",
+            "meaning": "to boil (intransitive)"
+          },
+          {
+            "word": "沸かす",
+            "reading": "わかす",
+            "meaning": "to boil water (transitive)"
+          }
+        ]
+      },
+      {
+        "character": "払",
+        "onyomi": [],
+        "kunyomi": [
+          "はら(-う)"
+        ],
+        "meaning": "pay, sweep away",
+        "examples": [
+          {
+            "word": "払う",
+            "reading": "はらう",
+            "meaning": "to pay"
+          }
+        ]
+      },
+      {
+        "character": "段",
+        "onyomi": [
+          "ダン"
+        ],
+        "kunyomi": [],
+        "meaning": "step, level, price",
+        "examples": [
+          {
+            "word": "値段",
+            "reading": "ねだん",
+            "meaning": "price"
+          }
+        ]
+      }
+    ]
+  }
