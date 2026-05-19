@@ -1,0 +1,691 @@
+{
+    "title": "Let's Study Grammar, Week 8",
+    "jlpt": "N4",
+    "chapter": 2,
+    "vocabulary": [
+      {
+        "word": "宿題",
+        "reading": "しゅくだい",
+        "meaning": "homework"
+      },
+      {
+        "word": "授業料",
+        "reading": "じゅぎょうりょう",
+        "meaning": "tuition fee"
+      },
+      {
+        "word": "返事",
+        "reading": "へんじ",
+        "meaning": "reply / response"
+      },
+      {
+        "word": "片づける",
+        "reading": "かたづける",
+        "meaning": "to tidy up / put away"
+      },
+      {
+        "word": "忘れる",
+        "reading": "わすれる",
+        "meaning": "to forget"
+      },
+      {
+        "word": "残る",
+        "reading": "のこる",
+        "meaning": "to remain / be left over"
+      },
+      {
+        "word": "習う",
+        "reading": "ならう",
+        "meaning": "to learn / take lessons"
+      },
+      {
+        "word": "引っ越し",
+        "reading": "ひっこし",
+        "meaning": "moving house"
+      },
+      {
+        "word": "地図",
+        "reading": "ちず",
+        "meaning": "map"
+      },
+      {
+        "word": "マフラー",
+        "reading": "マフラー",
+        "meaning": "scarf / muffler"
+      },
+      {
+        "word": "会議",
+        "reading": "かいぎ",
+        "meaning": "meeting / conference"
+      },
+      {
+        "word": "出席する",
+        "reading": "しゅっせきする",
+        "meaning": "to attend / be present"
+      },
+      {
+        "word": "台風",
+        "reading": "たいふう",
+        "meaning": "typhoon"
+      },
+      {
+        "word": "飛行機",
+        "reading": "ひこうき",
+        "meaning": "airplane"
+      },
+      {
+        "word": "貯金",
+        "reading": "ちょきん",
+        "meaning": "savings"
+      },
+      {
+        "word": "復習",
+        "reading": "ふくしゅう",
+        "meaning": "review / revision"
+      },
+      {
+        "word": "成績",
+        "reading": "せいせき",
+        "meaning": "grades / results"
+      },
+      {
+        "word": "意味",
+        "reading": "いみ",
+        "meaning": "meaning"
+      },
+      {
+        "word": "声",
+        "reading": "こえ",
+        "meaning": "voice"
+      },
+      {
+        "word": "危険",
+        "reading": "きけん",
+        "meaning": "danger / dangerous"
+      },
+      {
+        "word": "川",
+        "reading": "かわ",
+        "meaning": "river"
+      },
+      {
+        "word": "花",
+        "reading": "はな",
+        "meaning": "flower"
+      },
+      {
+        "word": "犬",
+        "reading": "いぬ",
+        "meaning": "dog"
+      },
+      {
+        "word": "妻",
+        "reading": "つま",
+        "meaning": "wife"
+      },
+      {
+        "word": "医者",
+        "reading": "いしゃ",
+        "meaning": "doctor"
+      },
+      {
+        "word": "居酒屋",
+        "reading": "いざかや",
+        "meaning": "Japanese pub / izakaya"
+      },
+      {
+        "word": "必ず",
+        "reading": "かならず",
+        "meaning": "certainly / without fail"
+      },
+      {
+        "word": "静かに",
+        "reading": "しずかに",
+        "meaning": "quietly"
+      },
+      {
+        "word": "おそく",
+        "reading": "おそく",
+        "meaning": "late / slowly"
+      },
+      {
+        "word": "早く",
+        "reading": "はやく",
+        "meaning": "early / quickly"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "〜なければならない／〜なくてはいけない／〜ないといけない",
+        "meaning": "Must do ~; one is obligated to do ~ (three equivalent forms)",
+        "example": "明日は早く起きなければなりません。(I have to wake up early tomorrow.)"
+      },
+      {
+        "pattern": "〜なきゃ／〜なくちゃ／〜ないと（いけない）",
+        "meaning": "Casual spoken forms of 'must do ~'; commonly used in conversation",
+        "example": "明日試験だから勉強しなくちゃいけない。(I have to study because there's an exam tomorrow.)"
+      },
+      {
+        "pattern": "〜てもいい",
+        "meaning": "It is okay to ~; permission to do something",
+        "example": "これ、すててもいいですか。(Is it okay if I throw this away?)"
+      },
+      {
+        "pattern": "〜なくてもいい",
+        "meaning": "Does not have to ~; not obligated to do something",
+        "example": "明日来なくてもいいですか。(Is it okay if I don't come tomorrow?)"
+      },
+      {
+        "pattern": "〜てはいけない",
+        "meaning": "Must not ~; something is prohibited",
+        "example": "テストのとき、ペンを使ってはいけません。(You must not use a pen during the test.)"
+      },
+      {
+        "pattern": "〜といい／〜たらいい／〜ばいい",
+        "meaning": "You should ~; it would be good if ~",
+        "example": "頭が痛いとき、この薬を飲むといいです。(When your head hurts, you should take this medicine.)"
+      },
+      {
+        "pattern": "Vておく",
+        "meaning": "To do something in advance (preparation); or to leave something as it is",
+        "example": "旅行する前に、ガイドブックを読んでおきましょう。(Let's read a guidebook in advance of the trip.)"
+      },
+      {
+        "pattern": "Vてしまう",
+        "meaning": "① To completely finish doing V; ② expresses regret that something has happened (casual: Vちゃう／Vじゃう)",
+        "example": "電車の中にかさを忘れてしまいました。(I accidentally left my umbrella on the train.)"
+      },
+      {
+        "pattern": "Vてみる",
+        "meaning": "To try doing V; to do V and see what happens",
+        "example": "日本の旅館にとまってみたいです。(I want to try staying at a Japanese inn.)"
+      },
+      {
+        "pattern": "Nをあげる／くれる／もらう",
+        "meaning": "To give (to others) / give (to me or my group) / receive — core giving/receiving verbs",
+        "example": "田中さんが（私に）セーターをくれました。(Tanaka-san gave me a sweater.)"
+      },
+      {
+        "pattern": "Vてあげる",
+        "meaning": "To do V for someone else (as a favor)",
+        "example": "私は友だちの引っ越しを手伝ってあげました。(I helped my friend with their move.)"
+      },
+      {
+        "pattern": "Vてくれる",
+        "meaning": "Someone does V for me / my group (expressing gratitude)",
+        "example": "田中さんは私に地図をかいてくれました。(Tanaka-san drew a map for me.)"
+      },
+      {
+        "pattern": "Vてもらう",
+        "meaning": "To have someone do V for oneself; to receive the action of V",
+        "example": "友だちに東京駅まで連れて行ってもらいました。(I had a friend take me to Tokyo Station.)"
+      },
+      {
+        "pattern": "Nのために / Vために（objective）",
+        "meaning": "In order to ~ / for the sake of ~ (expresses purpose or goal)",
+        "example": "家を買うために、貯金をしています。(I'm saving money in order to buy a house.)"
+      },
+      {
+        "pattern": "Nのため / Vたため（cause）",
+        "meaning": "Because of ~ / due to ~ (expresses cause or reason, often formal)",
+        "example": "台風のため、飛行機がおくれました。(The plane was delayed due to the typhoon.)"
+      },
+      {
+        "pattern": "Vように",
+        "meaning": "So that V; in order to be able to V (goal-directed effort)",
+        "example": "みんなに聞こえるように、大きい声で話してください。(Please speak loudly so that everyone can hear.)"
+      },
+      {
+        "pattern": "Vようになる",
+        "meaning": "To come to be able to V; a gradual change in ability or habit",
+        "example": "日本語が上手に話せるようになりたいです。(I want to become able to speak Japanese well.)"
+      },
+      {
+        "pattern": "Vようにする",
+        "meaning": "To make an effort to V; to consciously try to do V as a habit",
+        "example": "毎食後、歯をみがくようにしています。(I make a habit of brushing my teeth after every meal.)"
+      },
+      {
+        "pattern": "Vように言う／言われる",
+        "meaning": "To tell someone to V; to be told to V",
+        "example": "父に、あまりお酒を飲まないように言っています。(I tell my father not to drink too much alcohol.)"
+      },
+      {
+        "pattern": "こんなN / そんなN / あんなN / どんなN",
+        "meaning": "This kind of N / that kind of N / that kind of N (over there) / what kind of N",
+        "example": "いい家ですね。私もこんな家に住みたいです。(What a nice house. I want to live in a house like this too.)"
+      },
+      {
+        "pattern": "こんなに／そんなに／あんなに／どんなに",
+        "meaning": "This much / to that degree / that much / to what degree (adverbial degree)",
+        "example": "そんなにむずかしかったんですか。(Was it really that difficult?)"
+      },
+      {
+        "pattern": "こうV／そうV／ああV／どうV",
+        "meaning": "Do V this way / that way / that way (over there) / how to do V",
+        "example": "これは漢字でどう書きますか。(How do you write this in kanji?)"
+      },
+      {
+        "pattern": "〜というN／〜っていうN",
+        "meaning": "N called ~ / N named ~ (casual: っていう)",
+        "example": "兄は、東京の目黒というところに住んでいます。(My brother lives in a place called Meguro in Tokyo.)"
+      },
+      {
+        "pattern": "どういうN",
+        "meaning": "What kind of N; asking for the nature or meaning of something",
+        "example": "それはどういう意味ですか。(What does that mean?)"
+      },
+      {
+        "pattern": "Vたほうがいい",
+        "meaning": "You should do V; it is better to do V",
+        "example": "かぜをひいたときは、早く寝たほうがいいですよ。(When you have a cold, you should go to sleep early.)"
+      },
+      {
+        "pattern": "Vないほうがいい",
+        "meaning": "You shouldn't do V; it is better not to do V",
+        "example": "そのあぶないところには行かないほうがいいよ。(You shouldn't go to that dangerous place.)"
+      },
+      {
+        "pattern": "命令形（Vろ／Vれ）",
+        "meaning": "Imperative form: strong command to do V (mainly used by men; also on signs/cheers)",
+        "example": "時間がないから、早くしろ。(Hurry up, we don't have time.)"
+      },
+      {
+        "pattern": "禁止形（VるなV）",
+        "meaning": "Prohibitive form: strong command not to do V (Don't ~!)",
+        "example": "医者に、酒を飲むなと言われました。(The doctor told me not to drink alcohol.)"
+      },
+      {
+        "pattern": "Vなさい",
+        "meaning": "Gentle imperative used by parents to children or teachers to students",
+        "example": "肉ばかり食べないで、野菜も食べなさい。(Don't just eat meat; eat your vegetables too.)"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which sentence correctly expresses 'you must do your homework'?",
+        "options": [
+          "宿題をしなければなりません。",
+          "宿題をしてもいいです。",
+          "宿題をしなくてもいいです。",
+          "宿題をしてはいけません。"
+        ],
+        "answer": "宿題をしなければなりません。"
+      },
+      {
+        "question": "Which phrase means 'it is okay not to come'?",
+        "options": [
+          "来てもいいです。",
+          "来なくてもいいです。",
+          "来なければなりません。",
+          "来てはいけません。"
+        ],
+        "answer": "来なくてもいいです。"
+      },
+      {
+        "question": "What does 「Vておく」express?",
+        "options": [
+          "Completing an action with regret",
+          "Trying an action to see the result",
+          "Doing something in advance or leaving a state as is",
+          "Doing something for someone else"
+        ],
+        "answer": "Doing something in advance or leaving a state as is"
+      },
+      {
+        "question": "Fill in the blank: 「財布を電車の中に___てしまいました。」",
+        "options": [
+          "忘れ",
+          "忘る",
+          "忘り",
+          "忘った"
+        ],
+        "answer": "忘れ"
+      },
+      {
+        "question": "Which sentence correctly uses Vてあげる?",
+        "options": [
+          "田中さんは私に地図をかいてあげました。",
+          "私は田中さんに地図をかいてあげました。",
+          "私は田中さんに地図をかいてもらいました。",
+          "田中さんが私に地図をかいてもらいました。"
+        ],
+        "answer": "私は田中さんに地図をかいてあげました。"
+      },
+      {
+        "question": "「〜ために」is used to express which of the following?",
+        "options": [
+          "Time when something happens",
+          "Comparison between two things",
+          "Purpose or objective",
+          "Listing multiple examples"
+        ],
+        "answer": "Purpose or objective"
+      },
+      {
+        "question": "Which sentence correctly uses Vようになる?",
+        "options": [
+          "毎日練習して、泳げるようになりました。",
+          "毎日練習して、泳ぐようになります。",
+          "毎日練習して、泳いでようになりました。",
+          "毎日練習して、泳げるようにしました。"
+        ],
+        "answer": "毎日練習して、泳げるようになりました。"
+      },
+      {
+        "question": "What is the difference between 「〜ようになる」 and 「〜ようにする」?",
+        "options": [
+          "〜ようになる is a deliberate habit; 〜ようにする is a natural change",
+          "〜ようになる is a natural gradual change; 〜ようにする is a conscious effort or habit",
+          "They have the same meaning",
+          "〜ようになる is only used for objects; 〜ようにする is only used for people"
+        ],
+        "answer": "〜ようになる is a natural gradual change; 〜ようにする is a conscious effort or habit"
+      },
+      {
+        "question": "Choose the correct form to complete: 「危ないから、___ほうがいいよ。」",
+        "options": [
+          "行く",
+          "行かない",
+          "行って",
+          "行った"
+        ],
+        "answer": "行かない"
+      },
+      {
+        "question": "Which word completes this sentence? 「これは日本語で___言いますか。」",
+        "options": [
+          "なに",
+          "どう",
+          "なん",
+          "こう"
+        ],
+        "answer": "どう"
+      },
+      {
+        "question": "What does 「Vてしまう」express when describing an accident?",
+        "options": [
+          "An action done in preparation",
+          "An action done as a favor",
+          "Regret that something undesirable has happened",
+          "Permission to do something"
+        ],
+        "answer": "Regret that something undesirable has happened"
+      },
+      {
+        "question": "Which sentence is an example of the prohibitive form (禁止形)?",
+        "options": [
+          "早く起きなさい。",
+          "早く起きろ。",
+          "ここで泳ぐな！",
+          "ここで泳いではいけない。"
+        ],
+        "answer": "ここで泳ぐな！"
+      }
+    ],
+    "kanji": [
+      {
+        "character": "宿",
+        "onyomi": [
+          "しゅく"
+        ],
+        "kunyomi": [
+          "やど"
+        ],
+        "meaning": "lodging / inn / homework",
+        "examples": [
+          {
+            "word": "宿題",
+            "reading": "しゅくだい",
+            "meaning": "homework"
+          },
+          {
+            "word": "宿泊",
+            "reading": "しゅくはく",
+            "meaning": "overnight stay"
+          }
+        ]
+      },
+      {
+        "character": "題",
+        "onyomi": [
+          "だい"
+        ],
+        "kunyomi": [],
+        "meaning": "topic / title / problem",
+        "examples": [
+          {
+            "word": "宿題",
+            "reading": "しゅくだい",
+            "meaning": "homework"
+          },
+          {
+            "word": "問題",
+            "reading": "もんだい",
+            "meaning": "problem / question"
+          }
+        ]
+      },
+      {
+        "character": "忘",
+        "onyomi": [
+          "ぼう"
+        ],
+        "kunyomi": [
+          "わす"
+        ],
+        "meaning": "forget",
+        "examples": [
+          {
+            "word": "忘れる",
+            "reading": "わすれる",
+            "meaning": "to forget"
+          },
+          {
+            "word": "忘れ物",
+            "reading": "わすれもの",
+            "meaning": "forgotten item / lost property"
+          }
+        ]
+      },
+      {
+        "character": "習",
+        "onyomi": [
+          "しゅう"
+        ],
+        "kunyomi": [
+          "なら"
+        ],
+        "meaning": "learn / practice",
+        "examples": [
+          {
+            "word": "習う",
+            "reading": "ならう",
+            "meaning": "to learn / take lessons"
+          },
+          {
+            "word": "復習",
+            "reading": "ふくしゅう",
+            "meaning": "review / revision"
+          }
+        ]
+      },
+      {
+        "character": "図",
+        "onyomi": [
+          "ず",
+          "と"
+        ],
+        "kunyomi": [
+          "はか"
+        ],
+        "meaning": "map / diagram / figure",
+        "examples": [
+          {
+            "word": "地図",
+            "reading": "ちず",
+            "meaning": "map"
+          },
+          {
+            "word": "図書館",
+            "reading": "としょかん",
+            "meaning": "library"
+          }
+        ]
+      },
+      {
+        "character": "台",
+        "onyomi": [
+          "だい",
+          "たい"
+        ],
+        "kunyomi": [],
+        "meaning": "stand / counter / typhoon",
+        "examples": [
+          {
+            "word": "台風",
+            "reading": "たいふう",
+            "meaning": "typhoon"
+          },
+          {
+            "word": "台所",
+            "reading": "だいどころ",
+            "meaning": "kitchen"
+          }
+        ]
+      },
+      {
+        "character": "風",
+        "onyomi": [
+          "ふう",
+          "ふ"
+        ],
+        "kunyomi": [
+          "かぜ",
+          "かざ"
+        ],
+        "meaning": "wind / style",
+        "examples": [
+          {
+            "word": "台風",
+            "reading": "たいふう",
+            "meaning": "typhoon"
+          },
+          {
+            "word": "かぜ",
+            "reading": "かぜ",
+            "meaning": "cold (illness) / wind"
+          }
+        ]
+      },
+      {
+        "character": "声",
+        "onyomi": [
+          "せい"
+        ],
+        "kunyomi": [
+          "こえ"
+        ],
+        "meaning": "voice / sound",
+        "examples": [
+          {
+            "word": "声",
+            "reading": "こえ",
+            "meaning": "voice"
+          },
+          {
+            "word": "大声",
+            "reading": "おおごえ",
+            "meaning": "loud voice"
+          }
+        ]
+      },
+      {
+        "character": "意",
+        "onyomi": [
+          "い"
+        ],
+        "kunyomi": [],
+        "meaning": "meaning / mind / will",
+        "examples": [
+          {
+            "word": "意味",
+            "reading": "いみ",
+            "meaning": "meaning"
+          },
+          {
+            "word": "注意",
+            "reading": "ちゅうい",
+            "meaning": "caution / attention"
+          }
+        ]
+      },
+      {
+        "character": "花",
+        "onyomi": [
+          "か"
+        ],
+        "kunyomi": [
+          "はな"
+        ],
+        "meaning": "flower",
+        "examples": [
+          {
+            "word": "花",
+            "reading": "はな",
+            "meaning": "flower"
+          },
+          {
+            "word": "花見",
+            "reading": "はなみ",
+            "meaning": "cherry blossom viewing"
+          }
+        ]
+      },
+      {
+        "character": "飛",
+        "onyomi": [
+          "ひ"
+        ],
+        "kunyomi": [
+          "と"
+        ],
+        "meaning": "fly",
+        "examples": [
+          {
+            "word": "飛行機",
+            "reading": "ひこうき",
+            "meaning": "airplane"
+          },
+          {
+            "word": "飛ぶ",
+            "reading": "とぶ",
+            "meaning": "to fly / jump"
+          }
+        ]
+      },
+      {
+        "character": "危",
+        "onyomi": [
+          "き"
+        ],
+        "kunyomi": [
+          "あぶ",
+          "あや"
+        ],
+        "meaning": "dangerous / perilous",
+        "examples": [
+          {
+            "word": "危険",
+            "reading": "きけん",
+            "meaning": "danger / dangerous"
+          },
+          {
+            "word": "危ない",
+            "reading": "あぶない",
+            "meaning": "dangerous / unsafe"
+          }
+        ]
+      }
+    ]
+  }

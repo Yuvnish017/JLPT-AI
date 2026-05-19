@@ -1,0 +1,697 @@
+{
+    "title": "Let's Study Grammar, Week 9",
+    "jlpt": "N4",
+    "chapter": 3,
+    "vocabulary": [
+      {
+        "word": "大変",
+        "reading": "たいへん",
+        "meaning": "difficult / tough / terrible"
+      },
+      {
+        "word": "覚える",
+        "reading": "おぼえる",
+        "meaning": "to memorize / to remember"
+      },
+      {
+        "word": "調べる",
+        "reading": "しらべる",
+        "meaning": "to investigate / look up"
+      },
+      {
+        "word": "留学",
+        "reading": "りゅうがく",
+        "meaning": "studying abroad"
+      },
+      {
+        "word": "洗剤",
+        "reading": "せんざい",
+        "meaning": "detergent / cleaning agent"
+      },
+      {
+        "word": "掃除機",
+        "reading": "そうじき",
+        "meaning": "vacuum cleaner"
+      },
+      {
+        "word": "階段",
+        "reading": "かいだん",
+        "meaning": "stairs / staircase"
+      },
+      {
+        "word": "新鮮",
+        "reading": "しんせん",
+        "meaning": "fresh (na-adjective)"
+      },
+      {
+        "word": "魚",
+        "reading": "さかな",
+        "meaning": "fish"
+      },
+      {
+        "word": "耳",
+        "reading": "みみ",
+        "meaning": "ear"
+      },
+      {
+        "word": "鳥",
+        "reading": "とり",
+        "meaning": "bird"
+      },
+      {
+        "word": "美術館",
+        "reading": "びじゅつかん",
+        "meaning": "art museum"
+      },
+      {
+        "word": "事故",
+        "reading": "じこ",
+        "meaning": "accident"
+      },
+      {
+        "word": "ねだん",
+        "reading": "ねだん",
+        "meaning": "price"
+      },
+      {
+        "word": "読み方",
+        "reading": "よみかた",
+        "meaning": "way of reading / pronunciation"
+      },
+      {
+        "word": "使い方",
+        "reading": "つかいかた",
+        "meaning": "how to use / usage"
+      },
+      {
+        "word": "手伝う",
+        "reading": "てつだう",
+        "meaning": "to help / to assist"
+      },
+      {
+        "word": "息子",
+        "reading": "むすこ",
+        "meaning": "son"
+      },
+      {
+        "word": "文章",
+        "reading": "ぶんしょう",
+        "meaning": "text / sentence / passage"
+      },
+      {
+        "word": "天気予報",
+        "reading": "てんきよほう",
+        "meaning": "weather forecast"
+      },
+      {
+        "word": "つもり",
+        "reading": "つもり",
+        "meaning": "intention / plan"
+      },
+      {
+        "word": "意志",
+        "reading": "いし",
+        "meaning": "will / intention"
+      },
+      {
+        "word": "自転車",
+        "reading": "じてんしゃ",
+        "meaning": "bicycle"
+      },
+      {
+        "word": "動物園",
+        "reading": "どうぶつえん",
+        "meaning": "zoo"
+      },
+      {
+        "word": "コンビニ",
+        "reading": "コンビニ",
+        "meaning": "convenience store"
+      },
+      {
+        "word": "広さ",
+        "reading": "ひろさ",
+        "meaning": "spaciousness / area size"
+      },
+      {
+        "word": "便利さ",
+        "reading": "べんりさ",
+        "meaning": "convenience / usefulness"
+      },
+      {
+        "word": "大きさ",
+        "reading": "おおきさ",
+        "meaning": "size"
+      },
+      {
+        "word": "高さ",
+        "reading": "たかさ",
+        "meaning": "height / altitude"
+      },
+      {
+        "word": "返す",
+        "reading": "かえす",
+        "meaning": "to return (something) / pay back"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "〜かどうか",
+        "meaning": "Whether ~ or not; used to express uncertainty about a yes/no question",
+        "example": "その話が本当かどうか調べたほうがいいですよ。(You should look into whether that story is true or not.)"
+      },
+      {
+        "pattern": "疑問詞（いつ／どこ／だれ など）〜か",
+        "meaning": "Embedded question using a question word; expresses indirect questions within a sentence",
+        "example": "田中さんがどこに住んでいるか知っていますか。(Do you know where Tanaka-san lives?)"
+      },
+      {
+        "pattern": "〜の（nominalizer）",
+        "meaning": "Nominalizes a verb or clause; replaces こと when referring to people, places, things, or time — also used for observed/perceived actions",
+        "example": "漢字を覚えるのは大変です。(Memorizing kanji is difficult.)"
+      },
+      {
+        "pattern": "〜のに（in order to）",
+        "meaning": "In order to ~; used before expressions of cost, effort, or time required",
+        "example": "この絵をかくのに1か月かかりました。(It took one month to draw this picture.)"
+      },
+      {
+        "pattern": "動詞の可能形（Vられる / Vれる）",
+        "meaning": "Potential form of verbs: to be able to do V (equivalent to Vることができる)",
+        "example": "私は日本語を話せますが、書くことはできません。(I can speak Japanese, but I cannot write it.)"
+      },
+      {
+        "pattern": "聞こえる",
+        "meaning": "To be audible; sound reaches one's ears naturally (not by effort)",
+        "example": "となりの家からピアノの音が聞こえます。(I can hear piano music from the neighboring house.)"
+      },
+      {
+        "pattern": "聞ける",
+        "meaning": "To be able to listen; ability to listen (by conscious effort)",
+        "example": "このパソコンはラジオも聞けます。(You can also listen to the radio on this computer.)"
+      },
+      {
+        "pattern": "見える",
+        "meaning": "To be visible; something is naturally visible to the eye",
+        "example": "ここから東京駅がよく見えます。(Tokyo Station is clearly visible from here.)"
+      },
+      {
+        "pattern": "見られる",
+        "meaning": "To be able to see / watch; ability to watch or view something",
+        "example": "この美術館では、ピカソの絵が見られます。(You can see Picasso's paintings at this art museum.)"
+      },
+      {
+        "pattern": "〜のが見える／〜のが聞こえる",
+        "meaning": "Can see/hear someone doing ~; perceiving an ongoing action (の cannot be replaced by こと here)",
+        "example": "公園で子どもたちが遊んでいるのが見えます。(I can see children playing in the park.)"
+      },
+      {
+        "pattern": "〜ので",
+        "meaning": "Because ~; therefore ~ (polite/formal expression of reason, more gentle than 〜から)",
+        "example": "雨が降っているので、今日は出かけませんでした。(Because it is raining, I did not go out today.)"
+      },
+      {
+        "pattern": "〜のに",
+        "meaning": "Even though ~; despite ~; expresses disappointment or surprise that the result differs from expectation",
+        "example": "きのう勉強したのに、もう忘れてしまいました。(Even though I studied yesterday, I've already forgotten it.)"
+      },
+      {
+        "pattern": "〜ても／〜でも",
+        "meaning": "Even if ~; even though ~; expresses something contrary to the expected outcome",
+        "example": "調べてもわからなかった。(I looked it up, but I still couldn't understand.)"
+      },
+      {
+        "pattern": "疑問詞〜ても／でも",
+        "meaning": "No matter what/who/when/how; always, regardless of the situation",
+        "example": "あのレストランはいつ行ってもこんでいます。(That restaurant is always crowded, no matter when you go.)"
+      },
+      {
+        "pattern": "それに／そのうえ",
+        "meaning": "What's more; moreover; adds further positive or negative information",
+        "example": "この店の料理はおいしい。それに、ねだんも安い。(This restaurant's food is good. What's more, the prices are cheap.)"
+      },
+      {
+        "pattern": "それで／だから",
+        "meaning": "Therefore; so; that's why — introduces a result or conclusion from a cause",
+        "example": "パソコンがこわれた。だから、新しいのを買った。(My computer broke. That's why I bought a new one.)"
+      },
+      {
+        "pattern": "ところが",
+        "meaning": "However; but (unexpectedly); introduces an unexpected or contrary result (≒ のに)",
+        "example": "きのうは試験の日だった。ところが、病気で受けることができなかった。(Yesterday was the exam day. However, I couldn't take it because I was sick.)"
+      },
+      {
+        "pattern": "形容詞＋さ（名詞化）",
+        "meaning": "Nominalizes adjectives into nouns expressing degree or measurement (i-A→さ; na-A→さ; いい→よさ)",
+        "example": "あの山の高さはどのくらいですか。(How tall is that mountain?)"
+      },
+      {
+        "pattern": "V方（かた）",
+        "meaning": "The way to do V; how to V (= Vますかた)",
+        "example": "この漢字の読み方を教えてください。(Please tell me how to read this kanji.)"
+      },
+      {
+        "pattern": "Vてくれませんか／Vてもらえませんか／Vていただけませんか",
+        "meaning": "Polite requests: Could you please V? (increasingly polite going down the list)",
+        "example": "すみませんが、もう一度言っていただけませんか。(Excuse me, could you please say that one more time?)"
+      },
+      {
+        "pattern": "Vてほしい／Vてもらいたい／Vていただきたい",
+        "meaning": "Want someone to V; desire that someone does V (for oneself)",
+        "example": "父に早く元気になってほしいです。(I want my dad to get better soon.)"
+      },
+      {
+        "pattern": "〜たらどうですか／〜たらいかがですか",
+        "meaning": "Why don't you ~? / How about ~? (suggestion or advice)",
+        "example": "インターネットで調べたらどうですか。(Why don't you look it up on the internet?)"
+      },
+      {
+        "pattern": "〜が／〜けれど（も）、〜（前置き）",
+        "meaning": "Used as a preface or softener before making a request or raising a topic",
+        "example": "すみませんが、この辺にコンビニはありませんか。(Excuse me, but is there a convenience store around here?)"
+      },
+      {
+        "pattern": "〜と言う／〜って言う",
+        "meaning": "To say that ~; to report speech (って is the casual spoken form of と)",
+        "example": "田中さんは明日は来ないと言っていましたよ。(Tanaka-san was saying that he won't come tomorrow.)"
+      },
+      {
+        "pattern": "〜と思う",
+        "meaning": "I think that ~; expresses the speaker's opinion or belief",
+        "example": "田中さんはもう帰ったと思います。(I think Tanaka-san has already gone home.)"
+      },
+      {
+        "pattern": "Vよう（意向形）",
+        "meaning": "Casual volitional form: Let's V; I'll V (casual equivalent of Vましょう, used among friends)",
+        "example": "疲れたから、ちょっと休もう。(I'm tired, so let's take a short break.)"
+      },
+      {
+        "pattern": "Vようと思う",
+        "meaning": "I'm thinking of doing V; expresses one's intention or plan",
+        "example": "明日、買い物に行こうと思っています。(I'm thinking of going shopping tomorrow.)"
+      },
+      {
+        "pattern": "Vつもり",
+        "meaning": "Plan to V; intend to V (expresses a definite plan or strong intention)",
+        "example": "私は来年、日本に留学するつもりです。(I plan to study in Japan next year.)"
+      },
+      {
+        "pattern": "Vつもりはない／Vつもりはありません",
+        "meaning": "Have no intention of doing V (stronger denial of intent than Vないつもりです)",
+        "example": "私は大学に行くつもりはありません。(I have no intention of going to university.)"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which sentence correctly uses 〜かどうか?",
+        "options": [
+          "明日、試験があるかどうか先生に聞いてみます。",
+          "明日、試験があるどうか先生に聞いてみます。",
+          "明日、試験があるかどうかを先生が聞きました。",
+          "明日、試験があるかか先生に聞いてみます。"
+        ],
+        "answer": "明日、試験があるかどうか先生に聞いてみます。"
+      },
+      {
+        "question": "What is the difference between 見える and 見られる?",
+        "options": [
+          "見える means you tried to look; 見られる means it appeared naturally",
+          "見える means something is naturally visible; 見られる means you are able to watch/view",
+          "They are completely interchangeable",
+          "見える is polite; 見られる is casual"
+        ],
+        "answer": "見える means something is naturally visible; 見られる means you are able to watch/view"
+      },
+      {
+        "question": "Fill in the blank: 「雨が降っている___、今日はピクニックに行けません。」",
+        "options": [
+          "のに",
+          "ので",
+          "ても",
+          "ところが"
+        ],
+        "answer": "ので"
+      },
+      {
+        "question": "Which sentence uses 〜のに to express disappointment?",
+        "options": [
+          "この掃除機は小さいのに、階段を掃除するのに便利です。",
+          "あんなに練習したのに、試合に負けてしまいました。",
+          "駅まで歩くのに30分かかります。",
+          "漢字を覚えるのは大変です。"
+        ],
+        "answer": "あんなに練習したのに、試合に負けてしまいました。"
+      },
+      {
+        "question": "Which conjunction means 'however, unexpectedly'?",
+        "options": [
+          "それで",
+          "だから",
+          "それに",
+          "ところが"
+        ],
+        "answer": "ところが"
+      },
+      {
+        "question": "How do you make the noun 'size' from the adjective 大きい?",
+        "options": [
+          "大きくさ",
+          "大きさ",
+          "大きいさ",
+          "大きのさ"
+        ],
+        "answer": "大きさ"
+      },
+      {
+        "question": "Which sentence correctly uses V方?",
+        "options": [
+          "この料理の作るかたを教えてください。",
+          "この料理の作り方を教えてください。",
+          "この料理の作った方を教えてください。",
+          "この料理の作ることを教えてください。"
+        ],
+        "answer": "この料理の作り方を教えてください。"
+      },
+      {
+        "question": "Which of the following is the most polite request?",
+        "options": [
+          "手伝ってくれませんか。",
+          "手伝ってもらえませんか。",
+          "手伝っていただけませんか。",
+          "手伝ってください。"
+        ],
+        "answer": "手伝っていただけませんか。"
+      },
+      {
+        "question": "What does 「Vてほしい」express?",
+        "options": [
+          "You want to do V yourself",
+          "You want someone else to do V for you",
+          "You suggest that someone do V",
+          "You plan to do V"
+        ],
+        "answer": "You want someone else to do V for you"
+      },
+      {
+        "question": "Which sentence correctly uses Vようと思う?",
+        "options": [
+          "来年、フランス語を勉強しようと思っています。",
+          "来年、フランス語を勉強するようと思っています。",
+          "来年、フランス語を勉強したようと思っています。",
+          "来年、フランス語を勉強ようと思っています。"
+        ],
+        "answer": "来年、フランス語を勉強しようと思っています。"
+      },
+      {
+        "question": "What is the difference between Vつもり and Vようと思う?",
+        "options": [
+          "Vつもり is a stronger, more definite plan; Vようと思う is more tentative",
+          "Vようと思う is a stronger plan; Vつもり is more tentative",
+          "Both express the same level of commitment",
+          "Vつもり is only used in the past tense"
+        ],
+        "answer": "Vつもり is a stronger, more definite plan; Vようと思う is more tentative"
+      },
+      {
+        "question": "Which sentence correctly uses 疑問詞〜ても to mean 'no matter what'?",
+        "options": [
+          "どんなに食べても、太りません。",
+          "どんなに食べるても、太りません。",
+          "どんなに食べたても、太りません。",
+          "どんなに食べても、太ります。"
+        ],
+        "answer": "どんなに食べても、太りません。"
+      }
+    ],
+    "kanji": [
+      {
+        "character": "覚",
+        "onyomi": [
+          "かく"
+        ],
+        "kunyomi": [
+          "おぼ",
+          "さ"
+        ],
+        "meaning": "memorize / perceive / awaken",
+        "examples": [
+          {
+            "word": "覚える",
+            "reading": "おぼえる",
+            "meaning": "to memorize / to remember"
+          },
+          {
+            "word": "目覚める",
+            "reading": "めざめる",
+            "meaning": "to wake up"
+          }
+        ]
+      },
+      {
+        "character": "調",
+        "onyomi": [
+          "ちょう"
+        ],
+        "kunyomi": [
+          "しら",
+          "ととの"
+        ],
+        "meaning": "investigate / tone / condition",
+        "examples": [
+          {
+            "word": "調べる",
+            "reading": "しらべる",
+            "meaning": "to investigate / look up"
+          },
+          {
+            "word": "調子",
+            "reading": "ちょうし",
+            "meaning": "condition / tune"
+          }
+        ]
+      },
+      {
+        "character": "鮮",
+        "onyomi": [
+          "せん"
+        ],
+        "kunyomi": [
+          "あざ"
+        ],
+        "meaning": "fresh / vivid",
+        "examples": [
+          {
+            "word": "新鮮",
+            "reading": "しんせん",
+            "meaning": "fresh"
+          },
+          {
+            "word": "鮮やか",
+            "reading": "あざやか",
+            "meaning": "vivid / brilliant"
+          }
+        ]
+      },
+      {
+        "character": "耳",
+        "onyomi": [
+          "じ"
+        ],
+        "kunyomi": [
+          "みみ"
+        ],
+        "meaning": "ear",
+        "examples": [
+          {
+            "word": "耳",
+            "reading": "みみ",
+            "meaning": "ear"
+          },
+          {
+            "word": "耳鼻科",
+            "reading": "じびか",
+            "meaning": "ENT (ear, nose and throat) clinic"
+          }
+        ]
+      },
+      {
+        "character": "事",
+        "onyomi": [
+          "じ",
+          "ず"
+        ],
+        "kunyomi": [
+          "こと",
+          "つか"
+        ],
+        "meaning": "matter / thing / fact",
+        "examples": [
+          {
+            "word": "事故",
+            "reading": "じこ",
+            "meaning": "accident"
+          },
+          {
+            "word": "仕事",
+            "reading": "しごと",
+            "meaning": "work / job"
+          }
+        ]
+      },
+      {
+        "character": "故",
+        "onyomi": [
+          "こ",
+          "ゆえ"
+        ],
+        "kunyomi": [
+          "ふる"
+        ],
+        "meaning": "reason / cause / old",
+        "examples": [
+          {
+            "word": "事故",
+            "reading": "じこ",
+            "meaning": "accident"
+          },
+          {
+            "word": "故郷",
+            "reading": "こきょう",
+            "meaning": "hometown / birthplace"
+          }
+        ]
+      },
+      {
+        "character": "館",
+        "onyomi": [
+          "かん"
+        ],
+        "kunyomi": [],
+        "meaning": "building / hall / mansion",
+        "examples": [
+          {
+            "word": "美術館",
+            "reading": "びじゅつかん",
+            "meaning": "art museum"
+          },
+          {
+            "word": "図書館",
+            "reading": "としょかん",
+            "meaning": "library"
+          }
+        ]
+      },
+      {
+        "character": "転",
+        "onyomi": [
+          "てん"
+        ],
+        "kunyomi": [
+          "ころ",
+          "うた"
+        ],
+        "meaning": "revolve / rotate / change",
+        "examples": [
+          {
+            "word": "自転車",
+            "reading": "じてんしゃ",
+            "meaning": "bicycle"
+          },
+          {
+            "word": "運転",
+            "reading": "うんてん",
+            "meaning": "driving / operation"
+          }
+        ]
+      },
+      {
+        "character": "息",
+        "onyomi": [
+          "そく"
+        ],
+        "kunyomi": [
+          "いき",
+          "むす"
+        ],
+        "meaning": "breath / son",
+        "examples": [
+          {
+            "word": "息子",
+            "reading": "むすこ",
+            "meaning": "son"
+          },
+          {
+            "word": "息",
+            "reading": "いき",
+            "meaning": "breath"
+          }
+        ]
+      },
+      {
+        "character": "返",
+        "onyomi": [
+          "へん"
+        ],
+        "kunyomi": [
+          "かえ"
+        ],
+        "meaning": "return / reply",
+        "examples": [
+          {
+            "word": "返す",
+            "reading": "かえす",
+            "meaning": "to return (something)"
+          },
+          {
+            "word": "返事",
+            "reading": "へんじ",
+            "meaning": "reply / response"
+          }
+        ]
+      },
+      {
+        "character": "留",
+        "onyomi": [
+          "りゅう",
+          "る"
+        ],
+        "kunyomi": [
+          "と",
+          "とど"
+        ],
+        "meaning": "detain / fasten / stay",
+        "examples": [
+          {
+            "word": "留学",
+            "reading": "りゅうがく",
+            "meaning": "studying abroad"
+          },
+          {
+            "word": "留守",
+            "reading": "るす",
+            "meaning": "absence from home"
+          }
+        ]
+      },
+      {
+        "character": "階",
+        "onyomi": [
+          "かい"
+        ],
+        "kunyomi": [],
+        "meaning": "floor / staircase / level",
+        "examples": [
+          {
+            "word": "階段",
+            "reading": "かいだん",
+            "meaning": "stairs / staircase"
+          },
+          {
+            "word": "二階",
+            "reading": "にかい",
+            "meaning": "second floor"
+          }
+        ]
+      }
+    ]
+  }
