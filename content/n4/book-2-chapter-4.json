@@ -1,0 +1,683 @@
+{
+    "title": "Let's Study Grammar, Week 10",
+    "jlpt": "N4",
+    "chapter": 4,
+    "vocabulary": [
+      {
+        "word": "試合",
+        "reading": "しあい",
+        "meaning": "match / game / competition"
+      },
+      {
+        "word": "地震",
+        "reading": "じしん",
+        "meaning": "earthquake"
+      },
+      {
+        "word": "転勤",
+        "reading": "てんきん",
+        "meaning": "job transfer / relocation"
+      },
+      {
+        "word": "財布",
+        "reading": "さいふ",
+        "meaning": "wallet / purse"
+      },
+      {
+        "word": "落とす",
+        "reading": "おとす",
+        "meaning": "to drop / to lose"
+      },
+      {
+        "word": "ボタン",
+        "reading": "ボタン",
+        "meaning": "button"
+      },
+      {
+        "word": "押す",
+        "reading": "おす",
+        "meaning": "to push / to press"
+      },
+      {
+        "word": "曲がる",
+        "reading": "まがる",
+        "meaning": "to turn / to bend"
+      },
+      {
+        "word": "説明",
+        "reading": "せつめい",
+        "meaning": "explanation"
+      },
+      {
+        "word": "社長",
+        "reading": "しゃちょう",
+        "meaning": "company president / CEO"
+      },
+      {
+        "word": "社員",
+        "reading": "しゃいん",
+        "meaning": "company employee"
+      },
+      {
+        "word": "入学式",
+        "reading": "にゅうがくしき",
+        "meaning": "school entrance ceremony"
+      },
+      {
+        "word": "弁護士",
+        "reading": "べんごし",
+        "meaning": "lawyer"
+      },
+      {
+        "word": "失敗",
+        "reading": "しっぱい",
+        "meaning": "failure / mistake"
+      },
+      {
+        "word": "割れる",
+        "reading": "われる",
+        "meaning": "to break / crack (intransitive)"
+      },
+      {
+        "word": "割る",
+        "reading": "わる",
+        "meaning": "to break / crack (transitive)"
+      },
+      {
+        "word": "閉まる",
+        "reading": "しまる",
+        "meaning": "to close / shut (intransitive)"
+      },
+      {
+        "word": "閉める",
+        "reading": "しめる",
+        "meaning": "to close / shut (transitive)"
+      },
+      {
+        "word": "消える",
+        "reading": "きえる",
+        "meaning": "to go out / disappear (intransitive)"
+      },
+      {
+        "word": "消す",
+        "reading": "けす",
+        "meaning": "to turn off / erase (transitive)"
+      },
+      {
+        "word": "始まる",
+        "reading": "はじまる",
+        "meaning": "to begin / start (intransitive)"
+      },
+      {
+        "word": "始める",
+        "reading": "はじめる",
+        "meaning": "to begin / start (transitive)"
+      },
+      {
+        "word": "かぎ",
+        "reading": "かぎ",
+        "meaning": "key / lock"
+      },
+      {
+        "word": "患者",
+        "reading": "かんじゃ",
+        "meaning": "patient (medical)"
+      },
+      {
+        "word": "増える",
+        "reading": "ふえる",
+        "meaning": "to increase (intransitive)"
+      },
+      {
+        "word": "泣く",
+        "reading": "なく",
+        "meaning": "to cry / weep"
+      },
+      {
+        "word": "かむ",
+        "reading": "かむ",
+        "meaning": "to bite"
+      },
+      {
+        "word": "用事",
+        "reading": "ようじ",
+        "meaning": "errand / business to attend to"
+      },
+      {
+        "word": "道路",
+        "reading": "どうろ",
+        "meaning": "road"
+      },
+      {
+        "word": "氷",
+        "reading": "こおり",
+        "meaning": "ice"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "〜たら",
+        "meaning": "If / when ~ (conditional: past-tense verb + ら). Expresses a condition, a sequence of events, or a point in time. Often used with もし〜たら.",
+        "example": "暑かったら、エアコンをつけてください。(If it gets hot, please turn on the air conditioning.)"
+      },
+      {
+        "pattern": "〜ば／〜なら",
+        "meaning": "If ~ (ば-form conditional). ば expresses logical or hypothetical conditions. なら (plain form + なら) expresses the speaker's judgment or advice based on what has been said.",
+        "example": "安ければ買いますが、高いので買いません。(If it were cheap I'd buy it, but since it's expensive I won't.)"
+      },
+      {
+        "pattern": "〜と",
+        "meaning": "When ~ / If ~ (conditional: normal form except past + と). Expresses natural consequences or automatic results that always follow.",
+        "example": "このボタンを押すと、ドアが開きます。(When you press this button, the door opens.)"
+      },
+      {
+        "pattern": "〜ようだ／〜みたいだ",
+        "meaning": "Seems like ~ / appears to be ~ (inference based on observable evidence or reasoning; みたいだ is the casual equivalent)",
+        "example": "道路がぬれているから、雨が降ったようですね。(The road is wet, so it seems like it rained.)"
+      },
+      {
+        "pattern": "〜そうだ（appearance）",
+        "meaning": "Looks like ~ / seems about to ~ (impression from direct visual observation; i-A → i-Aそう; na-A → na-Aそう; いい → よさそう)",
+        "example": "明日は天気がよさそうですよ。(The weather looks like it will be nice tomorrow.)"
+      },
+      {
+        "pattern": "〜そうだ（hearsay）",
+        "meaning": "I heard that ~ / apparently ~ (information passed on from another source; plain form + そうだ)",
+        "example": "天気予報によると、午後から雨が降るそうですよ。(I heard the forecast says it will rain from this afternoon.)"
+      },
+      {
+        "pattern": "〜でしょう／〜だろう",
+        "meaning": "Probably ~ / I think ~ (conjecture; でしょう is polite, だろう is casual)",
+        "example": "今日は午後から雨が降るでしょう。(It will probably rain from the afternoon today.)"
+      },
+      {
+        "pattern": "〜かもしれない",
+        "meaning": "Might ~ / may ~ (expresses possibility; less certain than でしょう)",
+        "example": "さいふをどこかに落としたかもしれない。(I might have dropped my wallet somewhere.)"
+      },
+      {
+        "pattern": "〜すぎる",
+        "meaning": "Too ~ / excessively ~ (exceeds an appropriate or comfortable degree; Vます + すぎる; i-Aい → i-Aすぎる; na-A + すぎる)",
+        "example": "きのう、お酒を飲みすぎて、頭がいたい。(I drank too much last night and my head hurts.)"
+      },
+      {
+        "pattern": "Vやすい",
+        "meaning": "Easy to do V / tends to V readily. Two meanings: ① easy or simple to do; ② prone to doing (can happen unintentionally)",
+        "example": "田中先生の説明はわかりやすいです。(Tanaka-sensei's explanations are easy to understand.)"
+      },
+      {
+        "pattern": "Vにくい",
+        "meaning": "Difficult to do V / hard to V. Two meanings: ① not easy to do; ② unlikely to happen easily",
+        "example": "この地図は小さくてわかりにくいです。(This map is small and hard to understand.)"
+      },
+      {
+        "pattern": "V出す",
+        "meaning": "To suddenly start doing V (suggests an abrupt or unexpected onset; ≒ V始める but more sudden)",
+        "example": "赤ちゃんが急に泣き出した。(The baby suddenly burst into tears.)"
+      },
+      {
+        "pattern": "V終わる",
+        "meaning": "To finish doing V / to complete V",
+        "example": "ご飯を食べ終わるまで、待っていてください。(Please wait until I finish eating.)"
+      },
+      {
+        "pattern": "V続ける",
+        "meaning": "To continue doing V / to keep on doing V",
+        "example": "1週間、この薬を飲み続けてください。(Please continue taking this medicine for one week.)"
+      },
+      {
+        "pattern": "Vられる（受身形・passive）",
+        "meaning": "Passive form: to be V-ed / to have something done to one. Often implies the subject is affected, inconvenienced, or acted upon by someone else.",
+        "example": "私はよく母にしかられました。(I was often scolded by my mother.)"
+      },
+      {
+        "pattern": "Vさせる（使役形・causative）",
+        "meaning": "Causative form: to make someone do V / to let someone do V (expressing that you force or allow another person to act)",
+        "example": "その先生は学生に日本語の日記を書かせます。(That teacher makes her students write diaries in Japanese.)"
+      },
+      {
+        "pattern": "Vさせられる（使役受身形・causative-passive）",
+        "meaning": "Causative-passive form: to be made to do V / to be forced to do V by someone else",
+        "example": "子どものころ、毎日母に野菜を食べさせられました。(When I was a child, I was made to eat vegetables every day by my mother.)"
+      },
+      {
+        "pattern": "〜させてください",
+        "meaning": "Please let me do ~ / please allow me to ~ (asking permission to perform an action for oneself)",
+        "example": "ノートをコピーさせてください。(Please let me copy your notes.)"
+      },
+      {
+        "pattern": "他動詞 vs 自動詞（transitive vs intransitive verb pairs）",
+        "meaning": "Transitive verbs (他動詞) take a direct object (〈人〉が〈もの〉を V する). Intransitive verbs (自動詞) have no object (〈もの〉が V する). Many come in pairs: 閉める／閉まる; 割る／割れる; 消す／消える; 始める／始まる.",
+        "example": "ドアを閉めてください。／駅でドアが閉まります。(Please close the door. / The door closes at the station.)"
+      },
+      {
+        "pattern": "V（自動詞）ている",
+        "meaning": "Expresses a resultant state from an intransitive action — the condition that remains after something has happened",
+        "example": "会議室は、かぎがかかっています。(The conference room is locked.)"
+      },
+      {
+        "pattern": "V（他動詞）てある",
+        "meaning": "Expresses a state resulting from a purposeful transitive action — something has been done and its effect remains",
+        "example": "テーブルの上に花がかざってあります。(Flowers have been arranged on the table.)"
+      },
+      {
+        "pattern": "Vてくる",
+        "meaning": "① Movement toward the speaker (go and come back); ② a change or trend that has progressed up to the present point",
+        "example": "だんだん寒くなってきました。(It has gradually gotten colder.)"
+      },
+      {
+        "pattern": "Vていく",
+        "meaning": "① Movement away from the speaker; ② a change or trend continuing from the present point into the future",
+        "example": "これからもっと寒くなっていくでしょう。(It will probably keep getting colder from now on.)"
+      },
+      {
+        "pattern": "〜んです／〜のです",
+        "meaning": "Explanatory / emphatic form: used when providing or asking for an explanation, background reason, or context. 〜んです is the spoken form of 〜のです.",
+        "example": "どうしてパーティーに行かないんですか。(Why aren't you going to the party?)"
+      },
+      {
+        "pattern": "〜なあ",
+        "meaning": "Sentence-final particle expressing emotion, admiration, or surprise (primarily used by men; women also use 〜かな)",
+        "example": "試験、むずかしかったなあ。(Man, that exam was tough...)"
+      },
+      {
+        "pattern": "〜ね",
+        "meaning": "Sentence-final particle seeking agreement or expressing shared recognition (like 'isn't it' or 'right?')",
+        "example": "いい天気ですね。(It's nice weather, isn't it.)"
+      },
+      {
+        "pattern": "〜よ",
+        "meaning": "Sentence-final particle adding emphasis, assertion, or a gentle alert to the listener",
+        "example": "漢字のテストは明日ですよ。(Just so you know, the kanji test is tomorrow.)"
+      },
+      {
+        "pattern": "〜かな（あ）／〜かしら",
+        "meaning": "I wonder ~ / I hope ~ (expresses personal uncertainty, a wish, or gentle wondering. 〜かしら is mainly feminine.)",
+        "example": "試験に受からないかなあ。(I wonder if I won't pass the exam...)"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which conditional form best expresses a natural, automatic consequence — like 'When you press the button, the light turns on'?",
+        "options": [
+          "〜たら",
+          "〜ば",
+          "〜と",
+          "〜なら"
+        ],
+        "answer": "〜と"
+      },
+      {
+        "question": "Which sentence correctly uses 〜そうだ for hearsay (something you heard from someone else)?",
+        "options": [
+          "田中さんは来週結婚するそうです。",
+          "田中さんは来週結婚しそうです。",
+          "田中さんは来週結婚するようです。",
+          "田中さんは来週結婚するでしょう。"
+        ],
+        "answer": "田中さんは来週結婚するそうです。"
+      },
+      {
+        "question": "What is the key difference between 〜ようだ and 〜そうだ (visual appearance)?",
+        "options": [
+          "〜ようだ is a guess based on evidence or reasoning; 〜そうだ is an immediate visual impression",
+          "〜そうだ is a guess based on evidence; 〜ようだ is a visual impression",
+          "Both are used only for hearsay",
+          "〜ようだ is casual; 〜そうだ is polite"
+        ],
+        "answer": "〜ようだ is a guess based on evidence or reasoning; 〜そうだ is an immediate visual impression"
+      },
+      {
+        "question": "Choose the correct sentence using 〜すぎる:",
+        "options": [
+          "この荷物は重くすぎて、一人で持てません。",
+          "この荷物は重すぎて、一人で持てません。",
+          "この荷物は重いすぎて、一人で持てません。",
+          "この荷物は重さすぎて、一人で持てません。"
+        ],
+        "answer": "この荷物は重すぎて、一人で持てません。"
+      },
+      {
+        "question": "Which sentence correctly uses the passive form (受身形)?",
+        "options": [
+          "先生は私を褒めさせました。",
+          "私は先生を褒めました。",
+          "私は先生に褒められました。",
+          "先生は私を褒めさせられました。"
+        ],
+        "answer": "私は先生に褒められました。"
+      },
+      {
+        "question": "What does 〜させられる (causative-passive) express?",
+        "options": [
+          "Allowing someone to do something willingly",
+          "Being forced or compelled by someone else to do something",
+          "Doing something on behalf of another person",
+          "Politely asking for permission to do something"
+        ],
+        "answer": "Being forced or compelled by someone else to do something"
+      },
+      {
+        "question": "Which sentence correctly uses V（自動詞）ている to describe a resultant state?",
+        "options": [
+          "ドアを閉めています。",
+          "ドアが閉まっています。",
+          "ドアを閉めてあります。",
+          "ドアが閉めてあります。"
+        ],
+        "answer": "ドアが閉まっています。"
+      },
+      {
+        "question": "What does V（他動詞）てある express?",
+        "options": [
+          "An ongoing action happening right now",
+          "A state resulting from an intransitive verb",
+          "A state left from a purposeful transitive action",
+          "An action done without intention"
+        ],
+        "answer": "A state left from a purposeful transitive action"
+      },
+      {
+        "question": "Which sentence uses 〜んです correctly to seek an explanation?",
+        "options": [
+          "どうして遅れたのですたか。",
+          "どうして遅れたんですか。",
+          "どうして遅れるんですかた。",
+          "どうして遅れるのですかね。"
+        ],
+        "answer": "どうして遅れたんですか。"
+      },
+      {
+        "question": "Which is the correct transitive verb (他動詞) paired with the intransitive 消える?",
+        "options": [
+          "消まる",
+          "消す",
+          "消られる",
+          "消こむ"
+        ],
+        "answer": "消す"
+      },
+      {
+        "question": "Which sentence correctly uses V出す?",
+        "options": [
+          "急に雨が降り出した。",
+          "急に雨を降り出した。",
+          "急に雨に降り出した。",
+          "急に雨が降り終わった。"
+        ],
+        "answer": "急に雨が降り出した。"
+      },
+      {
+        "question": "〜させてください is used to:",
+        "options": [
+          "Ask someone else to do something for you",
+          "Politely request permission to do something yourself",
+          "Force another person to do something",
+          "Express that something has been prepared in advance"
+        ],
+        "answer": "Politely request permission to do something yourself"
+      }
+    ],
+    "kanji": [
+      {
+        "character": "地",
+        "onyomi": [
+          "ち",
+          "じ"
+        ],
+        "kunyomi": [],
+        "meaning": "ground / earth / place",
+        "examples": [
+          {
+            "word": "地震",
+            "reading": "じしん",
+            "meaning": "earthquake"
+          },
+          {
+            "word": "地図",
+            "reading": "ちず",
+            "meaning": "map"
+          }
+        ]
+      },
+      {
+        "character": "震",
+        "onyomi": [
+          "しん"
+        ],
+        "kunyomi": [
+          "ふる"
+        ],
+        "meaning": "quake / tremble / shake",
+        "examples": [
+          {
+            "word": "地震",
+            "reading": "じしん",
+            "meaning": "earthquake"
+          },
+          {
+            "word": "震える",
+            "reading": "ふるえる",
+            "meaning": "to tremble / to shiver"
+          }
+        ]
+      },
+      {
+        "character": "押",
+        "onyomi": [
+          "おう"
+        ],
+        "kunyomi": [
+          "お"
+        ],
+        "meaning": "push / press / stamp",
+        "examples": [
+          {
+            "word": "押す",
+            "reading": "おす",
+            "meaning": "to push / to press"
+          },
+          {
+            "word": "押入れ",
+            "reading": "おしいれ",
+            "meaning": "closet / storage cupboard"
+          }
+        ]
+      },
+      {
+        "character": "失",
+        "onyomi": [
+          "しつ"
+        ],
+        "kunyomi": [
+          "うしな"
+        ],
+        "meaning": "lose / miss / fault",
+        "examples": [
+          {
+            "word": "失敗",
+            "reading": "しっぱい",
+            "meaning": "failure / mistake"
+          },
+          {
+            "word": "失礼",
+            "reading": "しつれい",
+            "meaning": "rudeness / excuse me"
+          }
+        ]
+      },
+      {
+        "character": "敗",
+        "onyomi": [
+          "はい"
+        ],
+        "kunyomi": [
+          "やぶ"
+        ],
+        "meaning": "failure / defeat",
+        "examples": [
+          {
+            "word": "失敗",
+            "reading": "しっぱい",
+            "meaning": "failure / mistake"
+          },
+          {
+            "word": "敗北",
+            "reading": "はいぼく",
+            "meaning": "defeat"
+          }
+        ]
+      },
+      {
+        "character": "説",
+        "onyomi": [
+          "せつ"
+        ],
+        "kunyomi": [
+          "と"
+        ],
+        "meaning": "theory / explanation",
+        "examples": [
+          {
+            "word": "説明",
+            "reading": "せつめい",
+            "meaning": "explanation"
+          },
+          {
+            "word": "小説",
+            "reading": "しょうせつ",
+            "meaning": "novel / fiction"
+          }
+        ]
+      },
+      {
+        "character": "患",
+        "onyomi": [
+          "かん"
+        ],
+        "kunyomi": [
+          "わずら"
+        ],
+        "meaning": "afflicted / ill / suffer",
+        "examples": [
+          {
+            "word": "患者",
+            "reading": "かんじゃ",
+            "meaning": "patient (medical)"
+          },
+          {
+            "word": "患う",
+            "reading": "わずらう",
+            "meaning": "to suffer from an illness"
+          }
+        ]
+      },
+      {
+        "character": "増",
+        "onyomi": [
+          "ぞう"
+        ],
+        "kunyomi": [
+          "ふ",
+          "ま"
+        ],
+        "meaning": "increase / grow",
+        "examples": [
+          {
+            "word": "増える",
+            "reading": "ふえる",
+            "meaning": "to increase (intransitive)"
+          },
+          {
+            "word": "増やす",
+            "reading": "ふやす",
+            "meaning": "to increase (transitive)"
+          }
+        ]
+      },
+      {
+        "character": "泣",
+        "onyomi": [
+          "きゅう"
+        ],
+        "kunyomi": [
+          "な"
+        ],
+        "meaning": "cry / weep",
+        "examples": [
+          {
+            "word": "泣く",
+            "reading": "なく",
+            "meaning": "to cry / to weep"
+          },
+          {
+            "word": "泣き出す",
+            "reading": "なきだす",
+            "meaning": "to burst into tears"
+          }
+        ]
+      },
+      {
+        "character": "転",
+        "onyomi": [
+          "てん"
+        ],
+        "kunyomi": [
+          "ころ"
+        ],
+        "meaning": "revolve / transfer / tumble",
+        "examples": [
+          {
+            "word": "転勤",
+            "reading": "てんきん",
+            "meaning": "job transfer"
+          },
+          {
+            "word": "自転車",
+            "reading": "じてんしゃ",
+            "meaning": "bicycle"
+          }
+        ]
+      },
+      {
+        "character": "弁",
+        "onyomi": [
+          "べん"
+        ],
+        "kunyomi": [],
+        "meaning": "speech / dialect / petal / valve",
+        "examples": [
+          {
+            "word": "弁護士",
+            "reading": "べんごし",
+            "meaning": "lawyer"
+          },
+          {
+            "word": "弁当",
+            "reading": "べんとう",
+            "meaning": "lunch box"
+          }
+        ]
+      },
+      {
+        "character": "式",
+        "onyomi": [
+          "しき"
+        ],
+        "kunyomi": [],
+        "meaning": "ceremony / formula / style",
+        "examples": [
+          {
+            "word": "入学式",
+            "reading": "にゅうがくしき",
+            "meaning": "school entrance ceremony"
+          },
+          {
+            "word": "結婚式",
+            "reading": "けっこんしき",
+            "meaning": "wedding ceremony"
+          }
+        ]
+      }
+    ]
+  }

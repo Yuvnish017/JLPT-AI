@@ -1,0 +1,614 @@
+{
+    "title": "Week 12",
+    "jlpt": "N4",
+    "chapter": 6,
+    "vocabulary": [
+      {
+        "word": "選択肢",
+        "reading": "せんたくし",
+        "meaning": "answer choices / options"
+      },
+      {
+        "word": "イラスト",
+        "reading": "イラスト",
+        "meaning": "illustration / image (answer option)"
+      },
+      {
+        "word": "説明",
+        "reading": "せつめい",
+        "meaning": "explanation / description"
+      },
+      {
+        "word": "質問",
+        "reading": "しつもん",
+        "meaning": "question"
+      },
+      {
+        "word": "共通",
+        "reading": "きょうつう",
+        "meaning": "common / shared"
+      },
+      {
+        "word": "違い",
+        "reading": "ちがい",
+        "meaning": "difference"
+      },
+      {
+        "word": "確認",
+        "reading": "かくにん",
+        "meaning": "confirmation / verification"
+      },
+      {
+        "word": "メモを取る",
+        "reading": "メモをとる",
+        "meaning": "to take notes"
+      },
+      {
+        "word": "計算",
+        "reading": "けいさん",
+        "meaning": "calculation / arithmetic"
+      },
+      {
+        "word": "断る",
+        "reading": "ことわる",
+        "meaning": "to refuse / to decline"
+      },
+      {
+        "word": "誘う",
+        "reading": "さそう",
+        "meaning": "to invite / to tempt"
+      },
+      {
+        "word": "頼む",
+        "reading": "たのむ",
+        "meaning": "to request / to ask (a favor)"
+      },
+      {
+        "word": "返事",
+        "reading": "へんじ",
+        "meaning": "reply / response"
+      },
+      {
+        "word": "間接的",
+        "reading": "かんせつてき",
+        "meaning": "indirect"
+      },
+      {
+        "word": "予定",
+        "reading": "よてい",
+        "meaning": "plan / schedule"
+      },
+      {
+        "word": "めざまし時計",
+        "reading": "めざましどけい",
+        "meaning": "alarm clock"
+      },
+      {
+        "word": "ねぼうする",
+        "reading": "ねぼうする",
+        "meaning": "to oversleep"
+      },
+      {
+        "word": "旅行",
+        "reading": "りょこう",
+        "meaning": "travel / trip"
+      },
+      {
+        "word": "会議",
+        "reading": "かいぎ",
+        "meaning": "meeting / conference"
+      },
+      {
+        "word": "資料",
+        "reading": "しりょう",
+        "meaning": "materials / documents"
+      },
+      {
+        "word": "お先に失礼します",
+        "reading": "おさきにしつれいします",
+        "meaning": "Excuse me for leaving first (workplace farewell)"
+      },
+      {
+        "word": "どうぞお入りください",
+        "reading": "どうぞおはいりください",
+        "meaning": "Please come in / Please enter"
+      },
+      {
+        "word": "お大事に",
+        "reading": "おだいじに",
+        "meaning": "Take care / Get well soon"
+      },
+      {
+        "word": "おじゃまします",
+        "reading": "おじゃまします",
+        "meaning": "Excuse me for intruding (entering someone's home)"
+      },
+      {
+        "word": "温泉",
+        "reading": "おんせん",
+        "meaning": "hot spring"
+      },
+      {
+        "word": "クリーニング屋",
+        "reading": "クリーニングや",
+        "meaning": "dry cleaner's"
+      },
+      {
+        "word": "語学学校",
+        "reading": "ごがくがっこう",
+        "meaning": "language school"
+      },
+      {
+        "word": "アルバイト",
+        "reading": "アルバイト",
+        "meaning": "part-time job"
+      },
+      {
+        "word": "教科書",
+        "reading": "きょうかしょ",
+        "meaning": "textbook"
+      },
+      {
+        "word": "曜日",
+        "reading": "ようび",
+        "meaning": "day of the week"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "会話らしい表現（Conversational question intonation）",
+        "meaning": "In casual spoken Japanese, questions are formed by raising the pitch at the end rather than adding か. In writing, a question mark ? replaces か. This is a key listening feature — you identify a question by intonation alone.",
+        "example": "おいしい？↗ / お昼ごはん、食べた？↗ (these are questions spoken with rising intonation, no か)"
+      },
+      {
+        "pattern": "断りや言いにくいことを伝える（Soft refusals with elongated endings）",
+        "meaning": "When declining an invitation or finding something hard to say, Japanese speakers often elongate the final syllable rather than refusing directly. Listen for 'ちょっと…' or 'あのー…' as signals of indirect refusal.",
+        "example": "A「明日、映画に行きませんか。」B「明日は、ちょっとー…。」(B is indirectly declining)"
+      },
+      {
+        "pattern": "〜じゃない？（意見を言う）",
+        "meaning": "Used when giving an opinion in casual speech, equivalent to 〜と思う. Rising intonation turns it into a soft suggestion or rhetorical statement.",
+        "example": "それ、いいんじゃない？ (= いいと思う) / 田中さん、パーティーには来ないんじゃない？ (= 来ないと思う)"
+      },
+      {
+        "pattern": "〜ないかな（あ）（希望を表す）",
+        "meaning": "Expresses a wish or desire that something will happen; equivalent to 〜てほしい. Used in monologue or as a soft expression of longing.",
+        "example": "クリスマス、早く来ないかな。(= 来てほしい) / 明日、晴れないかなあ。(= 晴れてほしい)"
+      },
+      {
+        "pattern": "気持ちを表す感嘆詞（Interjections expressing feelings）",
+        "meaning": "Several interjections signal attitude and are critical for understanding the speaker's reaction: えー (used before speaking / mild surprise); えーっと / えーと (thinking, hesitating); えーっ！/ うそー！(strong surprise / disbelief); へえー (impressed / interested); すごーい！(amazed / admiring).",
+        "example": "A「会社、やめたんだ。」B「えーっ！」/ A「大学に受かったよ。」B「すごーい！」"
+      },
+      {
+        "pattern": "選択肢のタイプを見極める（Identifying answer choice types）",
+        "meaning": "JLPT listening answer choices come in two forms: ① Illustrations (イラスト) — look for differences in color, number, or additional items; identify the shared element first, then focus on what differs. ② Text choices — find the common element across all options, then determine the key difference (number, place, reason, etc.).",
+        "example": "Text options: 「3かいのAきょうしつ / 3かいのBきょうしつ / 5かいのAきょうしつ / 5かいのBきょうしつ」→ Common: floor and room; key difference: which combination."
+      },
+      {
+        "pattern": "時間や日付に注意する（Times, dates, and numbers）",
+        "meaning": "Times use 半 (はん) for 30 minutes past. Date readings are irregular and must be memorized (e.g. 1日=ついたち, 2日=ふつか, 14日=じゅうよっか, 20日=はつか, 24日=にじゅうよっか). When numbers appear in options or dialogue, take notes — simple math may be needed.",
+        "example": "9時半 = 9:30 / 20日 = はつか / 14日 = じゅうよっか"
+      },
+      {
+        "pattern": "課題理解（Task Comprehension）問題の流れ",
+        "meaning": "Task comprehension questions (どれですか section) follow this order: ① Explanation + question heard → ② Read/look at options → ③ Conversation heard → ④ Question repeated → ⑤ Choose answer. Preview options before the conversation begins to know what to listen for.",
+        "example": "Options before listening: 「びょういんに 行く / びょういんに 電話する / くすりを 買ってくる / あさごはんを 食べる」→ clue: someone is unwell."
+      },
+      {
+        "pattern": "ポイント理解（Key Point Comprehension）問題の流れ",
+        "meaning": "Key point questions (どうしてですか section) follow this order: ① Explanation + question heard → ② Pause (read options) → ③ Conversation heard → ④ Question repeated → ⑤ Choose answer. Nothing is said after the first explanation, so use the pause to read all options and predict the topic.",
+        "example": "Options: 「ねつが あったから / りょこうに 行っていたから / めざまし時計を セットしなかったから / あさ、おきられなかったから」→ all about reasons for missing class."
+      },
+      {
+        "pattern": "発話表現（Utterance Expression）問題の流れ",
+        "meaning": "Utterance expression questions (何と言いますか section) show you an illustration of a situation and ask what the marked person (→) would say. Three spoken options are given; choose the most natural one. Pay attention to social context (who is talking to whom, what the situation calls for).",
+        "example": "教科書を忘れた → 「教科書、見せてもらえませんか。」(most appropriate polite request)"
+      },
+      {
+        "pattern": "あいさつ表現（Greetings and set phrases）",
+        "meaning": "Situational set phrases are tested in utterance expression questions. Key phrases: お先に失礼します (leaving work first); どうぞお入りください (please come in); すみません (calling someone's attention); お大事に (get well soon / take care); 〜してくださいませんか / 〜してくれませんか (requests); 〜しませんか / （一緒に）〜しましょうか (invitations).",
+        "example": "会社で先に帰るとき → 「お先に失礼します。」/ 病気の人に対して → 「お大事に。」"
+      },
+      {
+        "pattern": "即時応答（Quick Response）問題の流れ",
+        "meaning": "Quick response questions (どんな返事をしますか section) play a short sentence and three possible replies. Choose the most appropriate one. Refusals are often indirect (「あー、その日は、ちょっと…」). Answers to 'where are you going?' may be activities, not places (「食事に行きます」).",
+        "example": "「このいすを、かたづけておいてくれませんか。」→ 「はい、わかりました。」(most natural acceptance)"
+      },
+      {
+        "pattern": "家族の言い方（In-group vs out-group family terms）",
+        "meaning": "Japanese uses different words for one's own family vs someone else's family: own (自分の)=父・母・兄・姉・弟・妹・主人（夫）・妻; other's (ほかの人の)=お父さん・お母さん・おにいさん・おねえさん・おとうとさん・いもうとさん・ご主人・奥さん.",
+        "example": "「私の兄は…」(own brother) vs 「田中さんのおにいさんは…」(someone else's brother)"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "In casual spoken Japanese, how do speakers form questions without using か?",
+        "options": [
+          "They add の at the end with falling intonation",
+          "They raise their pitch at the end of the sentence",
+          "They use ですか but drop the か sound",
+          "They always add a question mark in speech"
+        ],
+        "answer": "They raise their pitch at the end of the sentence"
+      },
+      {
+        "question": "A says 「来週の土曜日、映画に行きませんか。」B replies 「あー、その日は、ちょっと…。」What is B doing?",
+        "options": [
+          "Accepting the invitation enthusiastically",
+          "Asking for more details about the plan",
+          "Indirectly declining the invitation",
+          "Suggesting a different day"
+        ],
+        "answer": "Indirectly declining the invitation"
+      },
+      {
+        "question": "What does 「早く春にならないかなあ。」mean?",
+        "options": [
+          "I wonder if spring has already started.",
+          "I wish spring would come soon.",
+          "It seems like it will become spring soon.",
+          "Spring should not come early."
+        ],
+        "answer": "I wish spring would come soon."
+      },
+      {
+        "question": "Someone exclaims 「うそー！」after hearing unexpected news. What feeling does this express?",
+        "options": [
+          "Strong agreement",
+          "Admiration and praise",
+          "Disbelief or strong surprise",
+          "Hesitation before speaking"
+        ],
+        "answer": "Disbelief or strong surprise"
+      },
+      {
+        "question": "When image-based answer choices all show the same object but with different details, what should you identify first?",
+        "options": [
+          "The least common element across all images",
+          "The element that appears in all options (共通のもの), then focus on the differences",
+          "The color of the background in each image",
+          "The largest object in each image"
+        ],
+        "answer": "The element that appears in all options (共通のもの), then focus on the differences"
+      },
+      {
+        "question": "How do you read 20日 in Japanese?",
+        "options": [
+          "にじゅうにち",
+          "はつか",
+          "にじゅっか",
+          "ふつか"
+        ],
+        "answer": "はつか"
+      },
+      {
+        "question": "In a Task Comprehension (課題理解) listening question, when should you read/look at the answer options?",
+        "options": [
+          "Only after hearing the conversation",
+          "Before the conversation, during the pause after hearing the explanation and question",
+          "While writing down everything you hear",
+          "After the question is repeated the second time"
+        ],
+        "answer": "Before the conversation, during the pause after hearing the explanation and question"
+      },
+      {
+        "question": "In a Key Point Comprehension (ポイント理解) question, what is important to note about the timing?",
+        "options": [
+          "The explanation and question are repeated twice before the conversation",
+          "Nothing is said after the initial explanation and question, so use the pause to read options",
+          "The conversation plays first, then the question",
+          "Answer choices are read aloud before the conversation"
+        ],
+        "answer": "Nothing is said after the initial explanation and question, so use the pause to read options"
+      },
+      {
+        "question": "In an Utterance Expression (発話表現) question, a student left their textbook at home. Which is the most appropriate thing to say to a classmate?",
+        "options": [
+          "教科書、見せましょうか。",
+          "教科書、見せてもらえませんか。",
+          "教科書、見せてあげましょうか。",
+          "教科書、見せてやりましょうか。"
+        ],
+        "answer": "教科書、見せてもらえませんか。"
+      },
+      {
+        "question": "Which phrase would you say when leaving the office before your colleagues?",
+        "options": [
+          "どうぞお入りください。",
+          "おじゃまします。",
+          "お先に失礼します。",
+          "お大事に。"
+        ],
+        "answer": "お先に失礼します。"
+      },
+      {
+        "question": "Someone says 「このいすを、かたづけておいてくれませんか。」Which is the most natural reply?",
+        "options": [
+          "はい、よかったです。",
+          "はい、おねがいします。",
+          "はい、わかりました。",
+          "はい、いただきます。"
+        ],
+        "answer": "はい、わかりました。"
+      },
+      {
+        "question": "How do you refer to someone else's older sister in Japanese?",
+        "options": [
+          "姉",
+          "おねえさん",
+          "あね",
+          "いもうとさん"
+        ],
+        "answer": "おねえさん"
+      }
+    ],
+    "kanji": [
+      {
+        "character": "選",
+        "onyomi": [
+          "せん"
+        ],
+        "kunyomi": [
+          "えら"
+        ],
+        "meaning": "select / choose",
+        "examples": [
+          {
+            "word": "選択肢",
+            "reading": "せんたくし",
+            "meaning": "answer choices / options"
+          },
+          {
+            "word": "選ぶ",
+            "reading": "えらぶ",
+            "meaning": "to choose / select"
+          }
+        ]
+      },
+      {
+        "character": "択",
+        "onyomi": [
+          "たく"
+        ],
+        "kunyomi": [],
+        "meaning": "choose / select",
+        "examples": [
+          {
+            "word": "選択",
+            "reading": "せんたく",
+            "meaning": "selection / choice"
+          },
+          {
+            "word": "選択肢",
+            "reading": "せんたくし",
+            "meaning": "answer options"
+          }
+        ]
+      },
+      {
+        "character": "確",
+        "onyomi": [
+          "かく"
+        ],
+        "kunyomi": [
+          "たし"
+        ],
+        "meaning": "certain / confirm / firm",
+        "examples": [
+          {
+            "word": "確認",
+            "reading": "かくにん",
+            "meaning": "confirmation / verification"
+          },
+          {
+            "word": "確かに",
+            "reading": "たしかに",
+            "meaning": "certainly / indeed"
+          }
+        ]
+      },
+      {
+        "character": "断",
+        "onyomi": [
+          "だん"
+        ],
+        "kunyomi": [
+          "ことわ",
+          "た"
+        ],
+        "meaning": "refuse / cut off / decide",
+        "examples": [
+          {
+            "word": "断る",
+            "reading": "ことわる",
+            "meaning": "to refuse / decline"
+          },
+          {
+            "word": "判断",
+            "reading": "はんだん",
+            "meaning": "judgment / decision"
+          }
+        ]
+      },
+      {
+        "character": "誘",
+        "onyomi": [
+          "ゆう"
+        ],
+        "kunyomi": [
+          "さそ"
+        ],
+        "meaning": "invite / tempt / lure",
+        "examples": [
+          {
+            "word": "誘う",
+            "reading": "さそう",
+            "meaning": "to invite / to tempt"
+          },
+          {
+            "word": "誘惑",
+            "reading": "ゆうわく",
+            "meaning": "temptation"
+          }
+        ]
+      },
+      {
+        "character": "頼",
+        "onyomi": [
+          "らい"
+        ],
+        "kunyomi": [
+          "たの",
+          "たよ"
+        ],
+        "meaning": "request / rely / trust",
+        "examples": [
+          {
+            "word": "頼む",
+            "reading": "たのむ",
+            "meaning": "to request / ask a favor"
+          },
+          {
+            "word": "信頼",
+            "reading": "しんらい",
+            "meaning": "trust / reliance"
+          }
+        ]
+      },
+      {
+        "character": "予",
+        "onyomi": [
+          "よ"
+        ],
+        "kunyomi": [
+          "あらかじ"
+        ],
+        "meaning": "beforehand / previously / plan",
+        "examples": [
+          {
+            "word": "予定",
+            "reading": "よてい",
+            "meaning": "plan / schedule"
+          },
+          {
+            "word": "予約",
+            "reading": "よやく",
+            "meaning": "reservation / booking"
+          }
+        ]
+      },
+      {
+        "character": "計",
+        "onyomi": [
+          "けい"
+        ],
+        "kunyomi": [
+          "はか"
+        ],
+        "meaning": "measure / plan / calculate",
+        "examples": [
+          {
+            "word": "計算",
+            "reading": "けいさん",
+            "meaning": "calculation / arithmetic"
+          },
+          {
+            "word": "時計",
+            "reading": "とけい",
+            "meaning": "clock / watch"
+          }
+        ]
+      },
+      {
+        "character": "旅",
+        "onyomi": [
+          "りょ"
+        ],
+        "kunyomi": [
+          "たび"
+        ],
+        "meaning": "travel / journey",
+        "examples": [
+          {
+            "word": "旅行",
+            "reading": "りょこう",
+            "meaning": "travel / trip"
+          },
+          {
+            "word": "旅館",
+            "reading": "りょかん",
+            "meaning": "Japanese inn"
+          }
+        ]
+      },
+      {
+        "character": "資",
+        "onyomi": [
+          "し"
+        ],
+        "kunyomi": [],
+        "meaning": "resources / materials / funds",
+        "examples": [
+          {
+            "word": "資料",
+            "reading": "しりょう",
+            "meaning": "materials / documents"
+          },
+          {
+            "word": "資金",
+            "reading": "しきん",
+            "meaning": "funds / capital"
+          }
+        ]
+      },
+      {
+        "character": "通",
+        "onyomi": [
+          "つう",
+          "つ"
+        ],
+        "kunyomi": [
+          "とお",
+          "かよ"
+        ],
+        "meaning": "pass through / commute / common",
+        "examples": [
+          {
+            "word": "共通",
+            "reading": "きょうつう",
+            "meaning": "common / shared"
+          },
+          {
+            "word": "通う",
+            "reading": "かよう",
+            "meaning": "to commute / attend regularly"
+          }
+        ]
+      },
+      {
+        "character": "温",
+        "onyomi": [
+          "おん"
+        ],
+        "kunyomi": [
+          "あたた"
+        ],
+        "meaning": "warm / temperature",
+        "examples": [
+          {
+            "word": "温泉",
+            "reading": "おんせん",
+            "meaning": "hot spring"
+          },
+          {
+            "word": "温かい",
+            "reading": "あたたかい",
+            "meaning": "warm"
+          }
+        ]
+      }
+    ]
+  }
+  
+  

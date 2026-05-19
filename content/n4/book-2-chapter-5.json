@@ -1,0 +1,592 @@
+{
+    "title": "Let's Practice Reading, Week 11",
+    "jlpt": "N4",
+    "chapter": 5,
+    "vocabulary": [
+      {
+        "word": "貸す",
+        "reading": "かす",
+        "meaning": "to lend"
+      },
+      {
+        "word": "返す",
+        "reading": "かえす",
+        "meaning": "to return (something)"
+      },
+      {
+        "word": "借りる",
+        "reading": "かりる",
+        "meaning": "to borrow"
+      },
+      {
+        "word": "受け取る",
+        "reading": "うけとる",
+        "meaning": "to receive / pick up"
+      },
+      {
+        "word": "ボランティア",
+        "reading": "ボランティア",
+        "meaning": "volunteer (activity)"
+      },
+      {
+        "word": "植木",
+        "reading": "うえき",
+        "meaning": "garden plant / potted plant"
+      },
+      {
+        "word": "水やり",
+        "reading": "みずやり",
+        "meaning": "watering (plants)"
+      },
+      {
+        "word": "信号",
+        "reading": "しんごう",
+        "meaning": "traffic signal / traffic light"
+      },
+      {
+        "word": "安全",
+        "reading": "あんぜん",
+        "meaning": "safety / safe"
+      },
+      {
+        "word": "渡る",
+        "reading": "わたる",
+        "meaning": "to cross (a road / bridge)"
+      },
+      {
+        "word": "アイロンをかける",
+        "reading": "アイロンをかける",
+        "meaning": "to iron (clothing)"
+      },
+      {
+        "word": "禁止",
+        "reading": "きんし",
+        "meaning": "prohibition / ban"
+      },
+      {
+        "word": "守る",
+        "reading": "まもる",
+        "meaning": "to protect / to follow (rules)"
+      },
+      {
+        "word": "水着",
+        "reading": "みずぎ",
+        "meaning": "swimsuit / swimwear"
+      },
+      {
+        "word": "必ず",
+        "reading": "かならず",
+        "meaning": "without fail / necessarily"
+      },
+      {
+        "word": "ロボット",
+        "reading": "ロボット",
+        "meaning": "robot"
+      },
+      {
+        "word": "集める",
+        "reading": "あつめる",
+        "meaning": "to collect / gather"
+      },
+      {
+        "word": "吸う",
+        "reading": "すう",
+        "meaning": "to inhale / to vacuum"
+      },
+      {
+        "word": "角",
+        "reading": "かど",
+        "meaning": "corner / street corner"
+      },
+      {
+        "word": "連絡先",
+        "reading": "れんらくさき",
+        "meaning": "contact information"
+      },
+      {
+        "word": "お礼を言う",
+        "reading": "おれいをいう",
+        "meaning": "to express gratitude"
+      },
+      {
+        "word": "倒れる",
+        "reading": "たおれる",
+        "meaning": "to collapse / faint"
+      },
+      {
+        "word": "助ける",
+        "reading": "たすける",
+        "meaning": "to help / rescue"
+      },
+      {
+        "word": "会員",
+        "reading": "かいいん",
+        "meaning": "member (of a club, etc.)"
+      },
+      {
+        "word": "受付",
+        "reading": "うけつけ",
+        "meaning": "reception desk / front desk"
+      },
+      {
+        "word": "アドバイス",
+        "reading": "アドバイス",
+        "meaning": "advice"
+      },
+      {
+        "word": "ゴミ",
+        "reading": "ゴミ",
+        "meaning": "garbage / trash"
+      },
+      {
+        "word": "チケット",
+        "reading": "チケット",
+        "meaning": "ticket"
+      },
+      {
+        "word": "広告",
+        "reading": "こうこく",
+        "meaning": "advertisement"
+      },
+      {
+        "word": "お知らせ",
+        "reading": "おしらせ",
+        "meaning": "notice / announcement"
+      }
+    ],
+    "grammar": [
+      {
+        "pattern": "重要なことばを見つける（Key vocabulary strategy）",
+        "meaning": "In emails and memos, focus on action words related to giving and receiving (貸す, 返す, 借りる, あげる, もらう, くれる) and request expressions (〜てもらえませんか, 〜ていただけませんか). These reveal the writer's purpose.",
+        "example": "地図をかいてもらえませんか。 (Could you draw me a map?) — the key request phrase in an email."
+      },
+      {
+        "pattern": "似ていることば（Similar-looking words）",
+        "meaning": "Watch out for pairs that look similar but differ in direction or degree: 〜までに (by ~) vs 〜まで (until ~); あげる (give to others) vs もらう (receive); くれる (give to me). Context determines which is correct.",
+        "example": "9時までに来てください。(Please come by 9 o'clock.) vs 9時まで待ちます。(I will wait until 9 o'clock.)"
+      },
+      {
+        "pattern": "〜ではないもの問題（'Which is NOT ~' questions）",
+        "meaning": "Explanatory texts often include questions asking which option is NOT true. Read each option carefully against the text. Underlined options in the question signal a negative format — be extra cautious.",
+        "example": "田中さんの仕事ではないものはどれですか。(Which of the following is NOT Tanaka-san's job?)"
+      },
+      {
+        "pattern": "注意や禁止を表す表現（Warnings and prohibitions）",
+        "meaning": "Signs and notices use specific patterns: 〜ないでください (please don't), 〜てはいけない (must not), 〜なければならない (must), 〜てもいい (may). Recognizing these patterns helps determine what is allowed or forbidden.",
+        "example": "プールに入る前にシャワーをあびること。(You must take a shower before entering the pool.)"
+      },
+      {
+        "pattern": "〜こと（rules and instructions）",
+        "meaning": "In notices and rules, 〜こと at the end of a clause acts as a directive, meaning 'you must do ~' or 'make sure to ~'. It is equivalent to 〜てください in official contexts.",
+        "example": "水着を着て、ぼうしをかぶること。(You must wear a swimsuit and hat.)"
+      },
+      {
+        "pattern": "質問に答えながら読み進める（Read while answering questions）",
+        "meaning": "For longer passages like essays and diary entries, each paragraph usually corresponds to one question. Read the first paragraph, answer the first question, then continue. This prevents losing track of which part answers which question.",
+        "example": "①の質問の答えはたいていこの中にあります。(The answer to question ① is usually found in this section.)"
+      },
+      {
+        "pattern": "接続詞と指示語に注意する（Conjunctions and demonstratives）",
+        "meaning": "Pay special attention to conjunctions (ところが, しかし, でも, それで, だから) and demonstrative pronouns (それ, その, そこ). Demonstratives almost always refer to something mentioned in the previous sentence.",
+        "example": "駅前に新しいレストランができました。それは去年の夏でした。(A new restaurant opened near the station. That was last summer.)"
+      },
+      {
+        "pattern": "必要な情報をさがす（Scanning for necessary information）",
+        "meaning": "For advertisements and notices, read the question first, then scan the text for only the relevant section. Don't read everything slowly. Watch for simple calculations (prices, times, quantities) that may be required to answer.",
+        "example": "写真なし¥2,000 ＋ おやつ¥500 → 合計¥2,500 (No photo ¥2,000 + snack ¥500 → total ¥2,500)"
+      },
+      {
+        "pattern": "内容と合うものを選ぶ（Choosing statements that match the content）",
+        "meaning": "For comprehension questions asking you to choose the statement that matches, verify every part of each option — subject, object, time, direction, and reason — against the passage before selecting.",
+        "example": "「リンさんはトムさんに本を貸しました」— check: who lent to whom, and what."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Tom sends Lin an email saying he cannot return her book tonight because he is sick, and asks his younger brother John to deliver it instead. What will Lin do the next morning?",
+        "options": [
+          "She will go to Tom's house to pick up the book.",
+          "She will wait at home until 11 AM for John to come.",
+          "She will send John a map to her house.",
+          "She will lend Tom a new book."
+        ],
+        "answer": "She will wait at home until 11 AM for John to come."
+      },
+      {
+        "question": "Ali visits neighbor Mr. Tamura (age 87) twice a week to help. Which of the following does Ali NOT do?",
+        "options": [
+          "Clean the kitchen",
+          "Help Mr. Tamura into the bath",
+          "Go shopping together",
+          "Have conversations to practice Japanese"
+        ],
+        "answer": "Help Mr. Tamura into the bath"
+      },
+      {
+        "question": "According to the pool notice, which statement is correct?",
+        "options": [
+          "The pool is closed on Sundays.",
+          "On weekdays, the pool opens at 10:00.",
+          "You must take a shower before entering the pool.",
+          "You are allowed to wear a T-shirt in the pool."
+        ],
+        "answer": "You must take a shower before entering the pool."
+      },
+      {
+        "question": "In the passage about the robot vacuum cleaner, why was the writer surprised?",
+        "options": [
+          "The robot vacuum was very heavy.",
+          "The robot vacuum did not fall down the stairs.",
+          "The robot vacuum could not clean under the sofa.",
+          "The robot vacuum was shaped like a UFO."
+        ],
+        "answer": "The robot vacuum did not fall down the stairs."
+      },
+      {
+        "question": "The woman on the train fainted. What happened after she got off at the next station?",
+        "options": [
+          "A station employee immediately came to help her.",
+          "She called a taxi by herself.",
+          "Two men and a woman who got off with her sat her on a bench and called a station employee.",
+          "She waited alone on the platform until she felt better."
+        ],
+        "answer": "Two men and a woman who got off with her sat her on a bench and called a station employee."
+      },
+      {
+        "question": "In the passage about the woman who fainted on the train, what does 「そのとき」refer to?",
+        "options": [
+          "When she collapsed on the train",
+          "When the station employee arrived",
+          "When she parted ways with the three strangers who helped her",
+          "When she met the three strangers on the train"
+        ],
+        "answer": "When she parted ways with the three strangers who helped her"
+      },
+      {
+        "question": "According to the elephant show notice, how much does a person pay if they want to ride the elephant but do NOT want a photo?",
+        "options": [
+          "¥500",
+          "¥2,000",
+          "¥2,500",
+          "¥3,000"
+        ],
+        "answer": "¥2,500"
+      },
+      {
+        "question": "A person wants to ride the elephant in the morning on a weekday. What must they do?",
+        "options": [
+          "Buy a ticket at the show plaza by 10:30.",
+          "Buy a ticket at the zoo entrance by 10:30.",
+          "Arrive at the show plaza by 11:00.",
+          "Buy a ticket at the zoo entrance at least 30 minutes before the 11:00 show."
+        ],
+        "answer": "Buy a ticket at the zoo entrance at least 30 minutes before the 11:00 show."
+      },
+      {
+        "question": "In Sally's email to Nakamura-sensei, what is her main point?",
+        "options": [
+          "She is going to Kyoto on Sunday with friends from America.",
+          "She will return from Kyoto on Thursday morning.",
+          "She is unsure whether she can attend Thursday's class.",
+          "She wants to attend Friday's class instead of Thursday's."
+        ],
+        "answer": "She wants to attend Friday's class instead of Thursday's."
+      },
+      {
+        "question": "According to the apartment notice (おねがい), which statement is correct?",
+        "options": [
+          "Bicycles must be parked outside the white lines.",
+          "Burnable garbage can be put out on Thursday evenings.",
+          "Non-burnable garbage goes out on Wednesdays.",
+          "Pets must be carried (not walked) until you leave the building."
+        ],
+        "answer": "Pets must be carried (not walked) until you leave the building."
+      },
+      {
+        "question": "The sports club worker says the most enjoyable part of her job is:",
+        "options": [
+          "Greeting members with a cheerful voice",
+          "Advising members on how to use equipment",
+          "Having various conversations with members",
+          "Having members teach her Japanese"
+        ],
+        "answer": "Having various conversations with members"
+      },
+      {
+        "question": "Which reading strategy is recommended when tackling a long essay with multiple paragraphs?",
+        "options": [
+          "Read the entire passage first, then answer all questions at once.",
+          "Read the questions first, then read the whole passage once through.",
+          "Answer each question after reading the paragraph it corresponds to.",
+          "Skip the first paragraph and start from the second."
+        ],
+        "answer": "Answer each question after reading the paragraph it corresponds to."
+      }
+    ],
+    "kanji": [
+      {
+        "character": "貸",
+        "onyomi": [
+          "たい"
+        ],
+        "kunyomi": [
+          "か"
+        ],
+        "meaning": "lend / loan",
+        "examples": [
+          {
+            "word": "貸す",
+            "reading": "かす",
+            "meaning": "to lend"
+          },
+          {
+            "word": "貸し出し",
+            "reading": "かしだし",
+            "meaning": "lending / checkout"
+          }
+        ]
+      },
+      {
+        "character": "借",
+        "onyomi": [
+          "しゃく"
+        ],
+        "kunyomi": [
+          "か"
+        ],
+        "meaning": "borrow / rent",
+        "examples": [
+          {
+            "word": "借りる",
+            "reading": "かりる",
+            "meaning": "to borrow"
+          },
+          {
+            "word": "借金",
+            "reading": "しゃっきん",
+            "meaning": "debt"
+          }
+        ]
+      },
+      {
+        "character": "渡",
+        "onyomi": [
+          "と"
+        ],
+        "kunyomi": [
+          "わた"
+        ],
+        "meaning": "cross / hand over",
+        "examples": [
+          {
+            "word": "渡る",
+            "reading": "わたる",
+            "meaning": "to cross (road, bridge)"
+          },
+          {
+            "word": "渡す",
+            "reading": "わたす",
+            "meaning": "to hand over / give"
+          }
+        ]
+      },
+      {
+        "character": "禁",
+        "onyomi": [
+          "きん"
+        ],
+        "kunyomi": [],
+        "meaning": "prohibit / ban",
+        "examples": [
+          {
+            "word": "禁止",
+            "reading": "きんし",
+            "meaning": "prohibition / ban"
+          },
+          {
+            "word": "禁煙",
+            "reading": "きんえん",
+            "meaning": "no smoking"
+          }
+        ]
+      },
+      {
+        "character": "守",
+        "onyomi": [
+          "しゅ",
+          "す"
+        ],
+        "kunyomi": [
+          "まも",
+          "もり"
+        ],
+        "meaning": "protect / obey / guard",
+        "examples": [
+          {
+            "word": "守る",
+            "reading": "まもる",
+            "meaning": "to protect / to follow rules"
+          },
+          {
+            "word": "留守",
+            "reading": "るす",
+            "meaning": "absence from home"
+          }
+        ]
+      },
+      {
+        "character": "号",
+        "onyomi": [
+          "ごう"
+        ],
+        "kunyomi": [],
+        "meaning": "number / signal / name",
+        "examples": [
+          {
+            "word": "信号",
+            "reading": "しんごう",
+            "meaning": "traffic signal"
+          },
+          {
+            "word": "番号",
+            "reading": "ばんごう",
+            "meaning": "number / ID number"
+          }
+        ]
+      },
+      {
+        "character": "全",
+        "onyomi": [
+          "ぜん"
+        ],
+        "kunyomi": [
+          "まった",
+          "すべ"
+        ],
+        "meaning": "complete / all / safe",
+        "examples": [
+          {
+            "word": "安全",
+            "reading": "あんぜん",
+            "meaning": "safety / safe"
+          },
+          {
+            "word": "全部",
+            "reading": "ぜんぶ",
+            "meaning": "all / everything"
+          }
+        ]
+      },
+      {
+        "character": "集",
+        "onyomi": [
+          "しゅう"
+        ],
+        "kunyomi": [
+          "あつ"
+        ],
+        "meaning": "gather / collect / assemble",
+        "examples": [
+          {
+            "word": "集める",
+            "reading": "あつめる",
+            "meaning": "to collect / gather"
+          },
+          {
+            "word": "集合",
+            "reading": "しゅうごう",
+            "meaning": "gathering / assembly"
+          }
+        ]
+      },
+      {
+        "character": "受",
+        "onyomi": [
+          "じゅ"
+        ],
+        "kunyomi": [
+          "う"
+        ],
+        "meaning": "receive / accept / undergo",
+        "examples": [
+          {
+            "word": "受け取る",
+            "reading": "うけとる",
+            "meaning": "to receive / pick up"
+          },
+          {
+            "word": "受付",
+            "reading": "うけつけ",
+            "meaning": "reception / front desk"
+          }
+        ]
+      },
+      {
+        "character": "倒",
+        "onyomi": [
+          "とう"
+        ],
+        "kunyomi": [
+          "たお"
+        ],
+        "meaning": "collapse / fall / overthrow",
+        "examples": [
+          {
+            "word": "倒れる",
+            "reading": "たおれる",
+            "meaning": "to collapse / faint"
+          },
+          {
+            "word": "倒す",
+            "reading": "たおす",
+            "meaning": "to knock down / defeat"
+          }
+        ]
+      },
+      {
+        "character": "告",
+        "onyomi": [
+          "こく"
+        ],
+        "kunyomi": [
+          "つ"
+        ],
+        "meaning": "announce / inform / tell",
+        "examples": [
+          {
+            "word": "広告",
+            "reading": "こうこく",
+            "meaning": "advertisement"
+          },
+          {
+            "word": "報告",
+            "reading": "ほうこく",
+            "meaning": "report / notification"
+          }
+        ]
+      },
+      {
+        "character": "助",
+        "onyomi": [
+          "じょ"
+        ],
+        "kunyomi": [
+          "たす",
+          "すけ"
+        ],
+        "meaning": "help / rescue / assist",
+        "examples": [
+          {
+            "word": "助ける",
+            "reading": "たすける",
+            "meaning": "to help / rescue"
+          },
+          {
+            "word": "助手",
+            "reading": "じょしゅ",
+            "meaning": "assistant"
+          }
+        ]
+      }
+    ]
+  }
