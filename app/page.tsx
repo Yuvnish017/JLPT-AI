@@ -56,6 +56,12 @@ export default function Home() {
           </div>
           <div className="flex flex-wrap items-center gap-3">
             <ProgressHud compact />
+            <Link
+              href="/review"
+              className="rounded-lg border border-violet-400/30 bg-violet-500/10 px-3 py-1 text-[10px] font-bold tracking-widest text-violet-200 uppercase transition hover:border-violet-400/50"
+            >
+              Review
+            </Link>
             <span className="text-xs tracking-[0.14em] text-slate-300/80 uppercase">
               Anime Inspired Learning
             </span>

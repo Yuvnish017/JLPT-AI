@@ -4,6 +4,7 @@ import { motion } from "framer-motion";
 import { useMemo } from "react";
 import BadgeGallery from "@/components/progress/BadgeGallery";
 import ProgressHud from "@/components/progress/ProgressHud";
+import ReviewDashboardWidget from "@/components/review/ReviewDashboardWidget";
 import { chapterKey } from "@/lib/progress";
 import { useProgress } from "@/hooks/useProgress";
 
@@ -56,7 +57,9 @@ export default function HomeProgressDashboard() {
 
       <ProgressHud className="mb-5" />
 
-      <div className="space-y-2">
+      <ReviewDashboardWidget />
+
+      <div className="mt-5 space-y-2">
         <p className="text-[10px] font-bold tracking-[0.2em] text-slate-500 uppercase">
           Recent activity
         </p>

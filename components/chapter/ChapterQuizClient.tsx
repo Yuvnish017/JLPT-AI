@@ -8,6 +8,7 @@ import ProgressHud from "@/components/progress/ProgressHud";
 import { BADGE_BY_ID, getBadgeTierStyles } from "@/lib/progress/badges";
 import { XP_PER_CORRECT, PERFECT_BONUS_XP } from "@/lib/progress/constants";
 import { useProgress } from "@/hooks/useProgress";
+import { useReview } from "@/hooks/useReview";
 import { chapterIncludes, includedArray } from "@/lib/chapterIncludes";
 import type { Lesson, QuizQuestion } from "@/types/lesson";
 
@@ -71,6 +72,7 @@ export default function ChapterQuizClient({
 }: ChapterQuizClientProps) {
   const reduceMotion = useReducedMotion();
   const { saveQuizResult, stats } = useProgress();
+  const { registerMistake } = useReview();
   const quiz: QuizQuestion[] = includedArray(rawLesson, "quiz", lesson, (l) => l.quiz);
   const total = quiz.length;
 
@@ -129,6 +131,8 @@ export default function ChapterQuizClient({
         setScore((s) => s + 1);
         setTotalXp((x) => x + XP_PER_CORRECT);
         showXpPopup(XP_PER_CORRECT, "Nice!");
+      } else {
+        registerMistake(level, slug, lesson, question.question, question.answer);
       }
 
       timerRef.current = window.setTimeout(() => {
@@ -139,7 +143,7 @@ export default function ChapterQuizClient({
         advance();
       }, REVEAL_MS);
     },
-    [advance, finished, index, question, revealed, showXpPopup, score, total],
+    [advance, finished, index, lesson, level, question, registerMistake, revealed, showXpPopup, score, slug, total],
   );
 
   useEffect(() => () => clearTimer(), [clearTimer]);
