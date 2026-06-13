@@ -3,18 +3,23 @@
 import { AnimatePresence, motion, useReducedMotion } from "framer-motion";
 import Link from "next/link";
 import { useCallback, useEffect, useRef, useState } from "react";
+import XpGainToast from "@/components/progress/XpGainToast";
+import ProgressHud from "@/components/progress/ProgressHud";
+import { BADGE_BY_ID, getBadgeTierStyles } from "@/lib/progress/badges";
+import { XP_PER_CORRECT, PERFECT_BONUS_XP } from "@/lib/progress/constants";
+import { useProgress } from "@/hooks/useProgress";
 import { chapterIncludes, includedArray } from "@/lib/chapterIncludes";
 import type { Lesson, QuizQuestion } from "@/types/lesson";
 
 export type ChapterQuizClientProps = {
+  level: string;
+  slug: string;
   rawLesson: Record<string, unknown>;
   lesson: Lesson;
   chapterBase: string;
   levelHubPath: string;
 };
 
-const XP_PER_CORRECT = 18;
-const PERFECT_BONUS_XP = 40;
 const REVEAL_MS = 1100;
 
 function CheckIcon({ className }: { className?: string }) {
@@ -57,12 +62,15 @@ const questionVariantsReduced = {
 };
 
 export default function ChapterQuizClient({
+  level,
+  slug,
   rawLesson,
   lesson,
   chapterBase,
   levelHubPath,
 }: ChapterQuizClientProps) {
   const reduceMotion = useReducedMotion();
+  const { saveQuizResult, stats } = useProgress();
   const quiz: QuizQuestion[] = includedArray(rawLesson, "quiz", lesson, (l) => l.quiz);
   const total = quiz.length;
 
@@ -72,11 +80,14 @@ export default function ChapterQuizClient({
   const [score, setScore] = useState(0);
   const [totalXp, setTotalXp] = useState(0);
   const [finished, setFinished] = useState(false);
+  const [savedXp, setSavedXp] = useState<number | null>(null);
+  const [newBadges, setNewBadges] = useState<string[]>([]);
   const [xpBurst, setXpBurst] = useState<{ id: number; amount: number; label: string } | null>(
     null,
   );
   const timerRef = useRef<number | null>(null);
   const confettiFired = useRef(false);
+  const persistedRef = useRef(false);
 
   const question = quiz[index];
   const progressPct =
@@ -132,6 +143,22 @@ export default function ChapterQuizClient({
   );
 
   useEffect(() => () => clearTimer(), [clearTimer]);
+
+  useEffect(() => {
+    if (!finished || persistedRef.current) return;
+    persistedRef.current = true;
+    const perfect = score === total;
+    const result = saveQuizResult({
+      level,
+      slug,
+      score,
+      total,
+      xpEarned: totalXp,
+      perfect,
+    });
+    setSavedXp(result.xpAdded);
+    setNewBadges(result.newBadges);
+  }, [finished, level, saveQuizResult, score, total, totalXp]);
 
   useEffect(() => {
     if (!finished || confettiFired.current) return;
@@ -254,12 +281,34 @@ export default function ChapterQuizClient({
             <p className="mt-2 text-sm text-slate-400">
               Total XP this run:{" "}
               <span className="font-bold text-cyan-300 tabular-nums">{totalXp}</span>
+              {savedXp != null ? (
+                <span className="mt-1 block text-emerald-300/90">
+                  Saved to profile · {stats.totalXp} XP total
+                </span>
+              ) : null}
             </p>
+            {newBadges.length > 0 ? (
+              <ul className="mt-6 flex flex-wrap justify-center gap-2">
+                {newBadges.map((id) => {
+                  const badge = BADGE_BY_ID[id];
+                  if (!badge) return null;
+                  return (
+                    <li
+                      key={id}
+                      className={`rounded-xl border px-3 py-2 text-xs font-bold ${getBadgeTierStyles(badge.tier)}`}
+                    >
+                      <span aria-hidden>{badge.emoji}</span> {badge.title}
+                    </li>
+                  );
+                })}
+              </ul>
+            ) : null}
             <div className="mt-10 flex flex-col gap-3 sm:flex-row sm:justify-center">
               <button
                 type="button"
                 onClick={() => {
                   confettiFired.current = false;
+                  persistedRef.current = false;
                   window.location.assign(`${chapterBase}/quiz`);
                 }}
                 className="rounded-xl border border-white/15 bg-white/5 px-6 py-3 text-sm font-bold text-slate-100 transition hover:border-cyan-400/40 hover:bg-cyan-500/10"
@@ -292,29 +341,7 @@ export default function ChapterQuizClient({
         <div className="absolute bottom-1/4 left-0 h-80 w-80 rounded-full bg-fuchsia-600/15 blur-[100px]" />
       </div>
 
-      <AnimatePresence>
-        {xpBurst ? (
-          <motion.div
-            key={xpBurst.id}
-            role="status"
-            initial={{ opacity: 0, y: 28, scale: 0.85 }}
-            animate={{ opacity: 1, y: 0, scale: 1 }}
-            exit={{ opacity: 0, y: -12, scale: 0.92 }}
-            transition={{ type: "spring", stiffness: 420, damping: 26 }}
-            className="pointer-events-none fixed bottom-24 left-1/2 z-50 -translate-x-1/2 sm:bottom-28"
-          >
-            <div className="relative overflow-hidden rounded-2xl border border-cyan-400/40 bg-slate-950/95 px-6 py-3 shadow-2xl shadow-cyan-500/30 backdrop-blur-md">
-              <div className="absolute inset-0 bg-gradient-to-r from-cyan-500/20 via-fuchsia-500/15 to-violet-500/20" />
-              <p className="relative text-center text-[10px] font-bold tracking-[0.2em] text-cyan-200 uppercase">
-                {xpBurst.label}
-              </p>
-              <p className="relative text-center text-2xl font-black tabular-nums text-white">
-                +{xpBurst.amount} XP
-              </p>
-            </div>
-          </motion.div>
-        ) : null}
-      </AnimatePresence>
+      <XpGainToast burst={xpBurst} />
 
       <header className="sticky top-0 z-40 border-b border-white/10 bg-slate-950/85 backdrop-blur-xl">
         <div className="mx-auto flex max-w-2xl flex-col gap-3 px-4 py-3 sm:px-6">
@@ -345,9 +372,12 @@ export default function ChapterQuizClient({
                 Cards
               </Link>
             </div>
-            <span className="text-[10px] font-semibold tracking-[0.2em] text-fuchsia-300/90 uppercase">
-              Quiz arc
-            </span>
+            <div className="flex items-center gap-2">
+              <ProgressHud compact />
+              <span className="text-[10px] font-semibold tracking-[0.2em] text-fuchsia-300/90 uppercase">
+                Quiz arc
+              </span>
+            </div>
           </div>
           <div>
             <div className="mb-1 flex justify-between text-[10px] font-bold tracking-wider text-slate-400 uppercase">

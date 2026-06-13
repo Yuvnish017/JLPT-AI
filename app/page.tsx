@@ -1,4 +1,6 @@
 import Link from "next/link";
+import HomeProgressDashboard from "@/components/progress/HomeProgressDashboard";
+import ProgressHud from "@/components/progress/ProgressHud";
 
 const levels = [
   {
@@ -48,13 +50,16 @@ export default function Home() {
       </div>
 
       <div className="relative mx-auto flex w-full max-w-7xl flex-col px-6 pb-16 pt-14 sm:px-10 lg:px-16">
-        <header className="mb-14 flex items-center justify-between">
+        <header className="mb-14 flex flex-wrap items-center justify-between gap-4">
           <div className="inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/5 px-3 py-1 text-xs font-semibold tracking-[0.2em] text-cyan-200 uppercase">
             JLPT AI
           </div>
-          <span className="text-xs tracking-[0.14em] text-slate-300/80 uppercase">
-            Anime Inspired Learning
-          </span>
+          <div className="flex flex-wrap items-center gap-3">
+            <ProgressHud compact />
+            <span className="text-xs tracking-[0.14em] text-slate-300/80 uppercase">
+              Anime Inspired Learning
+            </span>
+          </div>
         </header>
 
         <section className="grid items-center gap-12 pb-14 lg:grid-cols-2">
@@ -86,28 +91,7 @@ export default function Home() {
             </div>
           </div>
 
-          <div className="relative rounded-3xl border border-white/15 bg-gradient-to-br from-slate-900/80 to-slate-800/40 p-6 shadow-2xl shadow-fuchsia-900/30 backdrop-blur">
-            <div className="mb-4 flex items-center justify-between text-xs text-slate-300">
-              <span>Today&apos;s Training Arc</span>
-              <span className="rounded-full bg-emerald-400/20 px-3 py-1 font-semibold text-emerald-200">
-                +18 XP
-              </span>
-            </div>
-            <div className="space-y-4">
-              {[
-                "Kanji Blitz - 12 min",
-                "Grammar Battle - 8 min",
-                "Listening Quest - 15 min",
-              ].map((item) => (
-                <div
-                  key={item}
-                  className="rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-sm text-slate-100"
-                >
-                  {item}
-                </div>
-              ))}
-            </div>
-          </div>
+          <HomeProgressDashboard />
         </section>
 
         <section className="pt-6">

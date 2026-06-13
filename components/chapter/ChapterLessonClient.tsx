@@ -1,7 +1,10 @@
 "use client";
 
 import Link from "next/link";
-import { useCallback, useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import ProgressHud from "@/components/progress/ProgressHud";
+import ChapterStatusBadge from "@/components/progress/ChapterStatusBadge";
+import { useProgress } from "@/hooks/useProgress";
 import { chapterIncludes, includedArray } from "@/lib/chapterIncludes";
 import type { Kanji, Lesson, ReadingExercise, Vocabulary } from "@/types/lesson";
 
@@ -158,6 +161,9 @@ export default function ChapterLessonClient({
 }: ChapterLessonClientProps) {
   const base = `/${level.toLowerCase()}/${slug}`;
   const hub = `/${level.toLowerCase()}`;
+  const { saveLessonProgress, completeChapter, getChapter } = useProgress();
+  const chapterProgress = getChapter(level, slug);
+  const saveTimerRef = useRef<number | null>(null);
 
   const kanji = includedArray(rawLesson, "kanji", lesson, (l) => l.kanji);
   const vocabulary = includedArray(rawLesson, "vocabulary", lesson, (l) => l.vocabulary);
@@ -243,6 +249,22 @@ export default function ChapterLessonClient({
 
   const combinedProgress = Math.round((scrollPct + sectionProgress) / 2);
 
+  useEffect(() => {
+    if (saveTimerRef.current != null) window.clearTimeout(saveTimerRef.current);
+    saveTimerRef.current = window.setTimeout(() => {
+      saveLessonProgress({
+        level,
+        slug,
+        lessonProgress: combinedProgress,
+        tabId: activeTab,
+      });
+      completeChapter(level, slug, hasQuiz);
+    }, 600);
+    return () => {
+      if (saveTimerRef.current != null) window.clearTimeout(saveTimerRef.current);
+    };
+  }, [activeTab, combinedProgress, completeChapter, hasQuiz, level, saveLessonProgress, slug]);
+
   const filteredVocab = useMemo(() => {
     const q = vocabQuery.trim().toLowerCase();
     if (!q) return vocabulary;
@@ -307,6 +329,10 @@ export default function ChapterLessonClient({
               </div>
             </div>
             <div className="flex w-full flex-col gap-2 sm:w-auto sm:min-w-[180px] sm:max-w-xs">
+              <div className="flex items-center justify-between gap-2">
+                <ProgressHud compact />
+                <ChapterStatusBadge chapterProgress={chapterProgress} hasQuiz={hasQuiz} />
+              </div>
               <div className="flex items-center justify-between gap-2 text-[10px] font-semibold tracking-wider text-slate-400 uppercase">
                 <span>Progress</span>
                 <span className="tabular-nums text-cyan-300">{combinedProgress}%</span>

@@ -37,6 +37,8 @@ export default async function DynamicLevelQuizPage({ params }: Props) {
 
   return (
     <ChapterQuizClient
+      level={lv}
+      slug={slug}
       rawLesson={rawLesson}
       lesson={lesson}
       chapterBase={chapterBase}

@@ -22,6 +22,8 @@ export default async function N5ChapterQuizPage({ params }: Props) {
 
   return (
     <ChapterQuizClient
+      level="n5"
+      slug={slug}
       rawLesson={rawLesson}
       lesson={lesson}
       chapterBase={chapterBase}
