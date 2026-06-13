@@ -28,11 +28,14 @@ export type {
   UpdateReviewItemInput,
 } from "@/types/review";
 
-export { subscribeReview, getReviewServerSnapshot };
+export { subscribeReview, getReviewServerSnapshot, readReviewStore };
+
+export function getReviewItemsFromStore(store: ReviewStore): ReviewItem[] {
+  return Object.values(store.items);
+}
 
 export function getReviewItems(): ReviewItem[] {
-  const store = readReviewStore();
-  return Object.values(store.items);
+  return getReviewItemsFromStore(readReviewStore());
 }
 
 export function getReviewItem(itemId: string): ReviewItem | null {
@@ -85,8 +88,11 @@ export function updateReviewItem(itemId: string, updates: UpdateReviewItemInput)
   return updated;
 }
 
-export function getDueReviewItems(dateKey = todayDateKey()): ReviewItem[] {
-  return getReviewItems()
+export function getDueReviewItemsFromStore(
+  store: ReviewStore,
+  dateKey = todayDateKey(),
+): ReviewItem[] {
+  return getReviewItemsFromStore(store)
     .filter((item) => isDue(item.nextReviewDate, dateKey))
     .sort((a, b) => {
       if (a.nextReviewDate !== b.nextReviewDate) {
@@ -96,14 +102,25 @@ export function getDueReviewItems(dateKey = todayDateKey()): ReviewItem[] {
     });
 }
 
-export function getDueCounts(dateKey = todayDateKey()): ReviewDueCounts {
-  const due = getDueReviewItems(dateKey);
+export function getDueReviewItems(dateKey = todayDateKey()): ReviewItem[] {
+  return getDueReviewItemsFromStore(readReviewStore(), dateKey);
+}
+
+export function getDueCountsFromStore(
+  store: ReviewStore,
+  dateKey = todayDateKey(),
+): ReviewDueCounts {
+  const due = getDueReviewItemsFromStore(store, dateKey);
   return {
     total: due.length,
     vocabulary: due.filter((i) => i.itemType === "vocabulary").length,
     kanji: due.filter((i) => i.itemType === "kanji").length,
     grammar: due.filter((i) => i.itemType === "grammar").length,
   };
+}
+
+export function getDueCounts(dateKey = todayDateKey()): ReviewDueCounts {
+  return getDueCountsFromStore(readReviewStore(), dateKey);
 }
 
 export function recordReviewAnswer(itemId: string, wasCorrect: boolean): ReviewItem | null {
@@ -139,12 +156,16 @@ export function registerQuizMistake(
   return addReviewItem(input);
 }
 
-export function getReviewSummary() {
-  const items = getReviewItems();
-  const due = getDueCounts();
+export function getReviewSummaryFromStore(store: ReviewStore, dateKey = todayDateKey()) {
+  const items = getReviewItemsFromStore(store);
+  const due = getDueCountsFromStore(store, dateKey);
   return {
     totalItems: items.length,
     due,
     mastered: items.filter((i) => i.timesCorrect >= 3 && i.mistakes <= 1).length,
   };
+}
+
+export function getReviewSummary() {
+  return getReviewSummaryFromStore(readReviewStore());
 }

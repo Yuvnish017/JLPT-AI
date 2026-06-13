@@ -125,8 +125,7 @@ export function markChapterComplete(
   return writeProgress(progress);
 }
 
-export function getProgressStats() {
-  const progress = readProgress();
+export function getProgressStats(progress: UserProgress = readProgress()) {
   return {
     totalXp: progress.totalXp,
     streakDays: progress.streakDays,

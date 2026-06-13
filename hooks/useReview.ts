@@ -1,30 +1,28 @@
 "use client";
 
-import { useCallback, useSyncExternalStore } from "react";
+import { useCallback, useMemo, useSyncExternalStore } from "react";
 import {
   addReviewItem,
-  getDueCounts,
-  getDueReviewItems,
-  getReviewItems,
-  getReviewSummary,
+  getDueCountsFromStore,
+  getDueReviewItemsFromStore,
+  getReviewSummaryFromStore,
+  readReviewStore,
   recordReviewAnswer,
   registerQuizMistake,
   subscribeReview,
   updateReviewItem,
+  getReviewServerSnapshot,
 } from "@/lib/review";
 import type { AddReviewItemInput, UpdateReviewItemInput } from "@/types/review";
 import type { Lesson } from "@/types/lesson";
 
-function readStoreItems() {
-  return getReviewItems();
-}
-
 export function useReview() {
-  const items = useSyncExternalStore(subscribeReview, readStoreItems, () => []);
+  const store = useSyncExternalStore(subscribeReview, readReviewStore, getReviewServerSnapshot);
 
-  const dueCounts = getDueCounts();
-  const dueItems = getDueReviewItems();
-  const summary = getReviewSummary();
+  const items = useMemo(() => Object.values(store.items), [store]);
+  const dueItems = useMemo(() => getDueReviewItemsFromStore(store), [store]);
+  const dueCounts = useMemo(() => getDueCountsFromStore(store), [store]);
+  const summary = useMemo(() => getReviewSummaryFromStore(store), [store]);
 
   const addItem = useCallback((input: AddReviewItemInput) => addReviewItem(input), []);
 
@@ -56,14 +54,7 @@ export function useReview() {
   };
 }
 
-export function useReviewStoreSnapshot() {
-  return useSyncExternalStore(subscribeReview, readStoreItems, () => []);
-}
-
 export function useDueCounts() {
-  return useSyncExternalStore(
-    subscribeReview,
-    () => getDueCounts(),
-    () => ({ total: 0, vocabulary: 0, kanji: 0, grammar: 0 }),
-  );
+  const store = useSyncExternalStore(subscribeReview, readReviewStore, getReviewServerSnapshot);
+  return useMemo(() => getDueCountsFromStore(store), [store]);
 }

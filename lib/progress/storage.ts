@@ -6,6 +6,8 @@ const listeners = new Set<() => void>();
 
 let cached: UserProgress | null = null;
 
+const SERVER_SNAPSHOT: UserProgress = createDefaultProgress();
+
 function isBrowser(): boolean {
   return typeof window !== "undefined";
 }
@@ -39,7 +41,7 @@ function notifyListeners() {
 }
 
 export function readProgress(): UserProgress {
-  if (!isBrowser()) return createDefaultProgress();
+  if (!isBrowser()) return SERVER_SNAPSHOT;
   if (cached) return cached;
   cached = parseProgress(window.localStorage.getItem(PROGRESS_STORAGE_KEY));
   return cached;
@@ -58,5 +60,5 @@ export function invalidateProgressCache(): void {
 }
 
 export function getServerSnapshot(): UserProgress {
-  return createDefaultProgress();
+  return SERVER_SNAPSHOT;
 }

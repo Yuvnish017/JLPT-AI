@@ -6,6 +6,8 @@ const listeners = new Set<() => void>();
 
 let cached: ReviewStore | null = null;
 
+const SERVER_SNAPSHOT: ReviewStore = { version: 1, items: {} };
+
 function isBrowser(): boolean {
   return typeof window !== "undefined";
 }
@@ -38,7 +40,7 @@ function notifyListeners() {
 }
 
 export function readReviewStore(): ReviewStore {
-  if (!isBrowser()) return createDefaultReviewStore();
+  if (!isBrowser()) return SERVER_SNAPSHOT;
   if (cached) return cached;
   cached = parseStore(window.localStorage.getItem(REVIEW_STORAGE_KEY));
   return cached;
@@ -53,5 +55,5 @@ export function writeReviewStore(store: ReviewStore): ReviewStore {
 }
 
 export function getReviewServerSnapshot(): ReviewStore {
-  return createDefaultReviewStore();
+  return SERVER_SNAPSHOT;
 }

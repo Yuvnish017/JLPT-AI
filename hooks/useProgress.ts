@@ -1,6 +1,6 @@
 "use client";
 
-import { useCallback, useSyncExternalStore } from "react";
+import { useCallback, useMemo, useSyncExternalStore } from "react";
 import {
   getProgress,
   getProgressStats,
@@ -16,7 +16,7 @@ import type { RecordQuizInput, UpdateLessonInput } from "@/lib/progress";
 
 export function useProgress() {
   const progress = useSyncExternalStore(subscribeProgress, getProgress, getServerSnapshot);
-  const stats = getProgressStats();
+  const stats = useMemo(() => getProgressStats(progress), [progress]);
 
   const saveLessonProgress = useCallback((input: UpdateLessonInput) => {
     return updateLessonProgress(input);
