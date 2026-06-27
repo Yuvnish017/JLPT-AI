@@ -5,14 +5,22 @@ import {
   getProgress,
   getProgressStats,
   getChapterProgress,
+  getComicProgress,
   markChapterComplete,
   recordQuizResult,
   resetProgress,
   subscribeProgress,
   updateLessonProgress,
+  updateComicPanelProgress,
+  completeComic,
   getServerSnapshot,
 } from "@/lib/progress";
-import type { RecordQuizInput, UpdateLessonInput } from "@/lib/progress";
+import type {
+  CompleteComicInput,
+  RecordQuizInput,
+  UpdateComicPanelInput,
+  UpdateLessonInput,
+} from "@/lib/progress";
 
 export function useProgress() {
   const progress = useSyncExternalStore(subscribeProgress, getProgress, getServerSnapshot);
@@ -35,6 +43,19 @@ export function useProgress() {
     [progress],
   );
 
+  const getComic = useCallback(
+    (level: string, storyId: string) => getComicProgress(level, storyId),
+    [progress],
+  );
+
+  const saveComicPanel = useCallback((input: UpdateComicPanelInput) => {
+    return updateComicPanelProgress(input);
+  }, []);
+
+  const finishComic = useCallback((input: CompleteComicInput) => {
+    return completeComic(input);
+  }, []);
+
   const clearProgress = useCallback(() => resetProgress(), []);
 
   return {
@@ -44,6 +65,9 @@ export function useProgress() {
     saveQuizResult,
     completeChapter,
     getChapter,
+    getComic,
+    saveComicPanel,
+    finishComic,
     clearProgress,
   };
 }
