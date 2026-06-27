@@ -1,0 +1,111 @@
+{
+  "id": "n4-comic-2",
+  "title": "Café Mix-Up",
+  "difficulty": "N4",
+  "estimatedReadingTime": "5 min",
+  "coverImage": "/comics/n4/story-2/cover.svg",
+  "vocabularyUsed": [
+    {
+      "word": "注文",
+      "reading": "ちゅうもん",
+      "meaning": "order (at a restaurant)",
+      "example": "注文をお願いします。"
+    },
+    {
+      "word": "飲み物",
+      "reading": "のみもの",
+      "meaning": "beverage, drink",
+      "example": "温かい飲み物が飲みたいです。"
+    },
+    {
+      "word": "甘い",
+      "reading": "あまい",
+      "meaning": "sweet",
+      "example": "このケーキは甘いです。"
+    },
+    {
+      "word": "苦い",
+      "reading": "にがい",
+      "meaning": "bitter",
+      "example": "コーヒーは苦いです。"
+    },
+    {
+      "word": "用意",
+      "reading": "ようい",
+      "meaning": "preparation",
+      "example": "飲み物の用意ができました。"
+    }
+  ],
+  "grammarUsed": [
+    {
+      "pattern": "〜たいです",
+      "meaning": "want to do ~",
+      "example": "甘いものが食べたいです。"
+    },
+    {
+      "pattern": "〜てください",
+      "meaning": "please do ~ (request)",
+      "example": "メニューを見せてください。"
+    },
+    {
+      "pattern": "〜ている",
+      "meaning": "ongoing state or action",
+      "example": "かいとう先生がコーヒーを飲んでいます。"
+    },
+    {
+      "pattern": "〜ので",
+      "meaning": "because ~ (explanation)",
+      "example": "甘いのが好きなので、ケーキを注文しました。"
+    }
+  ],
+  "pages": [
+    {
+      "panelNumber": 1,
+      "sceneDescription": "Ren, Nao, and Hina sit at a cozy café table. Hina studies the menu with sparkling eyes. Warm light fills the room.",
+      "japanese": "ひな：「カフェに来た！甘いケーキが食べたいです！」れん：「いいですね。注文しましょう。」",
+      "furigana": "ひな：「かふぇに きた！あまい けーきが たべたいです！」れん：「いいですね。ちゅうもん しましょう。」",
+      "english": "Hina: \"We came to a café! I want to eat sweet cake!\" Ren: \"Sounds good. Let's order.\"",
+      "image": "/comics/n4/story-2/panel-1.svg"
+    },
+    {
+      "panelNumber": 2,
+      "sceneDescription": "Nao points calmly at the menu. Hina points at two different items at once, confused.",
+      "japanese": "なお：「まずメニューを見てください。飲み物も選びましょう。」",
+      "furigana": "なお：「まず メニューを みてください。のみものも えらびましょう。」",
+      "english": "Nao: \"First, please look at the menu. Let's choose drinks too.\"",
+      "image": "/comics/n4/story-2/panel-2.svg"
+    },
+    {
+      "panelNumber": 3,
+      "sceneDescription": "Hina orders enthusiastically. Ren looks worried. Momo whispers from behind the menu.",
+      "japanese": "ひな：「苦いコーヒーをください！」れん：「え、ひなは甘いのが好きなので…」",
+      "furigana": "ひな：「にがい こーひーを ください！」れん：「え、ひなは あまいのが すきなので…」",
+      "english": "Hina: \"Bitter coffee, please!\" Ren: \"Huh? But Hina likes sweet things, so…\"",
+      "image": "/comics/n4/story-2/panel-3.svg"
+    },
+    {
+      "panelNumber": 4,
+      "sceneDescription": "The waiter brings drinks. Hina takes a sip and her face twists. Nao hides a smile behind her glasses.",
+      "japanese": "ひな：「にがい！メニューを間違えました！」もも：「やっぱりね…」",
+      "furigana": "ひな：「にがい！メニューを まちがえました！」もも：「やっぱりね…」",
+      "english": "Hina: \"So bitter! I ordered the wrong thing from the menu!\" Momo: \"I knew it…\"",
+      "image": "/comics/n4/story-2/panel-4.svg"
+    },
+    {
+      "panelNumber": 5,
+      "sceneDescription": "Kaito Sensei (blue jacket) appears at the next table, calmly drinking coffee and grading papers.",
+      "japanese": "かいとう先生：「注文を間違えるのは勉強のうちです。大丈夫ですよ。」",
+      "furigana": "かいとうせんせい：「ちゅうもんを まちがえるのは べんきょうの うちです。だいじょうぶですよ。」",
+      "english": "Kaito Sensei: \"Making order mistakes is part of learning. You'll be fine.\"",
+      "image": "/comics/n4/story-2/panel-5.svg"
+    },
+    {
+      "panelNumber": 6,
+      "sceneDescription": "Nao swaps her sweet hot chocolate with Hina. Everyone laughs. Ren raises his cup.",
+      "japanese": "なお：「飲み物の用意、交換しましょう。」ひな：「なお、最高！れん、乾杯！」",
+      "furigana": "なお：「のみものの ようい、こうかん しましょう。」ひな：「なお、さいこう！れん、かんぱい！」",
+      "english": "Nao: \"Let's swap drinks.\" Hina: \"Nao, you're the best! Ren, cheers!\"",
+      "image": "/comics/n4/story-2/panel-6.svg"
+    }
+  ]
+}

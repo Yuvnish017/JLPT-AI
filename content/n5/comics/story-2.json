@@ -1,15 +1,15 @@
 {
   "id": "n5-comic-2",
-  "title": "Konbini Adventure",
+  "title": "Hina's Konbini Crisis",
   "difficulty": "N5",
-  "estimatedReadingTime": "3 min",
+  "estimatedReadingTime": "4 min",
   "coverImage": "/comics/n5/story-2/cover.svg",
   "vocabularyUsed": [
     {
       "word": "コンビニ",
       "reading": "こんびに",
       "meaning": "convenience store",
-      "example": "コンビニでお弁当を買います。"
+      "example": "放課後、コンビニに行きます。"
     },
     {
       "word": "お金",
@@ -21,74 +21,85 @@
       "word": "買う",
       "reading": "かう",
       "meaning": "to buy",
-      "example": "水を買います。"
+      "example": "おにぎりを買います。"
+    },
+    {
+      "word": "食べ物",
+      "reading": "たべもの",
+      "meaning": "food",
+      "example": "コンビニに食べ物がたくさんあります。"
     },
     {
       "word": "安い",
       "reading": "やすい",
       "meaning": "cheap, inexpensive",
-      "example": "このりんごは安いです。"
+      "example": "このおにぎりは安いです。"
     }
   ],
   "grammarUsed": [
     {
       "pattern": "〜をください",
       "meaning": "please give me ~",
-      "example": "水をください。"
+      "example": "おにぎりをください。"
     },
     {
-      "pattern": "〜は〜です",
-      "meaning": "topic + description",
-      "example": "これはお茶です。"
+      "pattern": "〜がありません",
+      "meaning": "don't have ~",
+      "example": "お金がありません。"
+    },
+    {
+      "pattern": "〜ましょう",
+      "meaning": "let's ~",
+      "example": "一緒に買いましょう。"
     }
   ],
   "pages": [
     {
       "panelNumber": 1,
-      "sceneDescription": "A tired student walks into a brightly lit convenience store at night.",
-      "japanese": "夜、コンビニに入ります。お腹が空きました。",
-      "furigana": "よる、こんびににはいります。おなかが すきました。",
-      "english": "At night, I enter the convenience store. I'm hungry.",
+      "sceneDescription": "After school, Ren (green hoodie), Nao (navy cardigan), and Hina (yellow hoodie) enter a brightly lit convenience store. Hina's eyes sparkle at the food shelves.",
+      "japanese": "れん：「放課後、コンビニに来ました。お腹が空きました。」",
+      "furigana": "れん：「ほうかご、こんびにに きました。おなかが すきました。」",
+      "english": "Ren: \"After school, we came to the convenience store. I'm hungry.\"",
       "image": "/comics/n5/story-2/panel-1.svg"
     },
     {
       "panelNumber": 2,
-      "sceneDescription": "Shelves full of snacks and drinks stretch into the background.",
-      "japanese": "たくさんの食べ物があります。どれを買いますか？",
-      "furigana": "たくさんの たべものが あります。どれを かいますか？",
-      "english": "There are lots of foods. Which one will I buy?",
+      "sceneDescription": "Hina grabs snacks from every shelf while Ren and Nao watch. Momo sits on a rice ball display, arms crossed.",
+      "japanese": "ひな：「わあ！食べ物がたくさん！全部買いたい！」もも：「ひな、ちょっと落ち着いて…」",
+      "furigana": "ひな：「わあ！たべものが たくさん！ぜんぶ かいたい！」もも：「ひな、ちょっと おちついて…」",
+      "english": "Hina: \"Wow! So much food! I want to buy everything!\" Momo: \"Hina, calm down a little…\"",
       "image": "/comics/n5/story-2/panel-2.svg"
     },
     {
       "panelNumber": 3,
-      "sceneDescription": "The student picks up an onigiri and checks the price tag.",
-      "japanese": "このおにぎりは百円です。安いですね！",
-      "furigana": "この おにぎりは ひゃくえんです。やすいですね！",
-      "english": "This onigiri is 100 yen. So cheap!",
+      "sceneDescription": "Ren picks up an onigiri and checks the price. Nao adjusts her glasses thoughtfully.",
+      "japanese": "れん：「このおにぎりは百円です。安いですね。」なお：「うん、いい選択だよ。」",
+      "furigana": "れん：「この おにぎりは ひゃくえんです。やすいですね。」なお：「うん、いい せんたくだよ。」",
+      "english": "Ren: \"This onigiri is 100 yen. So cheap.\" Nao: \"Yeah, good choice.\"",
       "image": "/comics/n5/story-2/panel-3.svg"
     },
     {
       "panelNumber": 4,
-      "sceneDescription": "At the counter, the clerk smiles professionally.",
-      "japanese": "店員：「いらっしゃいませ。おにぎりをください。」",
-      "furigana": "てんいん：「いらっしゃいませ。おにぎりを ください。」",
-      "english": "Clerk: \"Welcome. One onigiri, please.\" (Student ordering)",
+      "sceneDescription": "At the counter, Hina holds a mountain of snacks. Ren reaches for his wallet.",
+      "japanese": "ひな：「おにぎりとパンとジュースをください！」れん：「えっ、私の分も…？」",
+      "furigana": "ひな：「おにぎりと ぱんと じゅーすを ください！」れん：「えっ、わたしの ぶんも…？」",
+      "english": "Hina: \"One onigiri, bread, and juice, please!\" Ren: \"Huh, mine too…?\"",
       "image": "/comics/n5/story-2/panel-4.svg"
     },
     {
       "panelNumber": 5,
-      "sceneDescription": "The student realizes their wallet is empty — comedy sweat drop.",
-      "japanese": "あ！お金がありません…",
-      "furigana": "あ！おかねが ありません…",
-      "english": "Ah! I don't have any money…",
+      "sceneDescription": "Ren opens his empty wallet with a sweat drop. Hina freezes, snacks slipping from her arms.",
+      "japanese": "れん：「あ！お金がありません…」ひな：「ごめん！わたしのせいだ…」",
+      "furigana": "れん：「あ！おかねが ありません…」ひな：「ごめん！わたしの せいだ…」",
+      "english": "Ren: \"Ah! I don't have any money…\" Hina: \"Sorry! It's my fault…\"",
       "image": "/comics/n5/story-2/panel-5.svg"
     },
     {
       "panelNumber": 6,
-      "sceneDescription": "A friend appears and lends money with a laugh.",
-      "japanese": "友達：「大丈夫！私のお金を使って。」",
-      "furigana": "ともだち：「だいじょうぶ！わたしの おかねを つかって。」",
-      "english": "Friend: \"It's okay! Use my money.\"",
+      "sceneDescription": "Nao smiles calmly and pays. Momo gives a thumbs-up from the counter.",
+      "japanese": "なお：「大丈夫。今日は私のお金を使いましょう。」れん：「なお、ありがとう！」",
+      "furigana": "なお：「だいじょうぶ。きょうは わたしの おかねを つかいましょう。」れん：「なお、ありがとう！」",
+      "english": "Nao: \"It's okay. Let's use my money today.\" Ren: \"Nao, thank you!\"",
       "image": "/comics/n5/story-2/panel-6.svg"
     }
   ]

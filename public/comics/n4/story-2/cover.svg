@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Café Mix-Up  JLPT Quest N4">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#431407"/>
+      <stop offset="100%" style="stop-color:#1c1917"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <ellipse cx="400" cy="380" rx="200" ry="30" fill="#292524" opacity="0.6"/>
+  <rect x="250" y="280" width="300" height="20" rx="4" fill="#78716c"/>
+  <rect x="320" y="220" width="60" height="70" rx="4" fill="#fbbf24" opacity="0.8"/>
+  <rect x="420" y="230" width="50" height="60" rx="4" fill="#a8a29e"/>
+  <text x="400" y="100" text-anchor="middle" fill="#fde68a" font-family="system-ui,sans-serif" font-size="28" font-weight="800">«Õ§n~aLD</text>
+  <text x="400" y="140" text-anchor="middle" fill="#fef3c7" font-family="system-ui,sans-serif" font-size="18">Café Mix-Up</text>
+  <text x="400" y="530" text-anchor="middle" fill="#a8a29e" font-family="system-ui,sans-serif" font-size="13">Œ“ · jJ · rj · KDhFH · ‚‚ · N4</text>
+</svg>

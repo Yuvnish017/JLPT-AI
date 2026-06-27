@@ -1,0 +1,111 @@
+{
+  "id": "n4-comic-1",
+  "title": "Rain at the Station",
+  "difficulty": "N4",
+  "estimatedReadingTime": "5 min",
+  "coverImage": "/comics/n4/story-1/cover.svg",
+  "vocabularyUsed": [
+    {
+      "word": "駅",
+      "reading": "えき",
+      "meaning": "station",
+      "example": "次の駅で降ります。"
+    },
+    {
+      "word": "電車",
+      "reading": "でんしゃ",
+      "meaning": "train",
+      "example": "電車に乗りましょう。"
+    },
+    {
+      "word": "雨",
+      "reading": "あめ",
+      "meaning": "rain",
+      "example": "雨が降っています。"
+    },
+    {
+      "word": "荷物",
+      "reading": "にもつ",
+      "meaning": "luggage, baggage",
+      "example": "荷物が多いです。"
+    },
+    {
+      "word": "着く",
+      "reading": "つく",
+      "meaning": "to arrive",
+      "example": "家に着きました。"
+    }
+  ],
+  "grammarUsed": [
+    {
+      "pattern": "〜が降る",
+      "meaning": "rain/snow falls",
+      "example": "雨が降っています。"
+    },
+    {
+      "pattern": "〜を降りる",
+      "meaning": "to get off (a vehicle)",
+      "example": "次の駅を降りましょう。"
+    },
+    {
+      "pattern": "Verb stem + ましょう",
+      "meaning": "let's do ~ (suggestion)",
+      "example": "電車に乗りましょう。"
+    },
+    {
+      "pattern": "〜に注意しましょう",
+      "meaning": "let's be careful about ~",
+      "example": "駅名に注意しましょう。"
+    }
+  ],
+  "pages": [
+    {
+      "panelNumber": 1,
+      "sceneDescription": "Ren, Nao, and Hina stand at a train station platform after school. Dark clouds gather. Ren holds his green-hoodie backpack; Nao checks the timetable through her round glasses.",
+      "japanese": "れん：「学校のあと、駅に来ました。電車で帰りましょう。」",
+      "furigana": "れん：「がっこうの あと、えきに きました。でんしゃで かえりましょう。」",
+      "english": "Ren: \"After school, we came to the station. Let's go home by train.\"",
+      "image": "/comics/n4/story-1/panel-1.svg"
+    },
+    {
+      "panelNumber": 2,
+      "sceneDescription": "Rain begins to fall. Hina tries to open her umbrella but it flips inside-out. Momo peeks from Ren's backpack with a tiny rain hat.",
+      "japanese": "なお：「雨が降ってきました。」ひな：「あちゃー！かさが逆さま！」",
+      "furigana": "なお：「あめが ふってきました。」ひな：「あちゃー！かさが さかさま！」",
+      "english": "Nao: \"It's started raining.\" Hina: \"Oops! My umbrella flipped inside out!\"",
+      "image": "/comics/n4/story-1/panel-2.svg"
+    },
+    {
+      "panelNumber": 3,
+      "sceneDescription": "The three friends board the train, wet but laughing. Momo shakes water off his orange scarf.",
+      "japanese": "れん：「電車に乗りました。荷物が多いですね。」もも：「次の駅、ちゃんと見てね！」",
+      "furigana": "れん：「でんしゃに のりました。にもつが おおいですね。」もも：「つぎの えき、ちゃんと みてね！」",
+      "english": "Ren: \"We got on the train. That's a lot of luggage.\" Momo: \"Watch the next station carefully!\"",
+      "image": "/comics/n4/story-1/panel-3.svg"
+    },
+    {
+      "panelNumber": 4,
+      "sceneDescription": "Hina stands eagerly as the train slows. Nao points calmly at the station sign.",
+      "japanese": "ひな：「ここを降りればいいの？」なお：「ちょっと待って。駅名に注意しましょう。」",
+      "furigana": "ひな：「ここを おりれば いいの？」なお：「ちょっと まって。えきめいに ちゅういしましょう。」",
+      "english": "Hina: \"Should we get off here?\" Nao: \"Wait a moment. Let's pay attention to the station name.\"",
+      "image": "/comics/n4/story-1/panel-4.svg"
+    },
+    {
+      "panelNumber": 5,
+      "sceneDescription": "Hina almost steps off at the wrong stop. Ren grabs her yellow-hoodie sleeve. The doors close.",
+      "japanese": "れん：「ひな、違う駅だよ！次の駅を降りましょう！」ひな：「わわっ、危なかった！」",
+      "furigana": "れん：「ひな、ちがう えきだよ！つぎの えきを おりましょう！」ひな：「わわっ、あぶなかった！」",
+      "english": "Ren: \"Hina, that's the wrong station! Let's get off at the next one!\" Hina: \"Whoa, that was close!\"",
+      "image": "/comics/n4/story-1/panel-5.svg"
+    },
+    {
+      "panelNumber": 6,
+      "sceneDescription": "The friends arrive at the correct station, rain easing. Ren stretches happily.",
+      "japanese": "なお：「着きました。今日も楽しかったね。」れん：「なおのおかげです。ありがとう！」",
+      "furigana": "なお：「つきました。きょうも たのしかったね。」れん：「なおの おかげです。ありがとう！」",
+      "english": "Nao: \"We've arrived. Today was fun too.\" Ren: \"Thanks to you, Nao. Thank you!\"",
+      "image": "/comics/n4/story-1/panel-6.svg"
+    }
+  ]
+}

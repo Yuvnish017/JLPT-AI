@@ -1,6 +1,6 @@
 {
   "id": "n5-comic-1",
-  "title": "First Day at School",
+  "title": "Ren's First Day",
   "difficulty": "N5",
   "estimatedReadingTime": "4 min",
   "coverImage": "/comics/n5/story-1/cover.svg",
@@ -9,38 +9,44 @@
       "word": "学校",
       "reading": "がっこう",
       "meaning": "school",
-      "example": "学校は八時からです。"
+      "example": "れんは毎日学校に行きます。"
     },
     {
       "word": "学生",
       "reading": "がくせい",
       "meaning": "student",
-      "example": "私は学生です。"
+      "example": "私は日本の学生です。"
     },
     {
       "word": "先生",
       "reading": "せんせい",
       "meaning": "teacher",
-      "example": "田中先生はやさしいです。"
+      "example": "かいとう先生はやさしいです。"
     },
     {
-      "word": "初めて",
-      "reading": "はじめて",
-      "meaning": "for the first time",
-      "example": "日本に初めて来ました。"
+      "word": "友達",
+      "reading": "ともだち",
+      "meaning": "friend",
+      "example": "なおはれんの友達です。"
     },
     {
       "word": "緊張",
       "reading": "きんちょう",
       "meaning": "nervousness, tension",
-      "example": "試験の前で緊張します。"
+      "example": "初めての日で緊張します。"
+    },
+    {
+      "word": "初めて",
+      "reading": "はじめて",
+      "meaning": "for the first time",
+      "example": "日本の学校は初めてです。"
     }
   ],
   "grammarUsed": [
     {
       "pattern": "〜です",
       "meaning": "polite copula — is/am/are",
-      "example": "私は学生です。"
+      "example": "れんは学生です。"
     },
     {
       "pattern": "〜ます",
@@ -56,50 +62,50 @@
   "pages": [
     {
       "panelNumber": 1,
-      "sceneDescription": "A nervous student stands at the school gate on a bright morning.",
-      "japanese": "今日は学校の初めての日です。とても緊張します！",
-      "furigana": "きょうは がっこうの はじめてのひです。とても きんちょうします！",
-      "english": "Today is my first day of school. I'm so nervous!",
+      "sceneDescription": "Ren (short black hair, green hoodie, backpack) stands nervously at the school gate. Momo, a tiny white fox spirit with an orange scarf, peeks from his backpack.",
+      "japanese": "れん：「今日は学校の初めての日です…とても緊張します！」",
+      "furigana": "れん：「きょうは がっこうの はじめてのひです…とても きんちょうします！」",
+      "english": "Ren: \"Today is my first day of school… I'm so nervous!\"",
       "image": "/comics/n5/story-1/panel-1.svg"
     },
     {
       "panelNumber": 2,
-      "sceneDescription": "A friendly teacher waves from the entrance.",
-      "japanese": "先生：「おはようございます！あなたは新しい学生ですか？」",
-      "furigana": "せんせい：「おはようございます！あなたは あたらしい がくせいですか？」",
-      "english": "Teacher: \"Good morning! Are you a new student?\"",
+      "sceneDescription": "Momo floats beside Ren with a cheerful grin. Kaito Sensei (white shirt, blue jacket) waves from the school entrance.",
+      "japanese": "もも：「だいじょうぶ！れんならできるよ！」かいとう先生：「おはよう！新しい学生ですか？」",
+      "furigana": "もも：「だいじょうぶ！れんなら できるよ！」かいとうせんせい：「おはよう！あたらしい がくせいですか？」",
+      "english": "Momo: \"You'll be fine! You can do it, Ren!\" Kaito Sensei: \"Good morning! Are you a new student?\"",
       "image": "/comics/n5/story-1/panel-2.svg"
     },
     {
       "panelNumber": 3,
-      "sceneDescription": "The student bows politely.",
-      "japanese": "学生：「はい、私は学生です。よろしくお願いします。」",
-      "furigana": "がくせい：「はい、わたしは がくせいです。よろしく おねがいします。」",
-      "english": "Student: \"Yes, I'm a student. Nice to meet you.\"",
+      "sceneDescription": "Ren bows politely. Nao (shoulder-length dark blue hair, round glasses, navy cardigan) smiles calmly beside him.",
+      "japanese": "れん：「はい、れんです。よろしくお願いします。」なお：「私はなおです。友達になりましょう。」",
+      "furigana": "れん：「はい、れんです。よろしく おねがいします。」なお：「わたしは なおです。ともだちに なりましょう。」",
+      "english": "Ren: \"Yes, I'm Ren. Nice to meet you.\" Nao: \"I'm Nao. Let's be friends.\"",
       "image": "/comics/n5/story-1/panel-3.svg"
     },
     {
       "panelNumber": 4,
-      "sceneDescription": "The teacher leads the student down a hallway lined with classroom doors.",
-      "japanese": "先生：「この学校は大きいです。教室はあちらです。」",
-      "furigana": "せんせい：「この がっこうは おおきいです。きょうしつは あちらです。」",
-      "english": "Teacher: \"This school is big. The classroom is over there.\"",
+      "sceneDescription": "Kaito Sensei walks Ren and Nao down a bright school hallway.",
+      "japanese": "かいとう先生：「この学校は大きいです。教室はあちらです。」",
+      "furigana": "かいとうせんせい：「この がっこうは おおきいです。きょうしつは あちらです。」",
+      "english": "Kaito Sensei: \"This school is big. The classroom is over there.\"",
       "image": "/comics/n5/story-1/panel-4.svg"
     },
     {
       "panelNumber": 5,
-      "sceneDescription": "Inside the classroom, classmates smile and wave.",
-      "japanese": "クラスメート：「日本語が好きですか？」",
-      "furigana": "くらすめーと：「にほんごが すきですか？」",
-      "english": "Classmate: \"Do you like Japanese?\"",
+      "sceneDescription": "Inside the classroom, Hina (short light-brown hair, yellow hoodie) jumps up waving excitedly, nearly knocking over a chair.",
+      "japanese": "ひな：「やっと来た！日本語が好きですか？お昼ごはんは何が好き？」",
+      "furigana": "ひな：「やっと きた！にほんごが すきですか？おひるごはんは なにが すき？」",
+      "english": "Hina: \"You're finally here! Do you like Japanese? What do you like for lunch?\"",
       "image": "/comics/n5/story-1/panel-5.svg"
     },
     {
       "panelNumber": 6,
-      "sceneDescription": "The student smiles, feeling relieved and happy.",
-      "japanese": "学生：「はい、大好きです！今日は楽しいです。」",
-      "furigana": "がくせい：「はい、だいすきです！きょうは たのしいです。」",
-      "english": "Student: \"Yes, I love it! Today is fun.\"",
+      "sceneDescription": "Ren laughs with Nao and Hina. Momo does a tiny victory dance on the desk.",
+      "japanese": "れん：「はい、大好きです！今日は楽しいです。よろしく、みんな！」",
+      "furigana": "れん：「はい、だいすきです！きょうは たのしいです。よろしく、みんな！」",
+      "english": "Ren: \"Yes, I love it! Today is fun. Nice to meet you all!\"",
       "image": "/comics/n5/story-1/panel-6.svg"
     }
   ]

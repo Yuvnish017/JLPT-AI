@@ -1,20 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Comic cover: First Day at School">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Ren's First Day ? JLPT Quest">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#1e1b4b"/>
-      <stop offset="50%" style="stop-color:#312e81"/>
+      <stop offset="0%" style="stop-color:#14532d"/>
+      <stop offset="50%" style="stop-color:#1e1b4b"/>
       <stop offset="100%" style="stop-color:#4c1d95"/>
     </linearGradient>
     <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#22d3ee"/>
+      <stop offset="0%" style="stop-color:#4ade80"/>
       <stop offset="100%" style="stop-color:#e879f9"/>
     </linearGradient>
   </defs>
   <rect width="800" height="600" fill="url(#bg)"/>
   <rect x="40" y="40" width="720" height="520" rx="16" fill="none" stroke="url(#accent)" stroke-width="6"/>
-  <text x="400" y="200" text-anchor="middle" fill="#e0e7ff" font-family="system-ui,sans-serif" font-size="28" font-weight="800">Åfnf!</text>
-  <text x="400" y="260" text-anchor="middle" fill="#a5b4fc" font-family="system-ui,sans-serif" font-size="18">First Day at School</text>
-  <circle cx="400" cy="380" r="80" fill="#6366f1" opacity="0.6"/>
-  <rect x="320" y="300" width="160" height="200" rx="8" fill="#818cf8"/>
-  <text x="400" y="530" text-anchor="middle" fill="#c4b5fd" font-family="system-ui,sans-serif" font-size="14">N5 ∑ Comic Story</text>
+  <circle cx="320" cy="340" r="50" fill="#22c55e" opacity="0.8"/>
+  <rect x="280" y="280" width="80" height="100" rx="6" fill="#16a34a"/>
+  <circle cx="480" cy="360" r="35" fill="#f8fafc" opacity="0.9"/>
+  <text x="480" y="368" text-anchor="middle" fill="#ea580c" font-family="system-ui,sans-serif" font-size="20">??</text>
+  <text x="400" y="120" text-anchor="middle" fill="#bbf7d0" font-family="system-ui,sans-serif" font-size="26" font-weight="800">????????</text>
+  <text x="400" y="165" text-anchor="middle" fill="#e0e7ff" font-family="system-ui,sans-serif" font-size="20">Ren's First Day</text>
+  <text x="400" y="530" text-anchor="middle" fill="#c4b5fd" font-family="system-ui,sans-serif" font-size="13">?? ? ?? ? ?? ? ?????? ? ??</text>
 </svg>
