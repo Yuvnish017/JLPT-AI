@@ -21,6 +21,7 @@ export * from "./types";
 export * from "./constants";
 export * from "./badges";
 export * from "./helpers";
+export * from "./comics";
 export { readProgress, subscribeProgress, getServerSnapshot } from "./storage";
 
 export function getProgress(): UserProgress {

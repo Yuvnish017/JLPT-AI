@@ -1,5 +1,5 @@
 import { LESSON_COMPLETE_THRESHOLD } from "./constants";
-import type { ChapterProgress, UserProgress } from "./types";
+import type { ChapterProgress, ComicProgress, UserProgress } from "./types";
 
 export function createDefaultProgress(): UserProgress {
   return {
@@ -8,6 +8,7 @@ export function createDefaultProgress(): UserProgress {
     streakDays: 0,
     lastActiveDate: "",
     chapters: {},
+    comics: {},
     badges: [],
     dailyXp: {},
   };
@@ -15,6 +16,24 @@ export function createDefaultProgress(): UserProgress {
 
 export function chapterKey(level: string, slug: string): string {
   return `${level.toLowerCase()}/${slug}`;
+}
+
+export function comicKey(level: string, storyId: string): string {
+  return `${level.toLowerCase()}/comics/${storyId}`;
+}
+
+export function createEmptyComicProgress(): ComicProgress {
+  return {
+    currentPanel: 0,
+    completed: false,
+    xpEarned: 0,
+    readingSeconds: 0,
+    lastVisitedAt: new Date().toISOString(),
+  };
+}
+
+export function getOrCreateComic(progress: UserProgress, key: string): ComicProgress {
+  return progress.comics[key] ?? createEmptyComicProgress();
 }
 
 export function todayDateKey(date = new Date()): string {
@@ -83,4 +102,45 @@ export function getLevelProgressSummary(
   }
 
   return { completed, inProgress, totalXp };
+}
+
+export type LevelComicSummary = {
+  completed: number;
+  inProgress: number;
+  currentStoryId: string | null;
+  currentStoryTitle: string | null;
+  readingStreak: number;
+};
+
+export function getLevelComicSummary(
+  progress: UserProgress,
+  level: string,
+  storyTitles: Record<string, string> = {},
+): LevelComicSummary {
+  const prefix = `${level.toLowerCase()}/comics/`;
+  let completed = 0;
+  let inProgress = 0;
+  let currentStoryId: string | null = null;
+  let latestVisit = "";
+
+  for (const [key, comic] of Object.entries(progress.comics)) {
+    if (!key.startsWith(prefix)) continue;
+    if (comic.completed) {
+      completed += 1;
+    } else if (comic.currentPanel > 0) {
+      inProgress += 1;
+      if (comic.lastVisitedAt > latestVisit) {
+        latestVisit = comic.lastVisitedAt;
+        currentStoryId = key.slice(prefix.length);
+      }
+    }
+  }
+
+  return {
+    completed,
+    inProgress,
+    currentStoryId,
+    currentStoryTitle: currentStoryId ? (storyTitles[currentStoryId] ?? currentStoryId) : null,
+    readingStreak: progress.streakDays,
+  };
 }

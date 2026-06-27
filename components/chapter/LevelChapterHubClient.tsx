@@ -8,13 +8,16 @@ import BadgeGallery from "@/components/progress/BadgeGallery";
 import { chapterKey, getLevelProgressSummary } from "@/lib/progress";
 import { useProgress } from "@/hooks/useProgress";
 import type { ChapterListItem } from "@/lib/content/loadChapter";
+import type { ComicListItem } from "@/types/comic";
+import ComicDashboardWidget from "@/components/comic/ComicDashboardWidget";
 
 type LevelChapterHubClientProps = {
   level: string;
   chapters: ChapterListItem[];
+  comics: ComicListItem[];
 };
 
-export default function LevelChapterHubClient({ level, chapters }: LevelChapterHubClientProps) {
+export default function LevelChapterHubClient({ level, chapters, comics }: LevelChapterHubClientProps) {
   const lv = level.toLowerCase();
   const label = lv.toUpperCase();
   const { progress } = useProgress();
@@ -120,6 +123,8 @@ export default function LevelChapterHubClient({ level, chapters }: LevelChapterH
             <BadgeGallery className="mt-4" showLocked={false} />
           </section>
         ) : null}
+
+        <ComicDashboardWidget level={lv} comics={comics} />
       </main>
     </div>
   );

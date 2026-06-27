@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Comic cover: First Day at School">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e1b4b"/>
+      <stop offset="50%" style="stop-color:#312e81"/>
+      <stop offset="100%" style="stop-color:#4c1d95"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#22d3ee"/>
+      <stop offset="100%" style="stop-color:#e879f9"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <rect x="40" y="40" width="720" height="520" rx="16" fill="none" stroke="url(#accent)" stroke-width="6"/>
+  <text x="400" y="200" text-anchor="middle" fill="#e0e7ff" font-family="system-ui,sans-serif" font-size="28" font-weight="800">Åfnf!</text>
+  <text x="400" y="260" text-anchor="middle" fill="#a5b4fc" font-family="system-ui,sans-serif" font-size="18">First Day at School</text>
+  <circle cx="400" cy="380" r="80" fill="#6366f1" opacity="0.6"/>
+  <rect x="320" y="300" width="160" height="200" rx="8" fill="#818cf8"/>
+  <text x="400" y="530" text-anchor="middle" fill="#c4b5fd" font-family="system-ui,sans-serif" font-size="14">N5 ∑ Comic Story</text>
+</svg>

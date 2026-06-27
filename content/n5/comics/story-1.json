@@ -1,0 +1,106 @@
+{
+  "id": "n5-comic-1",
+  "title": "First Day at School",
+  "difficulty": "N5",
+  "estimatedReadingTime": "4 min",
+  "coverImage": "/comics/n5/story-1/cover.svg",
+  "vocabularyUsed": [
+    {
+      "word": "学校",
+      "reading": "がっこう",
+      "meaning": "school",
+      "example": "学校は八時からです。"
+    },
+    {
+      "word": "学生",
+      "reading": "がくせい",
+      "meaning": "student",
+      "example": "私は学生です。"
+    },
+    {
+      "word": "先生",
+      "reading": "せんせい",
+      "meaning": "teacher",
+      "example": "田中先生はやさしいです。"
+    },
+    {
+      "word": "初めて",
+      "reading": "はじめて",
+      "meaning": "for the first time",
+      "example": "日本に初めて来ました。"
+    },
+    {
+      "word": "緊張",
+      "reading": "きんちょう",
+      "meaning": "nervousness, tension",
+      "example": "試験の前で緊張します。"
+    }
+  ],
+  "grammarUsed": [
+    {
+      "pattern": "〜です",
+      "meaning": "polite copula — is/am/are",
+      "example": "私は学生です。"
+    },
+    {
+      "pattern": "〜ます",
+      "meaning": "polite verb ending",
+      "example": "毎日学校に行きます。"
+    },
+    {
+      "pattern": "〜が好きです",
+      "meaning": "to like something",
+      "example": "日本語が好きです。"
+    }
+  ],
+  "pages": [
+    {
+      "panelNumber": 1,
+      "sceneDescription": "A nervous student stands at the school gate on a bright morning.",
+      "japanese": "今日は学校の初めての日です。とても緊張します！",
+      "furigana": "きょうは がっこうの はじめてのひです。とても きんちょうします！",
+      "english": "Today is my first day of school. I'm so nervous!",
+      "image": "/comics/n5/story-1/panel-1.svg"
+    },
+    {
+      "panelNumber": 2,
+      "sceneDescription": "A friendly teacher waves from the entrance.",
+      "japanese": "先生：「おはようございます！あなたは新しい学生ですか？」",
+      "furigana": "せんせい：「おはようございます！あなたは あたらしい がくせいですか？」",
+      "english": "Teacher: \"Good morning! Are you a new student?\"",
+      "image": "/comics/n5/story-1/panel-2.svg"
+    },
+    {
+      "panelNumber": 3,
+      "sceneDescription": "The student bows politely.",
+      "japanese": "学生：「はい、私は学生です。よろしくお願いします。」",
+      "furigana": "がくせい：「はい、わたしは がくせいです。よろしく おねがいします。」",
+      "english": "Student: \"Yes, I'm a student. Nice to meet you.\"",
+      "image": "/comics/n5/story-1/panel-3.svg"
+    },
+    {
+      "panelNumber": 4,
+      "sceneDescription": "The teacher leads the student down a hallway lined with classroom doors.",
+      "japanese": "先生：「この学校は大きいです。教室はあちらです。」",
+      "furigana": "せんせい：「この がっこうは おおきいです。きょうしつは あちらです。」",
+      "english": "Teacher: \"This school is big. The classroom is over there.\"",
+      "image": "/comics/n5/story-1/panel-4.svg"
+    },
+    {
+      "panelNumber": 5,
+      "sceneDescription": "Inside the classroom, classmates smile and wave.",
+      "japanese": "クラスメート：「日本語が好きですか？」",
+      "furigana": "くらすめーと：「にほんごが すきですか？」",
+      "english": "Classmate: \"Do you like Japanese?\"",
+      "image": "/comics/n5/story-1/panel-5.svg"
+    },
+    {
+      "panelNumber": 6,
+      "sceneDescription": "The student smiles, feeling relieved and happy.",
+      "japanese": "学生：「はい、大好きです！今日は楽しいです。」",
+      "furigana": "がくせい：「はい、だいすきです！きょうは たのしいです。」",
+      "english": "Student: \"Yes, I love it! Today is fun.\"",
+      "image": "/comics/n5/story-1/panel-6.svg"
+    }
+  ]
+}

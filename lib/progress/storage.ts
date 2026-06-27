@@ -23,6 +23,7 @@ function parseProgress(raw: string | null): UserProgress {
       streakDays: typeof data.streakDays === "number" ? data.streakDays : 0,
       lastActiveDate: typeof data.lastActiveDate === "string" ? data.lastActiveDate : "",
       chapters: data.chapters && typeof data.chapters === "object" ? data.chapters : {},
+      comics: data.comics && typeof data.comics === "object" ? data.comics : {},
       badges: Array.isArray(data.badges) ? data.badges : [],
       dailyXp: data.dailyXp && typeof data.dailyXp === "object" ? data.dailyXp : {},
     };

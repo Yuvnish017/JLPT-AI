@@ -8,6 +8,15 @@ export type QuizScoreRecord = {
   completedAt: string;
 };
 
+export type ComicProgress = {
+  currentPanel: number;
+  completed: boolean;
+  xpEarned: number;
+  readingSeconds: number;
+  lastVisitedAt: string;
+  completedAt?: string;
+};
+
 export type ChapterProgress = {
   lessonProgress: number;
   tabsVisited: string[];
@@ -28,6 +37,7 @@ export type UserProgress = {
   streakDays: number;
   lastActiveDate: string;
   chapters: Record<string, ChapterProgress>;
+  comics: Record<string, ComicProgress>;
   badges: string[];
   dailyXp: Record<string, number>;
 };
@@ -54,4 +64,17 @@ export type UpdateLessonInput = {
   slug: string;
   lessonProgress: number;
   tabId?: string;
+};
+
+export type UpdateComicPanelInput = {
+  level: string;
+  storyId: string;
+  panelIndex: number;
+  readingSecondsDelta?: number;
+};
+
+export type CompleteComicInput = {
+  level: string;
+  storyId: string;
+  readingSeconds: number;
 };
