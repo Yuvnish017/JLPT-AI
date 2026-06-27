@@ -1,6 +1,6 @@
 "use client";
 
-import Image from "next/image";
+import ComicImage from "@/components/comic/ComicImage";
 import { useState, type ReactNode } from "react";
 import type { ComicPanel as ComicPanelType } from "@/types/comic";
 import type { Grammar, Vocabulary } from "@/types/lesson";
@@ -83,7 +83,7 @@ export default function ComicPanel({
       <div className="relative overflow-hidden rounded-2xl border-4 border-slate-950 bg-slate-800 shadow-2xl shadow-black/40">
         <div className="relative aspect-[4/3] w-full">
           {!imgError ? (
-            <Image
+            <ComicImage
               src={panel.image}
               alt={panel.sceneDescription}
               fill

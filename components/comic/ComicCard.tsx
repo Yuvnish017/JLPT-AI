@@ -1,6 +1,6 @@
 "use client";
 
-import Image from "next/image";
+import ComicImage from "@/components/comic/ComicImage";
 import Link from "next/link";
 import { motion } from "framer-motion";
 import type { ComicListItem } from "@/types/comic";
@@ -29,7 +29,7 @@ export default function ComicCard({ level, comic, comicProgress, index = 0 }: Co
     >
       <article className="overflow-hidden rounded-2xl border border-white/10 bg-slate-900/60 backdrop-blur-xl transition duration-300 hover:-translate-y-1 hover:border-fuchsia-400/35 hover:shadow-xl hover:shadow-fuchsia-500/10">
         <div className="relative aspect-[4/3] overflow-hidden bg-gradient-to-br from-slate-800 via-slate-900 to-violet-950">
-          <Image
+          <ComicImage
             src={comic.coverImage}
             alt=""
             fill
