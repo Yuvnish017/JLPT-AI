@@ -80,33 +80,23 @@ export default function ComicPanel({
 
   return (
     <div className="flex flex-col gap-4">
-      <div className="relative overflow-hidden rounded-2xl border-4 border-slate-950 bg-slate-800 shadow-2xl shadow-black/40">
-        <div className="relative aspect-[4/3] w-full">
-          {!imgError ? (
-            <ComicImage
-              src={panel.image}
-              alt={panel.sceneDescription}
-              fill
-              className="object-cover"
-              sizes="(max-width: 768px) 100vw, 720px"
-              onError={() => setImgError(true)}
-              priority
-            />
-          ) : (
-            <div className="flex h-full flex-col items-center justify-center bg-gradient-to-br from-indigo-900 via-slate-800 to-fuchsia-900 p-8 text-center">
-              <div className="mb-4 grid grid-cols-3 gap-1 opacity-30">
-                {Array.from({ length: 9 }).map((_, n) => (
-                  <div key={n} className="h-2 w-2 rounded-full bg-white" />
-                ))}
-              </div>
-              <p className="text-[10px] font-bold tracking-[0.3em] text-fuchsia-300/80 uppercase">
-                Scene {panel.panelNumber}
-              </p>
-              <p className="mt-2 max-w-sm text-sm text-slate-300">{panel.sceneDescription}</p>
-            </div>
-          )}
-          <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-slate-950/30 to-transparent" />
-        </div>
+      <div className="overflow-hidden rounded-2xl border-4 border-slate-950 bg-white shadow-2xl shadow-black/40">
+        {!imgError ? (
+          <ComicImage
+            src={panel.image}
+            alt={panel.sceneDescription}
+            variant="panel"
+            onError={() => setImgError(true)}
+            priority
+          />
+        ) : (
+          <div className="flex min-h-[200px] flex-col items-center justify-center bg-neutral-100 p-8 text-center">
+            <p className="text-[10px] font-bold tracking-[0.3em] text-slate-500 uppercase">
+              Scene {panel.panelNumber}
+            </p>
+            <p className="mt-2 max-w-sm text-sm text-slate-600">{panel.sceneDescription}</p>
+          </div>
+        )}
       </div>
 
       {grammar.length > 0 ? (

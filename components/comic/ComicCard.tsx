@@ -28,15 +28,15 @@ export default function ComicCard({ level, comic, comicProgress, index = 0 }: Co
       className="group"
     >
       <article className="overflow-hidden rounded-2xl border border-white/10 bg-slate-900/60 backdrop-blur-xl transition duration-300 hover:-translate-y-1 hover:border-fuchsia-400/35 hover:shadow-xl hover:shadow-fuchsia-500/10">
-        <div className="relative aspect-[4/3] overflow-hidden bg-gradient-to-br from-slate-800 via-slate-900 to-violet-950">
+        <div className="relative aspect-[2/3] overflow-hidden bg-white">
           <ComicImage
             src={comic.coverImage}
             alt=""
-            fill
-            className="object-cover transition duration-500 group-hover:scale-105"
+            variant="thumbnail"
+            className="transition duration-500 group-hover:scale-[1.02]"
             sizes="(max-width: 640px) 100vw, 320px"
           />
-          <div className="absolute inset-0 bg-gradient-to-t from-slate-950/90 via-slate-950/20 to-transparent" />
+          <div className="pointer-events-none absolute inset-x-0 bottom-0 bg-gradient-to-t from-slate-950/95 via-slate-950/50 to-transparent pt-16" />
           {completed ? (
             <span className="absolute right-3 top-3 rounded-full border border-emerald-400/40 bg-emerald-500/20 px-2.5 py-1 text-[10px] font-bold tracking-wider text-emerald-200 uppercase backdrop-blur-sm">
               ✓ Complete

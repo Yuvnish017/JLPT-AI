@@ -6,7 +6,8 @@ import type { ImgHTMLAttributes } from "react";
 export type ComicImageProps = {
   src: string;
   alt: string;
-  fill?: boolean;
+  /** "panel" = full-width reader art; "thumbnail" = cover card */
+  variant?: "panel" | "thumbnail";
   className?: string;
   sizes?: string;
   priority?: boolean;
@@ -18,33 +19,41 @@ function isSvgSrc(src: string): boolean {
 }
 
 /**
- * Comic assets may be SVG placeholders or raster panels (.webp).
- * next/image blocks SVG optimization in production — use a plain img for SVGs.
+ * Comic assets may be SVG or raster (.webp).
+ * SVGs use plain img (next/image blocks them in production).
+ * Panels preserve intrinsic aspect ratio — no cropping.
  */
 export default function ComicImage({
   src,
   alt,
-  fill = false,
+  variant = "panel",
   className = "",
   sizes,
   priority,
   onError,
 }: ComicImageProps) {
-  if (isSvgSrc(src)) {
-    if (fill) {
-      return (
-        // eslint-disable-next-line @next/next/no-img-element
-        <img
-          src={src}
-          alt={alt}
-          onError={onError}
-          className={`absolute inset-0 h-full w-full object-cover ${className}`}
-        />
-      );
-    }
+  if (variant === "panel") {
     return (
       // eslint-disable-next-line @next/next/no-img-element
-      <img src={src} alt={alt} onError={onError} className={className} />
+      <img
+        src={src}
+        alt={alt}
+        onError={onError}
+        className={`block h-auto w-full ${className}`}
+      />
+    );
+  }
+
+  // Thumbnail (cover cards) — portrait-friendly frame, no crop
+  if (isSvgSrc(src)) {
+    return (
+      // eslint-disable-next-line @next/next/no-img-element
+      <img
+        src={src}
+        alt={alt}
+        onError={onError}
+        className={`absolute inset-0 h-full w-full object-contain ${className}`}
+      />
     );
   }
 
@@ -52,9 +61,9 @@ export default function ComicImage({
     <Image
       src={src}
       alt={alt}
-      fill={fill}
-      className={className}
-      sizes={sizes}
+      fill
+      className={`object-contain ${className}`}
+      sizes={sizes ?? "(max-width: 640px) 100vw, 320px"}
       priority={priority}
       onError={onError}
     />
